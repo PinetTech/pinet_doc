@@ -168,7 +168,7 @@
 	<string>
 		<id>_what_of_num_virtual_environment_s_was_scheduled_ok</id>
 		<c>CC|Backup warning message</c>
-		<val>%what%的%num% Container(s)已经被成功的列入计划。</val>
+		<val>%what%的%num% 容器已经被成功的列入计划。</val>
 	</string>
 	<string>
 		<id>_year</id>
@@ -272,7 +272,7 @@
 	<string>
 		<id>acc_director_uc</id>
 		<c>Menu</c>
-		<val>帐户主管</val>
+		<val>账户管理</val>
 	</string>
 	<string>
 		<id>acc_doc</id>
@@ -933,17 +933,17 @@
 	<string>
 		<id>ad_act_ez_rpms_vps_install</id>
 		<c>Application Director | Action title</c>
-		<val>在Container中安装EZ RPM程序包</val>
+		<val>在容器中安装EZ RPM程序包</val>
 	</string>
 	<string>
 		<id>ad_act_ez_rpms_vps_uninstall</id>
 		<c>Application Director | Action title</c>
-		<val>从Container卸载EZ RPM程序包</val>
+		<val>从容器卸载EZ RPM程序包</val>
 	</string>
 	<string>
 		<id>ad_act_ez_rpms_vps_upgrade</id>
 		<c>Application Director | Action title</c>
-		<val>升级Container中的EZ RPM程序包</val>
+		<val>升级容器中的EZ RPM程序包</val>
 	</string>
 	<string>
 		<id>ad_act_register_tmpls_from_hn</id>
@@ -998,12 +998,12 @@
 	<string>
 		<id>ad_app_could_install_ve_hight</id>
 		<c>Application Director:  Error message</c>
-		<val>应用程序无法安装在Container中。请先删除所有更高版本的应用程序。</val>
+		<val>应用程序无法安装在容器中。请先删除所有更高版本的应用程序。</val>
 	</string>
 	<string>
 		<id>ad_app_could_install_ves_hight</id>
 		<c>Application Director:  Error message</c>
-		<val>%app%无法安装在%num% Container中。请删除所有更高版本的应用程序并重试。</val>
+		<val>%app%无法安装在%num% 容器中。请删除所有更高版本的应用程序并重试。</val>
 	</string>
 	<string>
 		<id>ad_app_deps_title</id>
@@ -1048,7 +1048,7 @@
 	<string>
 		<id>ad_err_app_unset_failed_vps</id>
 		<c>Application Director | Error message</c>
-		<val>无法从硬件节点“%node%”中取消“%template%”。%num%个附带该应用程序的Container已被挂载到硬件节点中。</val>
+		<val>无法从硬件节点“%node%”中取消“%template%”。%num%个附带该应用程序的容器已被挂载到硬件节点中。</val>
 	</string>
 	<string>
 		<id>ad_err_hn_id_undefined</id>
@@ -1093,7 +1093,7 @@
 	<string>
 		<id>ad_err_os_unset_failed_vps</id>
 		<c>Application Director | Error message</c>
-		<val>无法取消硬件节点“%node%”的“%template%”。%num%个基于此操作系统模板的Container已被装载到硬件节点中。</val>
+		<val>无法取消硬件节点“%node%”的“%template%”。%num%个基于此操作系统模板的容器已被装载到硬件节点中。</val>
 	</string>
 	<string>
 		<id>ad_err_pkg_both_req_conflict</id>
@@ -1128,7 +1128,7 @@
 	<string>
 		<id>ad_err_vz_tmpl_rep_not_exists</id>
 		<c>Application Director | Error message</c>
-		<val>Parallels Containers模板库无法访问。</val>
+		<val>Parallels 容器模板库无法访问。</val>
 	</string>
 	<string>
 		<id>ad_err_vza_internal</id>
@@ -1502,7 +1502,7 @@
 	<string>
 		<id>add_new_ve</id>
 		<c>long action description for Action Log ('descr' table)</c>
-		<val>添加新Container</val>
+		<val>添加新容器</val>
 	</string>
 	<string>
 		<id>add_new_vhost</id>
@@ -1652,12 +1652,12 @@
 	<string>
 		<id>additional_ve_setup_fee</id>
 		<c>Billing</c>
-		<val>附加的Container配置费</val>
+		<val>附加的容器配置费</val>
 	</string>
 	<string>
 		<id>additional_ve_subscription_fee</id>
 		<c>Billing</c>
-		<val>附加的Container订费</val>
+		<val>附加的容器订费</val>
 	</string>
 	<string>
 		<id>additive_uc</id>
@@ -2061,22 +2061,22 @@
 	<string>
 		<id>afm_capture_approved_payment_method_approved</id>
 		<c>Event Manager|Events|Event|Actions|Event type name</c>
-		<val>获批的支付方式已由反欺诈主管在获取阶段批准</val>
+		<val>获批的支付方式已由反欺诈管理在获取阶段批准</val>
 	</string>
 	<string>
 		<id>afm_capture_approved_payment_method_declined</id>
 		<c>Event Manager|Events|Event|Actions|Event type name</c>
-		<val>获批的支付方式在获取阶段由反欺诈主管拒绝</val>
+		<val>获批的支付方式在获取阶段由反欺诈管理拒绝</val>
 	</string>
 	<string>
 		<id>afm_capture_new_payment_method_approved</id>
 		<c>Event Manager|Events|Event|Actions|Event type name</c>
-		<val>新支付方式由反欺诈主管在获取阶段批准</val>
+		<val>新支付方式由反欺诈管理在获取阶段批准</val>
 	</string>
 	<string>
 		<id>afm_capture_new_payment_method_declined</id>
 		<c>Event Manager|Events|Event|Actions|Event type name</c>
-		<val>新支付方式在获取阶段由反欺诈主管批准</val>
+		<val>新支付方式在获取阶段由反欺诈管理批准</val>
 	</string>
 	<string>
 		<id>afm_chain_approve_threshold_view</id>
@@ -2874,12 +2874,12 @@
 	<string>
 		<id>all_the_virtual_environments</id>
 		<c>Application Director | From title</c>
-		<val>所有Container</val>
+		<val>所有容器</val>
 	</string>
 	<string>
 		<id>all_the_virtual_environments_except_selected</id>
 		<c>Application Director | From title</c>
-		<val>除所选Container之外的所有Container</val>
+		<val>除所选容器之外的所有容器</val>
 	</string>
 	<string>
 		<id>all_upgradable_subscriptions</id>
@@ -2903,7 +2903,7 @@
 	</string>
 	<string>
 		<id>all_ves</id>
-		<val>所有Container</val>
+		<val>所有容器</val>
 	</string>
 	<string>
 		<id>all_yearly</id>
@@ -2928,7 +2928,7 @@
 	<string>
 		<id>allow_cpve_manage</id>
 		<c>OM hw node general settings | input label</c>
-		<val>允许客户从控制面板管理其Container</val>
+		<val>允许客户从控制面板管理其容器</val>
 	</string>
 	<string>
 		<id>allow_dom_reg</id>
@@ -2988,7 +2988,7 @@
 	<string>
 		<id>allow_new_ves</id>
 		<c>Hardware node parameter</c>
-		<val>允许新增Container</val>
+		<val>允许新增容器</val>
 	</string>
 	<string>
 		<id>allow_new_vms</id>
@@ -3017,12 +3017,12 @@
 	<string>
 		<id>allow_paid_webhosts_on_other_hw_nodes_if_listed_ones_are_overcommited_or_unavailable</id>
 		<c>text from Setup page in Infrastructure Manager</c>
-		<val>如果列出的非试用Container过载或不可用，则允许在其他的硬件节点上的非试用的Container。</val>
+		<val>如果列出的非试用容器过载或不可用，则允许在其他的硬件节点上的非试用的容器。</val>
 	</string>
 	<string>
 		<id>allow_paid_webhosts_uc</id>
 		<c>text from Setup page in Infrastructure Manager</c>
-		<val>允许非试用Container</val>
+		<val>允许非试用容器</val>
 	</string>
 	<string>
 		<id>allow_payments</id>
@@ -3077,12 +3077,12 @@
 	<string>
 		<id>allow_trial_ves_on_other_hw_nodes_if_listed_ones_are_overcommited_or_unavailable</id>
 		<c>text from Setup page in Infrastructure Manager</c>
-		<val>允许试用的Containers转移到其他硬件设备， 如果列出的那些无法使用或超出；</val>
+		<val>允许试用的容器转移到其他硬件设备， 如果列出的那些无法使用或超出；</val>
 	</string>
 	<string>
 		<id>allow_trial_virtual_environments_uc</id>
 		<c>text from Setup page in Infrastructure Manager</c>
-		<val>允许试用的Containers</val>
+		<val>允许试用的容器</val>
 	</string>
 	<string>
 		<id>allow_trial_webhosts_on_other_hw_nodes_if_listed_ones_are_overcommited_or_unavailable</id>
@@ -3207,7 +3207,7 @@
 	<string>
 		<id>am_err_defterm_req</id>
 		<c>Business Diriector|Account Manager|Accounts|Error message</c>
-		<val>在创建账户前，您需要在“帐户主管”&gt;“业务管理”&gt;“信用条款”中添加至少一个信用条款。</val>
+		<val>在创建账户前，您需要在“帐户管理”&gt;“业务管理”&gt;“信用条款”中添加至少一个信用条款。</val>
 	</string>
 	<string>
 		<id>amount</id>
@@ -3356,7 +3356,7 @@
 	<string>
 		<id>app_already_installed_into_ve</id>
 		<c>Application Director | Error message</c>
-		<val>应用程序已经安装在Container中。</val>
+		<val>应用程序已经安装在容器中。</val>
 	</string>
 	<string>
 		<id>app_already_installed_mn</id>
@@ -3416,7 +3416,7 @@
 	<string>
 		<id>app_dirctr_uc</id>
 		<c>Caption of node from left menu tree</c>
-		<val>应用总监</val>
+		<val>应用管理</val>
 	</string>
 	<string>
 		<id>app_err_uc</id>
@@ -3436,7 +3436,7 @@
 	<string>
 		<id>app_fqdn_req</id>
 		<c>PCC|IM|Error</c>
-		<val>应用程序"%app%”要求Container名称必须是完全合格的域名</val>
+		<val>应用程序"%app%”要求容器名称必须是完全合格的域名</val>
 	</string>
 	<string>
 		<id>app_id_could_not_be_enabled_in_hosting_plan_of_current_type</id>
@@ -3446,7 +3446,7 @@
 	<string>
 		<id>app_installed_in_vps</id>
 		<c>Configuration Direcrtor|Event Manager|Events|Event name</c>
-		<val>已将应用程序安装到Container中</val>
+		<val>已将应用程序安装到容器中</val>
 	</string>
 	<string>
 		<id>app_is_not_in_hp</id>
@@ -3621,7 +3621,7 @@
 	<string>
 		<id>app_uninstalled_in_vps</id>
 		<c>Configuration Direcrtor|Event Manager|Events|Event name</c>
-		<val>应用程序已从Container卸载</val>
+		<val>应用程序已从容器卸载</val>
 	</string>
 	<string>
 		<id>app_upd_canceled</id>
@@ -3636,7 +3636,7 @@
 	<string>
 		<id>app_upgraded_in_vps</id>
 		<c>Configuration Direcrtor|Event Manager|Events|Event name</c>
-		<val>应用程序升级已安装到Container</val>
+		<val>应用程序升级已安装到容器</val>
 	</string>
 	<string>
 		<id>app_wasnt_sync_with_hn</id>
@@ -3796,7 +3796,7 @@
 	<string>
 		<id>apps_are_scheduled_for_removing_from_ve</id>
 		<c>Application Director | Status message</c>
-		<val>应用程序已计划从Container中删除。</val>
+		<val>应用程序已计划从容器中删除。</val>
 	</string>
 	<string>
 		<id>apps_are_scheduled_for_sync</id>
@@ -3816,7 +3816,7 @@
 	<string>
 		<id>apps_will_be_installed_payment</id>
 		<c>Application Director:  Status message</c>
-		<val>已成功接受订单。接收支付后，订购的应用程序即被安装至Container中。</val>
+		<val>已成功接受订单。接收支付后，订购的应用程序即被安装至容器中。</val>
 	</string>
 	<string>
 		<id>appt_isnot_installed_on_hn</id>
@@ -3881,12 +3881,12 @@
 	<string>
 		<id>are_you_sure_to_destroy_vps</id>
 		<c>Infrastructure Manager -&gt; VPS Container</c>
-		<val>您确定要删除所选Container吗？</val>
+		<val>您确定要删除所选容器吗？</val>
 	</string>
 	<string>
 		<id>are_you_sure_to_recreate_vps</id>
 		<c>Infrastructure Manager -&gt; VPS Container</c>
-		<val>您确定要创建所选Container吗？</val>
+		<val>您确定要创建所选容器吗？</val>
 	</string>
 	<string>
 		<id>are_you_sure_want_rescan_remote_server</id>
@@ -4029,7 +4029,7 @@
 	<string>
 		<id>assign_hostnames_to_the_following_ve_uc</id>
 		<c>Fields Group Title</c>
-		<val>将主机名分配给下列Container</val>
+		<val>将主机名分配给下列容器</val>
 	</string>
 	<string>
 		<id>assign_hw_node</id>
@@ -4059,7 +4059,7 @@
 	<string>
 		<id>assign_nonwild_hostname</id>
 		<c>OM|error message</c>
-		<val>Container的主机名称不能仅是通配符。请为此Container指定至少一个非通配符的名称。</val>
+		<val>容器的主机名称不能仅是通配符。请为此容器指定至少一个非通配符的名称。</val>
 	</string>
 	<string>
 		<id>assign_pc_automatically_to_less_loaded_hwn</id>
@@ -4104,17 +4104,17 @@
 	<string>
 		<id>assign_to_this_ve</id>
 		<c>Solution in Conflicts Resolver</c>
-		<val>分配至此Container</val>
+		<val>分配至此容器</val>
 	</string>
 	<string>
 		<id>assign_ve_automatically_to_less_loaded_hwn</id>
 		<c>Form field label</c>
-		<val>自动将Container分配至较少负载的硬件节点</val>
+		<val>自动将容器分配至较少负载的硬件节点</val>
 	</string>
 	<string>
 		<id>assign_ve_manualy_to_hwn</id>
 		<c>Form filed label</c>
-		<val>向硬件节点手动分配Container</val>
+		<val>向硬件节点手动分配容器</val>
 	</string>
 	<string>
 		<id>assigned</id>
@@ -4728,7 +4728,7 @@
 	<string>
 		<id>backup_eval_failed</id>
 		<c>CP | Backup | Error message</c>
-		<val>操作包含不正确的perl代码(eval失败)。</val>
+		<val>操作包含不正确的perl代码(执行失败)。</val>
 	</string>
 	<string>
 		<id>backup_file</id>
@@ -4797,7 +4797,7 @@
 	<string>
 		<id>backuping_of_the_virtual_environment_was_scheduled_ok</id>
 		<c>CC|Backup warning message</c>
-		<val>已成功预定Container备份</val>
+		<val>已成功预定容器备份</val>
 	</string>
 	<string>
 		<id>backups</id>
@@ -4812,7 +4812,7 @@
 	<string>
 		<id>bad_practice_warning_ltxt</id>
 		<c>warning message</c>
-		<val>Container将被创建在分配至%owner_name%的硬件节点%hostname%上。</val>
+		<val>容器将被创建在分配至%owner_name%的硬件节点%hostname%上。</val>
 	</string>
 	<string>
 		<id>bad_xml_struct_missing_tag</id>
@@ -4891,7 +4891,7 @@
 	<string>
 		<id>bank_cor_acc</id>
 		<c>Bank corr account, extended attribute name</c>
-		<val>银行Corr.账户</val>
+		<val>银行账户</val>
 	</string>
 	<string>
 		<id>bank_name</id>
@@ -5318,7 +5318,7 @@
 	<string>
 		<id>billing_director_uc</id>
 		<c>Menu</c>
-		<val>计费主管</val>
+		<val>计费管理</val>
 	</string>
 	<string>
 		<id>billing_email</id>
@@ -5513,7 +5513,7 @@
 	<string>
 		<id>bk_storage_conds_4_ves_hosted_at_this_hw</id>
 		<c>OM | Backup configuration input label</c>
-		<val>在该硬件节点上托管的Container备份存储条件</val>
+		<val>在该硬件节点上托管的容器备份存储条件</val>
 	</string>
 	<string>
 		<id>bk_storage_conf_4_this_hw</id>
@@ -5811,7 +5811,7 @@
 	<string>
 		<id>business_drctr_uc</id>
 		<c>item in ProviderCC left menu</c>
-		<val>业务总监</val>
+		<val>业务管理</val>
 	</string>
 	<string>
 		<id>business_name_uc</id>
@@ -6124,7 +6124,7 @@
 	<string>
 		<id>can_not_del_hostname_for_ve_at_which_only_one_hostname</id>
 		<c>Domain registration</c>
-		<val>无法删除Container的最新主机名。</val>
+		<val>无法删除容器的最新主机名。</val>
 	</string>
 	<string>
 		<id>can_not_initialize_disk_quota</id>
@@ -6148,7 +6148,7 @@
 	</string>
 	<string>
 		<id>can_not_stop_ve</id>
-		<val>无法停止Container</val>
+		<val>无法停止容器</val>
 	</string>
 	<string>
 		<id>can_not_turn_disk_quota_on</id>
@@ -6207,7 +6207,7 @@
 	<string>
 		<id>cancelled_ve_ltxt</id>
 		<c>CP - no VPS Container screen</c>
-		<val>您已取消服务且您的Container已删除。</val>
+		<val>您已取消服务且您的容器已删除。</val>
 	</string>
 	<string>
 		<id>cannot_add_client_on_webhost</id>
@@ -6217,7 +6217,7 @@
 	<string>
 		<id>cannot_add_more_ip_addrs_the_max_num_exceeded</id>
 		<c>Javascript alert</c>
-		<val>不能添加更多的IP地址。已经超过了这个Container的静态IP地址的最大数量。</val>
+		<val>不能添加更多的IP地址。已经超过了这个容器的静态IP地址的最大数量。</val>
 	</string>
 	<string>
 		<id>cannot_add_more_ip_addrs_the_max_num_exceeded_ds</id>
@@ -6247,12 +6247,12 @@
 	<string>
 		<id>cannot_compile_and_save_sendmail_conf</id>
 		<c>CP | Mail</c>
-		<val>无法编译和保存sendmail配置</val>
+		<val>无法编译和保存发送邮件的配置</val>
 	</string>
 	<string>
 		<id>cannot_compile_sendmail_config</id>
 		<c>Sendmail</c>
-		<val>无法编译Sendmail配置文件：系统中未安装M4或未找到Sendmail M4配置文件。</val>
+		<val>无法编译发送邮件配置文件：系统中未安装M4或未找到发送邮件 M4配置文件。</val>
 	</string>
 	<string>
 		<id>cannot_create_backup_file</id>
@@ -6282,17 +6282,17 @@
 	<string>
 		<id>cannot_create_new_private_area_for_ve</id>
 		<c>error message from vztools</c>
-		<val>无法创建新的Container个人区域。</val>
+		<val>无法创建新的容器个人区域。</val>
 	</string>
 	<string>
 		<id>cannot_create_vps</id>
 		<c>Status message in VPS Containers</c>
-		<val>您无法创建新的Container，因为您尚未激活的Virtuozzo Container主机方案。</val>
+		<val>您无法创建新的容器，因为您尚未激活的Virtuozz容器主机方案。</val>
 	</string>
 	<string>
 		<id>cannot_create_vps_with_existing_id</id>
 		<c>Status message in VPS Containers</c>
-		<val>创建Container失败，因为在节点上找到了带有相同ID的Container。请从节点上删除冲突的Container并尝试重新创建环境。</val>
+		<val>创建容器失败，因为在节点上找到了带有相同ID的容器。请从节点上删除冲突的容器并尝试重新创建环境。</val>
 	</string>
 	<string>
 		<id>cannot_decrypt_pm</id>
@@ -6342,7 +6342,7 @@
 	<string>
 		<id>cannot_delete_tmpl_required</id>
 		<c>Error message</c>
-		<val>无法从Container中删除应用程序，因为下列应用程序需要此应用程序：%tmpls%。您应先将这些程序删除。</val>
+		<val>无法从容器中删除应用程序，因为下列应用程序需要此应用程序：%tmpls%。您应先将这些程序删除。</val>
 	</string>
 	<string>
 		<id>cannot_destroy_safeboot_private_area</id>
@@ -6382,7 +6382,7 @@
 	<string>
 		<id>cannot_find_any_backup_file_for_ve_id</id>
 		<c>CC|Backup Action error string</c>
-		<val>无法找到Container %id%的备份文件。</val>
+		<val>无法找到容器 %id%的备份文件。</val>
 	</string>
 	<string>
 		<id>cannot_find_platform_with_id</id>
@@ -6402,7 +6402,7 @@
 	<string>
 		<id>cannot_find_webhost_node_in_db_or_failed_connect</id>
 		<c>LM|error</c>
-		<val>无法找到Container %id%个人区域%code%。</val>
+		<val>无法找到容器 %id%个人区域%code%。</val>
 	</string>
 	<string>
 		<id>cannot_init_mysql</id>
@@ -6466,12 +6466,12 @@
 	<string>
 		<id>cannot_resolve_conflict</id>
 		<c>error message in Conflicts Resolver</c>
-		<val>无法解决冲突，因为从Container检索信息时出错。</val>
+		<val>无法解决冲突，因为从容器检索信息时出错。</val>
 	</string>
 	<string>
 		<id>cannot_restart_sendmail</id>
 		<c>CP | Mail</c>
-		<val>无法重新启动sendmail</val>
+		<val>无法重新启动发送邮件</val>
 	</string>
 	<string>
 		<id>cannot_restart_sysv_srv</id>
@@ -6486,7 +6486,7 @@
 	<string>
 		<id>cannot_restore_ve_id_with_status_status</id>
 		<c>CC|Backup Action error string</c>
-		<val>无法还原Container id%至%status%状态。</val>
+		<val>无法还原容器 id%至%status%状态。</val>
 	</string>
 	<string>
 		<id>cannot_save_mysql_order_info</id>
@@ -6696,7 +6696,7 @@
 	<string>
 		<id>cant_connect_ve</id>
 		<c>CP</c>
-		<val>无法连接至Container，重启您的Container并重试。</val>
+		<val>无法连接至容器，重启您的容器并重试。</val>
 	</string>
 	<string>
 		<id>cant_copy_fped</id>
@@ -6776,7 +6776,7 @@
 	<string>
 		<id>cant_create_ve_on_hw_nobilling</id>
 		<c>order description</c>
-		<val>无法在硬件节点#%hw_id%上创建Container。此处尚无计费信息。要在该硬件节点上创建一台Container，需要将其分配给一个业务。</val>
+		<val>无法在硬件节点#%hw_id%上创建容器。此处尚无计费信息。要在该硬件节点上创建一台容器，需要将其分配给一个业务。</val>
 	</string>
 	<string>
 		<id>cant_deactive_op_allowed</id>
@@ -6921,7 +6921,7 @@
 	<string>
 		<id>cant_destroy_ve</id>
 		<c>Billing</c>
-		<val>无法取消Container：%ERR%</val>
+		<val>无法取消容器：%ERR%</val>
 	</string>
 	<string>
 		<id>cant_disable_ca_for_hp_type</id>
@@ -6951,12 +6951,12 @@
 	<string>
 		<id>cant_exec_comm_explained</id>
 		<c>Channel Manager</c>
-		<val>当决定要将哪些管理节点安装至Container时，无法执行命令：%command%。</val>
+		<val>当决定要将哪些管理节点安装至容器时，无法执行命令：%command%。</val>
 	</string>
 	<string>
 		<id>cant_exec_script_in_ve</id>
 		<c>OM|Website</c>
-		<val>%wi%无法在Container中执行脚本：%error%</val>
+		<val>%wi%无法在容器中执行脚本：%error%</val>
 	</string>
 	<string>
 		<id>cant_find_attribute</id>
@@ -6986,7 +6986,7 @@
 	<string>
 		<id>cant_find_fp_in_ve</id>
 		<c>PCC|MG|Error message</c>
-		<val>在Container中无法找到FrontPage。</val>
+		<val>在容器中无法找到FrontPage。</val>
 	</string>
 	<string>
 		<id>cant_find_hp</id>
@@ -7011,7 +7011,7 @@
 	<string>
 		<id>cant_find_ip_explained</id>
 		<c>Channel Manager</c>
-		<val>当决定管理节点是否已安装到Container上时，无法找到Container IP地址</val>
+		<val>当决定管理节点是否已安装到容器上时，无法找到容器 IP地址</val>
 	</string>
 	<string>
 		<id>cant_find_nologin</id>
@@ -7070,7 +7070,7 @@
 	<string>
 		<id>cant_find_route_explained</id>
 		<c>Channel Manager</c>
-		<val>当决定管理节点是否已安装到Container上时，无法找到command /sbin/route</val>
+		<val>当决定管理节点是否已安装到容器上时，无法找到command /sbin/route</val>
 	</string>
 	<string>
 		<id>cant_find_sel_hp</id>
@@ -7085,22 +7085,22 @@
 	<string>
 		<id>cant_find_sel_ve</id>
 		<c>PCC|MG|Error message</c>
-		<val>无法找到所选的Container。</val>
+		<val>无法找到所选的容器。</val>
 	</string>
 	<string>
 		<id>cant_find_ve</id>
 		<c>VPS Container message</c>
-		<val>无法找到Container (id = %ve_id%)</val>
+		<val>无法找到容器 (id = %ve_id%)</val>
 	</string>
 	<string>
 		<id>cant_find_ve_inc_curr_dom</id>
 		<c>PCC|MG|Error message</c>
-		<val>无法找到包含当前网站的Container。</val>
+		<val>无法找到包含当前网站的容器。</val>
 	</string>
 	<string>
 		<id>cant_find_ve_restart_mig</id>
 		<c>PCC|MG|Error message</c>
-		<val>无法找到任何Container。请重启迁移过程。</val>
+		<val>无法找到任何容器。请重启迁移过程。</val>
 	</string>
 	<string>
 		<id>cant_find_web_acc</id>
@@ -7214,7 +7214,7 @@
 	<string>
 		<id>cant_move_csr_config_file</id>
 		<c>Error message</c>
-		<val>无法将CSR系统配置文件移至Container。</val>
+		<val>无法将CSR系统配置文件移至容器。</val>
 	</string>
 	<string>
 		<id>cant_open_file</id>
@@ -7229,7 +7229,7 @@
 	<string>
 		<id>cant_opve_subscr_onhold</id>
 		<c>PCC: VPS Container management</c>
-		<val>在业务保持期间，Container %hostname%无法启动。请先激活业务。</val>
+		<val>在业务保持期间，容器 %hostname%无法启动。请先激活业务。</val>
 	</string>
 	<string>
 		<id>cant_paid_zerobalance</id>
@@ -7284,7 +7284,7 @@
 	<string>
 		<id>cant_register_vps_webhost_node</id>
 		<c>OD|Infrastructure Manager|Error message</c>
-		<val>无法注册Container作为Plesk硬件节点：%error%。</val>
+		<val>无法注册容器作为Plesk硬件节点：%error%。</val>
 	</string>
 	<string>
 		<id>cant_release_ip_from_VPS_hn</id>
@@ -7339,7 +7339,7 @@
 	<string>
 		<id>cant_sel_ve_while_state</id>
 		<c>CACP VPS Container list</c>
-		<val>无法选择%state%下的Container。</val>
+		<val>无法选择%state%下的容器。</val>
 	</string>
 	<string>
 		<id>cant_set_ip_address_to_vm</id>
@@ -7404,7 +7404,7 @@
 	<string>
 		<id>cant_use_reg_ve_for_res</id>
 		<c>Conflict Resolver|Error message</c>
-		<val>无法使用注册的Container进行解析。</val>
+		<val>无法使用注册的容器进行解析。</val>
 	</string>
 	<string>
 		<id>cant_write_file_similar_dir_exist</id>
@@ -8152,7 +8152,7 @@
 	<string>
 		<id>change_veid_explained</id>
 		<c>Conflict Resolver</c>
-		<val>更改冲突Container的ID，并创建新业务</val>
+		<val>更改冲突容器的ID，并创建新业务</val>
 	</string>
 	<string>
 		<id>change_webhost_ip_uc</id>
@@ -8323,7 +8323,7 @@ setup fees</c>
 	<string>
 		<id>checking_before_migration</id>
 		<c>PCC | Domain Manager| NS registration| Warning message</c>
-		<val>迁移Container %ve_name%之前，检查目标硬件节点%hw_name%</val>
+		<val>迁移容器 %ve_name%之前，检查目标硬件节点%hw_name%</val>
 	</string>
 	<string>
 		<id>chg</id>
@@ -8496,7 +8496,7 @@ once payment will be received</c>
 	<string>
 		<id>clean_bus_dves</id>
 		<c>OM backup settings | input label</c>
-		<val>清除已删除的Container备份</val>
+		<val>清除已删除的容器备份</val>
 	</string>
 	<string>
 		<id>clear</id>
@@ -8686,7 +8686,7 @@ once payment will be received</c>
 	<string>
 		<id>cmd_execution_err_inside_ve</id>
 		<c>error message from vztools</c>
-		<val>Container中的命令执行错误。</val>
+		<val>容器中的命令执行错误。</val>
 	</string>
 	<string>
 		<id>cmd_string</id>
@@ -9178,7 +9178,7 @@ once payment will be received</c>
 	<string>
 		<id>commerce_director_uc</id>
 		<c>Menu</c>
-		<val>商务总监</val>
+		<val>商务管理</val>
 	</string>
 	<string>
 		<id>common_reasons_uc</id>
@@ -9380,7 +9380,7 @@ once payment will be received</c>
 	<string>
 		<id>confict_with_ve</id>
 		<c>Conflict Resolver message</c>
-		<val>与Container冲突</val>
+		<val>与容器冲突</val>
 	</string>
 	<string>
 		<id>config</id>
@@ -9400,7 +9400,7 @@ once payment will be received</c>
 	<string>
 		<id>config_director_uc</id>
 		<c>Menu</c>
-		<val>配置总监</val>
+		<val>配置管理</val>
 	</string>
 	<string>
 		<id>configuration</id>
@@ -9469,12 +9469,12 @@ once payment will be received</c>
 	</string>
 	<string>
 		<id>confl_ve_not_found</id>
-		<val>无法解决冲突。未找到冲突Container。</val>
+		<val>无法解决冲突。未找到冲突容器。</val>
 	</string>
 	<string>
 		<id>confl_veid_exist_in_hspc</id>
 		<c>Conflict Resolver</c>
-		<val>系统中已存在使用相同ID(%ve_id%)的Container。冲突的Container也与系统中注册的Container有相同的IP、OS模板和应用程序。</val>
+		<val>系统中已存在使用相同ID(%ve_id%)的容器。冲突的容器也与系统中注册的容器有相同的IP、OS模板和应用程序。</val>
 	</string>
 	<string>
 		<id>conflict</id>
@@ -9774,7 +9774,7 @@ once payment will be received</c>
 	<string>
 		<id>could_not_downgrade_nbh</id>
 		<c>PCC|BD|Billing Manager|Hosting Plans|Upgrade</c>
-		<val>无法降级常规Container到基于名称的Container。</val>
+		<val>无法降级常规容器到基于名称的容器。</val>
 	</string>
 	<string>
 		<id>could_not_download_file</id>
@@ -9819,7 +9819,7 @@ once payment will be received</c>
 	<string>
 		<id>could_not_find_installs_in_vps</id>
 		<c>Application Director | Error message</c>
-		<val>无法在Container #%ve_id%中找到%package%的安装</val>
+		<val>无法在容器 #%ve_id%中找到%package%的安装</val>
 	</string>
 	<string>
 		<id>could_not_find_item</id>
@@ -9869,7 +9869,7 @@ once payment will be received</c>
 	<string>
 		<id>could_not_found_any_ve_containing_domain</id>
 		<c>MT|MG</c>
-		<val>无法找到包含这个网站的Container</val>
+		<val>无法找到包含这个网站的容器</val>
 	</string>
 	<string>
 		<id>could_not_get_webhost_client_settings_for_</id>
@@ -9889,7 +9889,7 @@ once payment will be received</c>
 	<string>
 		<id>could_not_move_ve</id>
 		<c>error message from vztools</c>
-		<val>无法移动Container。</val>
+		<val>无法移动容器。</val>
 	</string>
 	<string>
 		<id>could_not_remove_old_private_area</id>
@@ -9899,7 +9899,7 @@ once payment will be received</c>
 	<string>
 		<id>couldnt_find_any_ve_inc_curr_dom</id>
 		<c>PCC|MG|Error message</c>
-		<val>无法找到任何包含当前网站的Container。</val>
+		<val>无法找到任何包含当前网站的容器。</val>
 	</string>
 	<string>
 		<id>couldnt_find_read_stored_xml</id>
@@ -10083,12 +10083,12 @@ once payment will be received</c>
 	<string>
 		<id>cp_backup_no_backup_found_ve_err</id>
 		<c>CP | Backup | Error</c>
-		<val>尚未找到Container #%ve_id%的备份服务。</val>
+		<val>尚未找到容器 #%ve_id%的备份服务。</val>
 	</string>
 	<string>
 		<id>cp_backup_no_ugm_service_err</id>
 		<c>CP | Backup | Error</c>
-		<val>无法找到Container #%ve_id%的UGM服务。</val>
+		<val>无法找到容器 #%ve_id%的UGM服务。</val>
 	</string>
 	<string>
 		<id>cp_backup_specify_at_least_one_dir_warn</id>
@@ -10143,7 +10143,7 @@ once payment will be received</c>
 	<string>
 		<id>cp_crontab_load_settings_ve_err</id>
 		<c>CP | Crontab | Error</c>
-		<val>从网站#%site_id%的Container加载crontab设置时出错</val>
+		<val>从网站#%site_id%的容器加载crontab设置时出错</val>
 	</string>
 	<string>
 		<id>cp_curdir_get_error</id>
@@ -10798,12 +10798,12 @@ once payment will be received</c>
 	<string>
 		<id>cp_uses_this_name_to_call_this_ve</id>
 		<c>CACP VPS Container props</c>
-		<val>控制面板使用该名称调用Container。</val>
+		<val>控制面板使用该名称调用容器。</val>
 	</string>
 	<string>
 		<id>cp_ve_obj_find_error</id>
 		<c>CP | Website | Error</c>
-		<val>无法找到Container。</val>
+		<val>无法找到容器。</val>
 	</string>
 	<string>
 		<id>cp_vesrv_sll_create_error</id>
@@ -11166,7 +11166,7 @@ once payment will be received</c>
 	<string>
 		<id>create_vps_ptr</id>
 		<c>BM | Tax | Setup</c>
-		<val>创建Container PTR记录</val>
+		<val>创建容器 PTR记录</val>
 	</string>
 	<string>
 		<id>created</id>
@@ -11206,7 +11206,7 @@ once payment will be received</c>
 	<string>
 		<id>creating_new_backup_for_ve_id</id>
 		<c>CC|Backup action log task name</c>
-		<val>为Container %id%创建一个新备份</val>
+		<val>为容器 %id%创建一个新备份</val>
 	</string>
 	<string>
 		<id>creating_uc</id>
@@ -11469,7 +11469,7 @@ once payment will be received</c>
 	<string>
 		<id>cur_num_ves_sb_less_eq_max</id>
 		<c>Office|Infrastructure Manager|HWHodes|HWNode|General|Error message</c>
-		<val>Container的最大数量应当比当前Container的数量多。</val>
+		<val>容器的最大数量应当比当前容器的数量多。</val>
 	</string>
 	<string>
 		<id>cur_sys_uc</id>
@@ -11579,7 +11579,7 @@ once payment will be received</c>
 	<string>
 		<id>curr_ve_qos_settings</id>
 		<c>Header in Conflicts Resolver</c>
-		<val>当前Container QoS设置</val>
+		<val>当前容器 QoS设置</val>
 	</string>
 	<string>
 		<id>currency</id>
@@ -11792,7 +11792,7 @@ once payment will be received</c>
 	<string>
 		<id>custom_resolv_conf</id>
 		<c>VPS Container resolver setup</c>
-		<val>在Container启动时不要覆盖对/etc/resolv.conf所做的任何更改</val>
+		<val>在容器启动时不要覆盖对/etc/resolv.conf所做的任何更改</val>
 	</string>
 	<string>
 		<id>custom_subscr_fee</id>
@@ -11817,7 +11817,7 @@ once payment will be received</c>
 	<string>
 		<id>customer_can_create_ves_on_his_dedicated_srv</id>
 		<c>Office|Billing|Customer can create VPS Containers on his dedicated server</c>
-		<val>客户可以在其专用服务器上创建Container</val>
+		<val>客户可以在其专用服务器上创建容器</val>
 	</string>
 	<string>
 		<id>customer_ip</id>
@@ -12554,7 +12554,7 @@ once payment will be received</c>
 	<string>
 		<id>def_ve_ip_changed</id>
 		<c>Office|Event Manager|Events</c>
-		<val>默认Container IP地址已更改</val>
+		<val>默认容器 IP地址已更改</val>
 	</string>
 	<string>
 		<id>default</id>
@@ -12569,7 +12569,7 @@ once payment will be received</c>
 	<string>
 		<id>default_hostname_no_ext_ip</id>
 		<c>Domain Manager</c>
-		<val>注意：这是Container #%ve_id%的默认主机名。它无法分配给外部IP地址。</val>
+		<val>注意：这是容器 #%ve_id%的默认主机名。它无法分配给外部IP地址。</val>
 	</string>
 	<string>
 		<id>default_hps</id>
@@ -12614,7 +12614,7 @@ once payment will be received</c>
 	<string>
 		<id>default_ve_hostname_not_found</id>
 		<c>VPS Container message</c>
-		<val>未找到所需的用于Container #%ve_id%的默认主机名“%hostname%”</val>
+		<val>未找到所需的用于容器 #%ve_id%的默认主机名“%hostname%”</val>
 	</string>
 	<string>
 		<id>define_native_tax_zone_in_this_tax_mode</id>
@@ -13049,17 +13049,17 @@ once payment will be received</c>
 	<string>
 		<id>destroy_this_ve</id>
 		<c>Solution in Conflicts Resolver</c>
-		<val>损坏该Container</val>
+		<val>损坏该容器</val>
 	</string>
 	<string>
 		<id>destroy_ve</id>
 		<c>long action description for Action Log ('descr' table)</c>
-		<val>损坏Container</val>
+		<val>损坏容器</val>
 	</string>
 	<string>
 		<id>destroy_ve_s_uc</id>
 		<c>action under VPS Container</c>
-		<val>损坏Container</val>
+		<val>损坏容器</val>
 	</string>
 	<string>
 		<id>destroyed</id>
@@ -13268,7 +13268,7 @@ once payment will be received</c>
 	<string>
 		<id>disable_ve</id>
 		<c>long action description for Action Log ('descr' table)</c>
-		<val>禁用Container</val>
+		<val>禁用容器</val>
 	</string>
 	<string>
 		<id>disable_vzpp</id>
@@ -13313,7 +13313,7 @@ once payment will be received</c>
 	<string>
 		<id>disabling_ve</id>
 		<c>short action description for Action Log ('descr' table)</c>
-		<val>正在禁用Container</val>
+		<val>正在禁用容器</val>
 	</string>
 	<string>
 		<id>disc_app_to</id>
@@ -15012,7 +15012,7 @@ once payment will be received</c>
 	<string>
 		<id>dm_tmpl_type_nbh_vps_uc</id>
 		<c>PCC | Domain Manager| DNS Template</c>
-		<val>NBH Container</val>
+		<val>NBH 容器</val>
 	</string>
 	<string>
 		<id>dm_tmpl_type_regular_vps_uc</id>
@@ -15027,7 +15027,7 @@ once payment will be received</c>
 	<string>
 		<id>dm_tmpl_type_webhost_client_uc</id>
 		<c>PCC | Domain Manager| DNS Template</c>
-		<val>常规Container</val>
+		<val>常规容器</val>
 	</string>
 	<string>
 		<id>dm_tmpl_type_webhost_shared_uc</id>
@@ -15418,7 +15418,7 @@ once payment will be received</c>
 	<string>
 		<id>dns_template_macros</id>
 		<c>Title for DNS templates</c>
-		<val>在下边的区域中，您可以使用变量%domain%，%ip%和%sve_ip%。他们会在实际开通Container时候被替代为正式的IP和域名。</val>
+		<val>在下边的区域中，您可以使用变量%domain%，%ip%和%sve_ip%。他们会在实际开通容器时候被替代为正式的IP和域名。</val>
 	</string>
 	<string>
 		<id>dns_template_mark_ok_uc</id>
@@ -16193,7 +16193,7 @@ once payment will be received</c>
 	<string>
 		<id>domain_another_acc</id>
 		<c>PCC|MG|Error</c>
-		<val>一些域名别名已经属于Parallels Business Automation - Standard上的不同账户:%acc_ids%。迁移并创建Container的过程无法开始。请修改远程服务器上的设置，或者在Parallels Business Automation - Standard上重新分配对应的账户。</val>
+		<val>一些域名别名已经属于Parallels Business Automation - Standard上的不同账户:%acc_ids%。迁移并创建容器的过程无法开始。请修改远程服务器上的设置，或者在Parallels Business Automation - Standard上重新分配对应的账户。</val>
 	</string>
 	<string>
 		<id>domain_be_specified</id>
@@ -16380,7 +16380,7 @@ once payment will be received</c>
 	<string>
 		<id>domain_provider_reasign</id>
 		<c>PCC|MG|Warning</c>
-		<val>域名%domains%属于服务商。在迁移完成后，这些域名将被分配给Container所有者。</val>
+		<val>域名%domains%属于服务商。在迁移完成后，这些域名将被分配给容器所有者。</val>
 	</string>
 	<string>
 		<id>domain_reg_err</id>
@@ -16544,7 +16544,7 @@ once payment will be received</c>
 	<string>
 		<id>dont_ass_domain_to_vps</id>
 		<c>PCC|Domain Manager</c>
-		<val>不要向Container分配网站</val>
+		<val>不要向容器分配网站</val>
 	</string>
 	<string>
 		<id>dont_calc_tax</id>
@@ -16624,7 +16624,7 @@ once payment will be received</c>
 	<string>
 		<id>downgrade_app_ive</id>
 		<c>Action name string</c>
-		<val>在Container中降级应用程序</val>
+		<val>在容器中降级应用程序</val>
 	</string>
 	<string>
 		<id>downgrades</id>
@@ -17504,7 +17504,7 @@ string</c>
 	<string>
 		<id>enable_ve</id>
 		<c>long action description for Action Log ('descr' table)</c>
-		<val>启用Container</val>
+		<val>启用容器</val>
 	</string>
 	<string>
 		<id>enable_vzpp</id>
@@ -17549,7 +17549,7 @@ string</c>
 	<string>
 		<id>enbl_boot_ve</id>
 		<c>long action description for Action Log ('descr' table)</c>
-		<val>启用和启动Container</val>
+		<val>启用和启动容器</val>
 	</string>
 	<string>
 		<id>enc_keys</id>
@@ -17893,12 +17893,12 @@ string</c>
 	<string>
 		<id>err_occured_tmpl_no_disk_space_info</id>
 		<c>Application Director:  Error message</c>
-		<val>解析模板的配置文件时发生错误。模板未提供关于估计的Container磁盘使用情况的信息。</val>
+		<val>解析模板的配置文件时发生错误。模板未提供关于估计的容器磁盘使用情况的信息。</val>
 	</string>
 	<string>
 		<id>err_occured_while_changing_app_autostart_set</id>
 		<c>Application Director:  Error message</c>
-		<val>在Container中更改应用程序自动启用设置时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在容器中更改应用程序自动启用设置时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_while_copying_keys_to_hw_node</id>
@@ -17913,7 +17913,7 @@ string</c>
 	<string>
 		<id>err_occured_while_restarting_app</id>
 		<c>Application Director:  Error message</c>
-		<val>在Container中重启应用程序时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在容器中重启应用程序时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_while_setting_up_shaper_on_hw_node</id>
@@ -17922,12 +17922,12 @@ string</c>
 	<string>
 		<id>err_occured_while_starting_app</id>
 		<c>Application Director:  Error message</c>
-		<val>在Container中启动应用程序时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在容器中启动应用程序时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_while_stopping_app</id>
 		<c>Application Director:  Error message</c>
-		<val>在Container中停止应用程序时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在容器中停止应用程序时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_while_unregistering_hw_node</id>
@@ -18226,7 +18226,7 @@ string</c>
 	<string>
 		<id>error_saviing_ve_config_ltxt</id>
 		<c>Error message</c>
-		<val>保存Container配置时出错。配置文件可能被毁坏。有关详细信息，请参阅Parallels Business Automation - Standard日志文件。可能是该Container的QoS设置不正确，或尚未向其分配主机名。</val>
+		<val>保存容器配置时出错。配置文件可能被毁坏。有关详细信息，请参阅Parallels Business Automation - Standard日志文件。可能是该容器的QoS设置不正确，或尚未向其分配主机名。</val>
 	</string>
 	<string>
 		<id>error_saving_website_conf</id>
@@ -18291,7 +18291,7 @@ string</c>
 	<string>
 		<id>error_while_updating_ve_parameters</id>
 		<c>Billing</c>
-		<val>更新Container参数时出错：%ERROR%</val>
+		<val>更新容器参数时出错：%ERROR%</val>
 	</string>
 	<string>
 		<id>errors_uc</id>
@@ -18321,27 +18321,27 @@ string</c>
 	<string>
 		<id>ev_action_afm_account_checked</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>反欺诈主管通知</val>
+		<val>反欺诈管理通知</val>
 	</string>
 	<string>
 		<id>ev_action_afm_new_order_checked</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>反欺诈主管通知</val>
+		<val>反欺诈管理通知</val>
 	</string>
 	<string>
 		<id>ev_action_afm_recurring_order_checked</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>反欺诈主管通知</val>
+		<val>反欺诈管理通知</val>
 	</string>
 	<string>
 		<id>ev_action_afm_trial_order_checked</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>反欺诈主管通知</val>
+		<val>反欺诈管理通知</val>
 	</string>
 	<string>
 		<id>ev_action_approved_payment_method_checked</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>反欺诈主管通知</val>
+		<val>反欺诈管理通知</val>
 	</string>
 	<string>
 		<id>ev_action_ca_not_aff</id>
@@ -18431,7 +18431,7 @@ string</c>
 	<string>
 		<id>ev_action_operate_ve</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>对Container执行的操作</val>
+		<val>对容器执行的操作</val>
 	</string>
 	<string>
 		<id>ev_action_order_not</id>
@@ -18446,7 +18446,7 @@ string</c>
 	<string>
 		<id>ev_action_payment_method_checked</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>反欺诈主管通知</val>
+		<val>反欺诈管理通知</val>
 	</string>
 	<string>
 		<id>ev_action_payment_not</id>
@@ -18496,12 +18496,12 @@ string</c>
 	<string>
 		<id>ev_action_subscr_ve_not</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>客户的业务Container通知</val>
+		<val>客户的业务容器通知</val>
 	</string>
 	<string>
 		<id>ev_action_subscr_ve_not_prov</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>提供商的业务Container通知</val>
+		<val>提供商的业务容器通知</val>
 	</string>
 	<string>
 		<id>ev_action_ticket_no_customers</id>
@@ -18536,12 +18536,12 @@ string</c>
 	<string>
 		<id>ev_action_ve_not</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>Container通知</val>
+		<val>容器通知</val>
 	</string>
 	<string>
 		<id>ev_action_ve_not_prov</id>
 		<c>Event Manager|Events|Event|Actions|Action type name</c>
-		<val>提供商Container通知</val>
+		<val>提供商容器通知</val>
 	</string>
 	<string>
 		<id>ev_action_vendor_not</id>
@@ -18656,7 +18656,7 @@ string</c>
 	<string>
 		<id>ev_no_free_ips_ve</id>
 		<c>Office|Event Manager|Events</c>
-		<val>Container静态IP地址空间不足</val>
+		<val>容器静态IP地址空间不足</val>
 	</string>
 	<string>
 		<id>ev_op_contains</id>
@@ -20751,7 +20751,7 @@ string</c>
 	<string>
 		<id>ev_ph_subscription_root_password</id>
 		<c>Event manager|Settings|Action setup|Place holder explanation</c>
-		<val>Container根密码</val>
+		<val>容器根密码</val>
 	</string>
 	<string>
 		<id>ev_ph_subscription_server_url</id>
@@ -20926,12 +20926,12 @@ string</c>
 	<string>
 		<id>ev_ph_ve_account_name</id>
 		<c>Event manager|Settings|Action setup|Place holder explanation</c>
-		<val>Container账户名</val>
+		<val>容器账户名</val>
 	</string>
 	<string>
 		<id>ev_ph_ve_hostname</id>
 		<c>Event manager|Settings|Action setup|Place holder explanation</c>
-		<val>Container主机名</val>
+		<val>容器主机名</val>
 	</string>
 	<string>
 		<id>ev_ph_ve_hw_name</id>
@@ -20946,7 +20946,7 @@ string</c>
 	<string>
 		<id>ev_ph_ve_ipaddress</id>
 		<c>Event manager|Settings|Action setup|Place holder explanation</c>
-		<val>Container IP地址</val>
+		<val>容器 IP地址</val>
 	</string>
 	<string>
 		<id>ev_ph_ve_ipaddresses</id>
@@ -20981,7 +20981,7 @@ string</c>
 	<string>
 		<id>ev_ph_vps_password</id>
 		<c>Event manager|Settings|Action setup|Place holder explanation</c>
-		<val>Container密码</val>
+		<val>容器密码</val>
 	</string>
 	<string>
 		<id>ev_ph_webhost_node_ipaddress</id>
@@ -21351,7 +21351,7 @@ string</c>
 	<string>
 		<id>exist_ip_can_be_used</id>
 		<c>CP | WACP | New Website</c>
-		<val>无法使用现有IP地址创建新网站。原因可能是该IP地址被其他不允许共享分配的IP地址的网站使用，或者无法为您的Container添加新的IP地址。</val>
+		<val>无法使用现有IP地址创建新网站。原因可能是该IP地址被其他不允许共享分配的IP地址的网站使用，或者无法为您的容器添加新的IP地址。</val>
 	</string>
 	<string>
 		<id>exist_mb_forward</id>
@@ -21942,7 +21942,7 @@ general info|Error message</c>
 	<string>
 		<id>fail_2connect_2ve</id>
 		<c>CP website log settings | error message</c>
-		<val>连接Container失败。</val>
+		<val>连接容器失败。</val>
 	</string>
 	<string>
 		<id>fail_2create_mailbox</id>
@@ -22002,7 +22002,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_2start_ve_trial_expired</id>
 		<c>majordomo</c>
-		<val>启动Container失败，因为试用期已过</val>
+		<val>启动容器失败，因为试用期已过</val>
 	</string>
 	<string>
 		<id>failed_add_dynamic_ip_addr</id>
@@ -22047,27 +22047,27 @@ general info|Error message</c>
 	<string>
 		<id>failed_copy_dump_into_ve_error</id>
 		<c>Migration Manager | Error message</c>
-		<val>复制转储文件到Container失败。%error%</val>
+		<val>复制转储文件到容器失败。%error%</val>
 	</string>
 	<string>
 		<id>failed_copy_dump_w_mysql_dbs_into_ve</id>
 		<c>Migration Manager| Error message</c>
-		<val>复制有MySQL数据库的转储文件到Container失败。</val>
+		<val>复制有MySQL数据库的转储文件到容器失败。</val>
 	</string>
 	<string>
 		<id>failed_copy_dump_w_website_content_into_ve</id>
 		<c>Migration Manager | Error message</c>
-		<val>复制带有“%hostname%”网站内容的转储文件到Container失败。</val>
+		<val>复制带有“%hostname%”网站内容的转储文件到容器失败。</val>
 	</string>
 	<string>
 		<id>failed_copy_dump_w_website_scripts_into_ve</id>
 		<c>Migration Manager | Error message</c>
-		<val>复制带有“%hostname%”网站脚本的转储文件到Container失败。</val>
+		<val>复制带有“%hostname%”网站脚本的转储文件到容器失败。</val>
 	</string>
 	<string>
 		<id>failed_copy_remote_file_into_ve</id>
 		<c>MT|MG</c>
-		<val>无法将远程文件%source%复制到Container %hostname%中</val>
+		<val>无法将远程文件%source%复制到容器 %hostname%中</val>
 	</string>
 	<string>
 		<id>failed_copy_user_home_directories_from_backup</id>
@@ -22087,7 +22087,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_create_mysql_usrs_and_dbs_in_ve</id>
 		<c>Migration Manager | Error message</c>
-		<val>在Container中创建MySQL用户和数据库失败。</val>
+		<val>在容器中创建MySQL用户和数据库失败。</val>
 	</string>
 	<string>
 		<id>failed_create_ssh_directory</id>
@@ -22172,7 +22172,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_find_web_site_in_ve</id>
 		<c>PCC|MG|Error message</c>
-		<val>在Container上查找网站%site%失败。</val>
+		<val>在容器上查找网站%site%失败。</val>
 	</string>
 	<string>
 		<id>failed_get_domains_data</id>
@@ -22182,7 +22182,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_get_ip_address_of_ve</id>
 		<c>MT|MG</c>
-		<val>获取Container“%hostname%”的IP地址失败。</val>
+		<val>获取容器“%hostname%”的IP地址失败。</val>
 	</string>
 	<string>
 		<id>failed_get_nbh_settings</id>
@@ -22317,7 +22317,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_release_ip_addr</id>
 		<c>Status message</c>
-		<val>释放IP地址失败。Container必须至少拥有一个IP地址。</val>
+		<val>释放IP地址失败。容器必须至少拥有一个IP地址。</val>
 	</string>
 	<string>
 		<id>failed_restore_db_from_dump</id>
@@ -22397,7 +22397,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_to_assign_ip_addr_to_ve</id>
 		<c>Status message, %s will be replaced by IP address</c>
-		<val>向Container分配%s IP地址失败。</val>
+		<val>向容器分配%s IP地址失败。</val>
 	</string>
 	<string>
 		<id>failed_to_assign_ip_addr_to_vm</id>
@@ -22407,7 +22407,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_to_assign_to_ve</id>
 		<c>Status message, %s will be replaced by IP address</c>
-		<val>向Container分配%s失败。</val>
+		<val>向容器分配%s失败。</val>
 	</string>
 	<string>
 		<id>failed_to_cancel_certificate_order</id>
@@ -22467,7 +22467,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_to_del_ve</id>
 		<c>Status message</c>
-		<val>删除Container失败。</val>
+		<val>删除容器失败。</val>
 	</string>
 	<string>
 		<id>failed_to_delete_hosting_plan</id>
@@ -22507,7 +22507,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_to_extract_mailboxes_from_dump_file_in_ve</id>
 		<c>MT|MG|ServiceManager</c>
-		<val>在Container %hostname%中从转储文件中提取邮箱失败</val>
+		<val>在容器 %hostname%中从转储文件中提取邮箱失败</val>
 	</string>
 	<string>
 		<id>failed_to_find_server</id>
@@ -22517,7 +22517,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_to_find_ve</id>
 		<c>MT|MG</c>
-		<val>查找Container失败</val>
+		<val>查找容器失败</val>
 	</string>
 	<string>
 		<id>failed_to_get_list_of_ip_addresses_from_server</id>
@@ -22577,7 +22577,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_to_release_ip_addr_for_running_ve</id>
 		<c>Status message</c>
-		<val>为运行Container释放IP地址失败。</val>
+		<val>为运行容器释放IP地址失败。</val>
 	</string>
 	<string>
 		<id>failed_to_release_ip_address_es</id>
@@ -22602,7 +22602,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_to_release_the_all_ip_addrs_for_running_ve</id>
 		<c>Status message</c>
-		<val>为正在运行的Container释放所有的IP地址失败。</val>
+		<val>为正在运行的容器释放所有的IP地址失败。</val>
 	</string>
 	<string>
 		<id>failed_to_request_on_demand_scan</id>
@@ -22657,27 +22657,27 @@ general info|Error message</c>
 	<string>
 		<id>failed_upload_authorized_keys_file_to_ve</id>
 		<c>MT|MG</c>
-		<val>上传authorized_keys文件到Container - %error%失败</val>
+		<val>上传authorized_keys文件到容器 - %error%失败</val>
 	</string>
 	<string>
 		<id>failed_upload_authorized_keys2_file_to_ve</id>
 		<c>MT|MG</c>
-		<val>上传authorized_keys2文件到Container失败 -- %error%</val>
+		<val>上传authorized_keys2文件到容器失败 -- %error%</val>
 	</string>
 	<string>
 		<id>failed_upload_ssh1_authf_from_ve_to_mn</id>
 		<c>Migration Manager | Error message</c>
-		<val>从Container上传SSH 1认证文件到管理节点失败。</val>
+		<val>从容器上传SSH 1认证文件到管理节点失败。</val>
 	</string>
 	<string>
 		<id>failed_upload_ssh2_authf_from_ve_to_mn</id>
 		<c>Migration Manager | Error message</c>
-		<val>从Container上传SSH 2认证文件到管理节点失败。</val>
+		<val>从容器上传SSH 2认证文件到管理节点失败。</val>
 	</string>
 	<string>
 		<id>failed_ve_access_check</id>
 		<c>PCC|MG|Error message</c>
-		<val>检查Container辅助功能失败。</val>
+		<val>检查容器辅助功能失败。</val>
 	</string>
 	<string>
 		<id>fake_webhost_client</id>
@@ -22923,7 +22923,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>file_inside_ve</id>
 		<c>CP|MG|form field</c>
-		<val>Container中的文件</val>
+		<val>容器中的文件</val>
 	</string>
 	<string>
 		<id>file_inuse_trylater</id>
@@ -24807,7 +24807,7 @@ element</c>
 	<string>
 		<id>hn_sel_has_max_num_ves</id>
 		<c>Infrastructure manager|VEs|New VE|Error message</c>
-		<val>您选择的硬件节点已承载Container的最大数目了。</val>
+		<val>您选择的硬件节点已承载容器的最大数目了。</val>
 	</string>
 	<string>
 		<id>hn_selection_conflicts_with_ims_ltxt</id>
@@ -24817,7 +24817,7 @@ element</c>
 	<string>
 		<id>hn_setup_uninstall_vzpp</id>
 		<c>HN Setup message</c>
-		<val>请从安装此Parallels Plesk服务器的Container中卸载Parallels Power Panel 应用程序(禁用离线管理)。</val>
+		<val>请从安装此Parallels Plesk服务器的容器中卸载Parallels Power Panel 应用程序(禁用离线管理)。</val>
 	</string>
 	<string>
 		<id>hn_unregistered_ok</id>
@@ -25051,12 +25051,12 @@ element</c>
 	<string>
 		<id>hostname_already_registered_for_another_ve</id>
 		<c>Status message, %s will be replaced by host nanme</c>
-		<val>主机名%s已被另一Container注册 。</val>
+		<val>主机名%s已被另一容器注册 。</val>
 	</string>
 	<string>
 		<id>hostname_attached_to_ve_already</id>
 		<c>PCC | Channel Manager | Hiding</c>
-		<val>所选的%hostname%主机名已关联到Container #%ve_id%。本域名不能被作为“代理商域名”来使用。</val>
+		<val>所选的%hostname%主机名已关联到容器 #%ve_id%。本域名不能被作为“代理商域名”来使用。</val>
 	</string>
 	<string>
 		<id>hostname_deleted_ok</id>
@@ -25076,7 +25076,7 @@ element</c>
 	<string>
 		<id>hostname_is_assigned_to_other_ve_with_id</id>
 		<c>OM|Website</c>
-		<val>主机名已分配给ID=%ve_id%的其他Container</val>
+		<val>主机名已分配给ID=%ve_id%的其他容器</val>
 	</string>
 	<string>
 		<id>hostname_lc</id>
@@ -25201,7 +25201,7 @@ element</c>
 	<string>
 		<id>hp_contains_incorrect_info_ltxt</id>
 		<c>error message while adding VPS Container</c>
-		<val>您所选的主机方案%plan_name%包含不正确的信息。%details%请修改该主机方案，或选择其他主机方案，或创建一个自定义Container。</val>
+		<val>您所选的主机方案%plan_name%包含不正确的信息。%details%请修改该主机方案，或选择其他主机方案，或创建一个自定义容器。</val>
 	</string>
 	<string>
 		<id>hp_copy_created_success</id>
@@ -25776,7 +25776,7 @@ element</c>
 	<string>
 		<id>hspc_mt_billing_order_ve_webhostserver_uc</id>
 		<c>Class name</c>
-		<val>Container主机订单</val>
+		<val>容器主机订单</val>
 	</string>
 	<string>
 		<id>hspc_mt_billing_order_vm_uc</id>
@@ -25856,7 +25856,7 @@ element</c>
 	<string>
 		<id>hspc_mt_billing_subscription_ve_uc</id>
 		<c>Class type name</c>
-		<val>Container业务</val>
+		<val>容器业务</val>
 	</string>
 	<string>
 		<id>hspc_mt_billing_subscription_vm_uc</id>
@@ -25896,7 +25896,7 @@ element</c>
 	<string>
 		<id>hspc_mt_bm_hp_ve_uc</id>
 		<c>HSPC::MT::BM::HP object name</c>
-		<val>Container主机方案</val>
+		<val>容器主机方案</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_hp_ve_webhost_uc</id>
@@ -26081,7 +26081,7 @@ element</c>
 	<string>
 		<id>hspc_mt_om_ve_uc</id>
 		<c>Class type name</c>
-		<val>Container</val>
+		<val>容器</val>
 	</string>
 	<string>
 		<id>hspc_mt_om_vm_uc</id>
@@ -26519,7 +26519,7 @@ element</c>
 	<string>
 		<id>hwn_not_conf_2bu_loc_ves</id>
 		<c>Backup action processing | error message</c>
-		<val>未配置硬件节点#%id%用于备份本地Container</val>
+		<val>未配置硬件节点#%id%用于备份本地容器</val>
 	</string>
 	<string>
 		<id>hwn_root_pwd</id>
@@ -26559,7 +26559,7 @@ element</c>
 	<string>
 		<id>i_like_2_purchase_hn_ltxt</id>
 		<c>field in Reseller Application form</c>
-		<val>我想购买一个专有硬件节点并作为一个整体而不是按我创建的每个Container支付这个硬件节点。</val>
+		<val>我想购买一个专有硬件节点并作为一个整体而不是按我创建的每个容器支付这个硬件节点。</val>
 	</string>
 	<string>
 		<id>i_remember_pwd</id>
@@ -26678,7 +26678,7 @@ element</c>
 	<string>
 		<id>im_alloc_type_nbh_title</id>
 		<c>IM | IP pool setup | Form field title</c>
-		<val>基于名称的Container的内部IP</val>
+		<val>基于名称的容器的内部IP</val>
 	</string>
 	<string>
 		<id>im_alloc_type_psbm_title</id>
@@ -26698,7 +26698,7 @@ element</c>
 	<string>
 		<id>im_confirm_release_ip_with_refund</id>
 		<c>Status message</c>
-		<val>IP地址将被释放，并且Container资源的费用将被退还。您确定要继续吗？</val>
+		<val>IP地址将被释放，并且容器资源的费用将被退还。您确定要继续吗？</val>
 	</string>
 	<string>
 		<id>im_confirm_release_ips</id>
@@ -26708,17 +26708,17 @@ element</c>
 	<string>
 		<id>im_confirm_release_ips_with_refund</id>
 		<c>Status message</c>
-		<val>IP地址将被释放，并且Container资源的费用将被退还。您确定要继续吗？</val>
+		<val>IP地址将被释放，并且容器资源的费用将被退还。您确定要继续吗？</val>
 	</string>
 	<string>
 		<id>im_err_add_ip_already_in_use</id>
 		<c>Error message</c>
-		<val>分配IP地址失败%ip_address%对Container. IP地址正在被使用。</val>
+		<val>分配IP地址失败%ip_address%对容器. IP地址正在被使用。</val>
 	</string>
 	<string>
 		<id>im_err_add_ip_already_in_use_subnet</id>
 		<c>Error message</c>
-		<val>分配IP地址失败%ip_address%对Container. IP地址正在被使用。</val>
+		<val>分配IP地址失败%ip_address%对容器. IP地址正在被使用。</val>
 	</string>
 	<string>
 		<id>im_err_add_ip_limit_reached</id>
@@ -26733,7 +26733,7 @@ element</c>
 	<string>
 		<id>im_err_ip_not_belongs_vps</id>
 		<c>Error message</c>
-		<val>未分配IP地址%ip_address%给Container。</val>
+		<val>未分配IP地址%ip_address%给容器。</val>
 	</string>
 	<string>
 		<id>im_err_ip_not_found_in_pools</id>
@@ -26782,7 +26782,7 @@ element</c>
 	<string>
 		<id>img_add_guide</id>
 		<c>SD|EV|ImagePopup</c>
-		<val>要插入图像，请从列表选择一种图像对齐方式，然后单击选定的图像。<br/>请注意：图像将被插入消息文本的末尾。<br/>要管理显示的图像列表，请使用"营销总监 | 品牌经理 | 图像和文件"</val>
+		<val>要插入图像，请从列表选择一种图像对齐方式，然后单击选定的图像。<br/>请注意：图像将被插入消息文本的末尾。<br/>要管理显示的图像列表，请使用"营销管理 | 品牌经理 | 图像和文件"</val>
 	</string>
 	<string>
 		<id>img_align</id>
@@ -27019,7 +27019,7 @@ element</c>
 	<string>
 		<id>impossible_manapp_inve_explained</id>
 		<c>CC | OM | VPS Container | Applications | Warn Message</c>
-		<val>无法在所选的Container中管理应用程序。因为业务是处于非活动状态，所有的Container操作都被阻止。要激活业务，请支付续订订单。</val>
+		<val>无法在所选的容器中管理应用程序。因为业务是处于非活动状态，所有的容器操作都被阻止。要激活业务，请支付续订订单。</val>
 	</string>
 	<string>
 		<id>ims_clickatell_desc</id>
@@ -27381,7 +27381,7 @@ element</c>
 	<string>
 		<id>install_app_into_ve</id>
 		<c>Application Director | Actions</c>
-		<val>安装应用程序到Container</val>
+		<val>安装应用程序到容器</val>
 	</string>
 	<string>
 		<id>install_app_license_uc</id>
@@ -27406,7 +27406,7 @@ element</c>
 	<string>
 		<id>install_apt_into_ad_explained</id>
 		<c>PCC|Conflict resolver error message</c>
-		<val>应用程序模板“%aptemplate%”应先安装管理节点上，再安装在Container上。</val>
+		<val>应用程序模板“%aptemplate%”应先安装管理节点上，再安装在容器上。</val>
 	</string>
 	<string>
 		<id>install_cert_nad_key_explained</id>
@@ -27456,7 +27456,7 @@ element</c>
 	<string>
 		<id>install_ost_into_ad_explained</id>
 		<c>PCC|Conflict resolver error message</c>
-		<val>应先将操作系统模板“%ostemplate%”安装到管理节点上，才能将其安装到Container中。</val>
+		<val>应先将操作系统模板“%ostemplate%”安装到管理节点上，才能将其安装到容器中。</val>
 	</string>
 	<string>
 		<id>install_packset_uc</id>
@@ -27994,7 +27994,7 @@ element</c>
 	<string>
 		<id>invalid_hnid_4veb_explained</id>
 		<c>CC backup settings | error message</c>
-		<val>储存Container备份的硬件节点的ID无效。该硬件节点ID未选择或属于不允许储存备份的硬件节点。请检查硬件节点ID并重试。</val>
+		<val>储存容器备份的硬件节点的ID无效。该硬件节点ID未选择或属于不允许储存备份的硬件节点。请检查硬件节点ID并重试。</val>
 	</string>
 	<string>
 		<id>invalid_homedir</id>
@@ -28074,7 +28074,7 @@ element</c>
 	<string>
 		<id>invalid_login</id>
 		<c>User administrator</c>
-		<val>无效的用户/组名。用户/组名应当包含小写字母、数字和下划线且以字母开始。另外，请确定组成用户/组名的字符数与被Container使用的操作系统命名规则一致。</val>
+		<val>无效的用户/组名。用户/组名应当包含小写字母、数字和下划线且以字母开始。另外，请确定组成用户/组名的字符数与被容器使用的操作系统命名规则一致。</val>
 	</string>
 	<string>
 		<id>invalid_low_destination_port_should_be_integer_between_0_and_65535</id>
@@ -28492,7 +28492,7 @@ element</c>
 	<string>
 		<id>ip_assigned_to_this_ve_already</id>
 		<c>status message in Conflicts Resolver</c>
-		<val>已向该Container分配IP地址。</val>
+		<val>已向该容器分配IP地址。</val>
 	</string>
 	<string>
 		<id>ip_based</id>
@@ -28577,12 +28577,12 @@ element</c>
 	<string>
 		<id>ip_pool_nbh_vps</id>
 		<c>Initial Setup | Data Center</c>
-		<val>基于名称的Container的IP池</val>
+		<val>基于名称的容器的IP池</val>
 	</string>
 	<string>
 		<id>ip_pool_nbh_vps_help</id>
 		<c>Initial Setup | Data Center | IP Pool for name-based VPS Container</c>
-		<val>请输入IP池的参数，该参数将用于提供基于名称的Container。</val>
+		<val>请输入IP池的参数，该参数将用于提供基于名称的容器。</val>
 	</string>
 	<string>
 		<id>ip_pool_overlaps_existing</id>
@@ -28617,7 +28617,7 @@ element</c>
 	<string>
 		<id>ip_pool_vps</id>
 		<c>Initial Setup | Data Center</c>
-		<val>Container的IP池</val>
+		<val>容器的IP池</val>
 	</string>
 	<string>
 		<id>ip_pool_vps_help</id>
@@ -29027,12 +29027,12 @@ element</c>
 	<string>
 		<id>keep_this_ip_addr_used_by_ve</id>
 		<c>Solution in Conflicts Resolver</c>
-		<val>保留Container使用的IP地址</val>
+		<val>保留容器使用的IP地址</val>
 	</string>
 	<string>
 		<id>keep_vps_pwd_in_db</id>
 		<c>VPS Manager setting name</c>
-		<val>在数据库中保存Container密码</val>
+		<val>在数据库中保存容器密码</val>
 	</string>
 	<string>
 		<id>kernel_no_support_for_vecalls</id>
@@ -29042,7 +29042,7 @@ element</c>
 	<string>
 		<id>kernel_no_support_for_ves</id>
 		<c>error message from vztools</c>
-		<val>内核不支持Container。</val>
+		<val>内核不支持容器。</val>
 	</string>
 	<string>
 		<id>kernel_no_support_for_vzquota</id>
@@ -30735,7 +30735,7 @@ element</c>
 	<string>
 		<id>majordomo_not_insted_ve</id>
 		<c>Migration Manager| Error message</c>
-		<val>Majordomo尚未安装在Container中。</val>
+		<val>Majordomo尚未安装在容器中。</val>
 	</string>
 	<string>
 		<id>make_new_batch</id>
@@ -30755,7 +30755,7 @@ element</c>
 	<string>
 		<id>make_this_app_available_for_ves_on_the_following_hw_nodes</id>
 		<c>Application Director | Description</c>
-		<val>使该应用程序只可用于下列的硬件节点上的Container。</val>
+		<val>使该应用程序只可用于下列的硬件节点上的容器。</val>
 	</string>
 	<string>
 		<id>male</id>
@@ -30795,7 +30795,7 @@ element</c>
 	<string>
 		<id>manage_ve</id>
 		<c>PBAs-root | Front page | Link</c>
-		<val>管理您的Container</val>
+		<val>管理您的容器</val>
 	</string>
 	<string>
 		<id>manage_vm_panel</id>
@@ -30904,7 +30904,7 @@ element</c>
 	<string>
 		<id>marketing_director_uc</id>
 		<c>Menu</c>
-		<val>市场主管</val>
+		<val>市场管理</val>
 	</string>
 	<string>
 		<id>marketing_manager</id>
@@ -31049,7 +31049,7 @@ element</c>
 	<string>
 		<id>max_num_of_ves</id>
 		<c>Office|Billing|Maximum number of VPS Containers</c>
-		<val>Container最大数量</val>
+		<val>容器最大数量</val>
 	</string>
 	<string>
 		<id>max_num_of_vms</id>
@@ -31064,7 +31064,7 @@ element</c>
 	<string>
 		<id>max_num_ves_sb_posituve_int</id>
 		<c>Office|Infrastructure Manager|HWHodes|HWNode|General|Error message</c>
-		<val>在硬件节点上Container的最大数量应当为正整数或为空。</val>
+		<val>在硬件节点上容器的最大数量应当为正整数或为空。</val>
 	</string>
 	<string>
 		<id>max_numer_2b_number</id>
@@ -31124,7 +31124,7 @@ element</c>
 	<string>
 		<id>maxamount_ves_exceeded_4_subscr</id>
 		<c>error message</c>
-		<val>业务#%id%的Container数超出最大限制</val>
+		<val>业务#%id%的容器数超出最大限制</val>
 	</string>
 	<string>
 		<id>maxclients_num</id>
@@ -31443,7 +31443,7 @@ element</c>
 	<string>
 		<id>mig_ve_props_uc</id>
 		<c>PCC|MG|form header</c>
-		<val>迁移和Container属性</val>
+		<val>迁移和容器属性</val>
 	</string>
 	<string>
 		<id>mig_web_accs</id>
@@ -31458,7 +31458,7 @@ element</c>
 	<string>
 		<id>migrate_change_ips</id>
 		<c>Migrate VPS Container option</c>
-		<val>根据目标节点上的IP地址池分配规则，迁移之后需要更改Container IP地址</val>
+		<val>根据目标节点上的IP地址池分配规则，迁移之后需要更改容器 IP地址</val>
 	</string>
 	<string>
 		<id>migrate_dest_node</id>
@@ -31488,37 +31488,37 @@ element</c>
 	<string>
 		<id>migrate_ve</id>
 		<c>long action description for Action Log ('descr' table)</c>
-		<val>迁移Container</val>
+		<val>迁移容器</val>
 	</string>
 	<string>
 		<id>migrate_ve_s_uc</id>
 		<c>action under VPS Container</c>
-		<val>迁移Container</val>
+		<val>迁移容器</val>
 	</string>
 	<string>
 		<id>migrate_ves</id>
 		<c>Migrate Container screen title</c>
-		<val>迁移Container</val>
+		<val>迁移容器</val>
 	</string>
 	<string>
 		<id>migrate_ves_nbh_mismatch</id>
 		<c>VPS Container migrate message</c>
-		<val>NBH设置与下列Container不相符：%ves%</val>
+		<val>NBH设置与下列容器不相符：%ves%</val>
 	</string>
 	<string>
 		<id>migrate_ves_platform_mismatch</id>
 		<c>VPS Container migrate message</c>
-		<val>目标节点上的平台与下列Container不相符：%ves%</val>
+		<val>目标节点上的平台与下列容器不相符：%ves%</val>
 	</string>
 	<string>
 		<id>migrate_ves_platform_mixup</id>
 		<c>VPS Container migrate message</c>
-		<val>您可以请求同时迁移基于Container的Linux或基于Windows 的Container。</val>
+		<val>您可以请求同时迁移基于容器的Linux或基于Windows 的容器。</val>
 	</string>
 	<string>
 		<id>migrate_ves_slm_mismatch</id>
 		<c>VPS Container migrate message</c>
-		<val>SLM已在目标节点禁用，但是下列Container仍然需要：%ves%</val>
+		<val>SLM已在目标节点禁用，但是下列容器仍然需要：%ves%</val>
 	</string>
 	<string>
 		<id>migrate_ves_vswap_mismatch</id>
@@ -31563,7 +31563,7 @@ element</c>
 	<string>
 		<id>migration_director_uc</id>
 		<c>Menu</c>
-		<val>迁移主管</val>
+		<val>迁移管理</val>
 	</string>
 	<string>
 		<id>migration_err</id>
@@ -31573,12 +31573,12 @@ element</c>
 	<string>
 		<id>migration_ip_err</id>
 		<c>Action log error message</c>
-		<val>无法迁移Container：迁移到所选的硬件节点会导致IP地址更改，但此节点尚无足够的IP地址。</val>
+		<val>无法迁移容器：迁移到所选的硬件节点会导致IP地址更改，但此节点尚无足够的IP地址。</val>
 	</string>
 	<string>
 		<id>migration_nbh_err</id>
 		<c>CC | Action log error message</c>
-		<val>无法将启用NBH设置的Container迁移到禁用NBH设置的节点。</val>
+		<val>无法将启用NBH设置的容器迁移到禁用NBH设置的节点。</val>
 	</string>
 	<string>
 		<id>migration_server_identifier_not_specified</id>
@@ -32660,7 +32660,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>monthly_fee_for_each_additional_ve</id>
 		<c>Office|Billing|Monthly fee for each additional VPS Container</c>
-		<val>每个额外的Container的月费</val>
+		<val>每个额外的容器的月费</val>
 	</string>
 	<string>
 		<id>monthly_fee_uc</id>
@@ -32749,7 +32749,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>mount_ve</id>
 		<c>webfront|repair</c>
-		<val>挂载Container</val>
+		<val>挂载容器</val>
 	</string>
 	<string>
 		<id>mounted</id>
@@ -32984,7 +32984,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>mx_vps_disabled</id>
 		<c>DM | Setup | General</c>
-		<val>请不要为Container默认主机名添加MX记录</val>
+		<val>请不要为容器默认主机名添加MX记录</val>
 	</string>
 	<string>
 		<id>my_control_panel_title_uc</id>
@@ -33049,7 +33049,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>mysql_not_insted_ve</id>
 		<c>Migration Manager| Error message</c>
-		<val>MySQL尚未在该Container中安装。</val>
+		<val>MySQL尚未在该容器中安装。</val>
 	</string>
 	<string>
 		<id>mysql_rm_db_create_order_error</id>
@@ -33253,7 +33253,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>name_ve_constr</id>
 		<c>VPS Container error message</c>
-		<val>Container主机名应仅包含阿拉伯字母、数字和内部连接符。</val>
+		<val>容器主机名应仅包含阿拉伯字母、数字和内部连接符。</val>
 	</string>
 	<string>
 		<id>named_conf</id>
@@ -33288,7 +33288,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>nbh_ip_addresses</id>
 		<c>IM | IP pool setup | Dashboard title</c>
-		<val>基于名称的Container IP地址</val>
+		<val>基于名称的容器 IP地址</val>
 	</string>
 	<string>
 		<id>nbh_status_unavail</id>
@@ -33303,7 +33303,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>nbh_vps</id>
 		<c>IM | IP pool setup | List title</c>
-		<val>基于名称的Container</val>
+		<val>基于名称的容器</val>
 	</string>
 	<string>
 		<id>ndefined_response_code_lc</id>
@@ -33827,7 +33827,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>new_nbh_ip_pool</id>
 		<c>IM | IP pool setup | Dashboard action title</c>
-		<val>新的基于名称的Container IP池</val>
+		<val>新的基于名称的容器 IP池</val>
 	</string>
 	<string>
 		<id>new_nbh_ip_pool_v6</id>
@@ -34180,22 +34180,22 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	</string>
 	<string>
 		<id>new_ve</id>
-		<val>新建Container</val>
+		<val>新建容器</val>
 	</string>
 	<string>
 		<id>new_ve_action</id>
 		<c>EV|Setup|New ve action</c>
-		<val>Container上的新操作</val>
+		<val>容器上的新操作</val>
 	</string>
 	<string>
 		<id>new_ve_s_uc</id>
 		<c>action under VPS Container</c>
-		<val>新建Container</val>
+		<val>新建容器</val>
 	</string>
 	<string>
 		<id>new_ve_uc</id>
 		<c>Page title</c>
-		<val>新建Container</val>
+		<val>新建容器</val>
 	</string>
 	<string>
 		<id>new_version_hspc_av_status</id>
@@ -34205,7 +34205,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>new_vps_ip_pool</id>
 		<c>IM | IP pool setup | Dashboard action title</c>
-		<val>新建Container IP池</val>
+		<val>新建容器 IP池</val>
 	</string>
 	<string>
 		<id>new_vps_ip_pool_v6</id>
@@ -34274,7 +34274,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>next_apps_not_inst_in_ve_mig_srvs_not_able</id>
 		<c>PCC|MG|Status message</c>
-		<val>尚未选择要安装在Container中的%ve%应用程序。下列在远程账户启用的服务将无法被迁移：%srv%。</val>
+		<val>尚未选择要安装在容器中的%ve%应用程序。下列在远程账户启用的服务将无法被迁移：%srv%。</val>
 	</string>
 	<string>
 		<id>next_billing_period</id>
@@ -34713,7 +34713,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_find_read_file_ve</id>
 		<c>CP|MG|Error message</c>
-		<val>在Container上无法找到可读文件。</val>
+		<val>在容器上无法找到可读文件。</val>
 	</string>
 	<string>
 		<id>no_find_revrep_set</id>
@@ -34773,7 +34773,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_hostname_assigned_to_ve</id>
 		<c>Status message</c>
-		<val>尚未向该Container分配主机名。</val>
+		<val>尚未向该容器分配主机名。</val>
 	</string>
 	<string>
 		<id>no_hp_found</id>
@@ -34798,12 +34798,12 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_hw_node_to_create_ve</id>
 		<c>Error in Infrastructure Manager</c>
-		<val>尚无用于创建新的Container的硬件节点。</val>
+		<val>尚无用于创建新的容器的硬件节点。</val>
 	</string>
 	<string>
 		<id>no_hw_nodes</id>
 		<c>text representation for result code ('descr' table)</c>
-		<val>无用于启动Container的硬件节点</val>
+		<val>无用于启动容器的硬件节点</val>
 	</string>
 	<string>
 		<id>no_hw_nodes_found_matching_your_criteria</id>
@@ -34818,7 +34818,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_images_guide</id>
 		<c>Eevent Manager|Actions</c>
-		<val>尚未上载图像。<br/>要上载图像，请使用"营销总监 | 品牌经理 | 图像和文件"。</val>
+		<val>尚未上载图像。<br/>要上载图像，请使用"营销管理 | 品牌经理 | 图像和文件"。</val>
 	</string>
 	<string>
 		<id>no_info</id>
@@ -34848,7 +34848,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_ip_assigned_to_ve</id>
 		<c>Conflict Resolver message</c>
-		<val>尚未向该Container分配IP地址</val>
+		<val>尚未向该容器分配IP地址</val>
 	</string>
 	<string>
 		<id>no_ips_available</id>
@@ -34972,7 +34972,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_more_ip_to_start_ve</id>
 		<c>error message from vztools</c>
-		<val>尚无可用于启动Container的IP地址。</val>
+		<val>尚无可用于启动容器的IP地址。</val>
 	</string>
 	<string>
 		<id>no_more_than_lc</id>
@@ -35091,7 +35091,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_program_setup</id>
 		<c>CP - no VPS Container screen</c>
-		<val>程序设置不可用，因为您现在尚无活动的Container。</val>
+		<val>程序设置不可用，因为您现在尚无活动的容器。</val>
 	</string>
 	<string>
 		<id>no_promotion_specified_for_copy</id>
@@ -35255,7 +35255,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_subscrs_for_selected_acnt</id>
 		<c>Domain manager</c>
-		<val>尚无适用于所选账户的Container</val>
+		<val>尚无适用于所选账户的容器</val>
 	</string>
 	<string>
 		<id>no_subscrs_list</id>
@@ -35390,17 +35390,17 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_ve_2_upgr_app_installed</id>
 		<c>Application Director:  Error message</c>
-		<val>尚无要升级的Container。可能原因：尚无可用的符合所选选项的Container，应用程序已安装在所有符合所选选项的Container中。</val>
+		<val>尚无要升级的容器。可能原因：尚无可用的符合所选选项的容器，应用程序已安装在所有符合所选选项的容器中。</val>
 	</string>
 	<string>
 		<id>no_ve_2_upgr_ost_installed</id>
 		<c>Application Director:  Error message</c>
-		<val>尚无要升级的Container。可能原因：尚无可用的符合所选选项的Container，操作系统模板已安装在所有符合所选选项的Container中。</val>
+		<val>尚无要升级的容器。可能原因：尚无可用的符合所选选项的容器，操作系统模板已安装在所有符合所选选项的容器中。</val>
 	</string>
 	<string>
 		<id>no_ves_selected</id>
 		<c>Status message</c>
-		<val>尚未选择Container。</val>
+		<val>尚未选择容器。</val>
 	</string>
 	<string>
 		<id>no_vms_selected</id>
@@ -35615,7 +35615,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>not_all_necessary_application_installed_into_ve</id>
 		<c>MT|MG</c>
-		<val>Container中尚未安装所有必要的应用程序</val>
+		<val>容器中尚未安装所有必要的应用程序</val>
 	</string>
 	<string>
 		<id>not_all_needed_parameters_set</id>
@@ -35625,7 +35625,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>not_all_ubc_parameters_set</id>
 		<c>error message from vztools</c>
-		<val>您尚不具备足够的UBC参数来启动Container。</val>
+		<val>您尚不具备足够的UBC参数来启动容器。</val>
 	</string>
 	<string>
 		<id>not_allow_cpdom_manage</id>
@@ -35635,7 +35635,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>not_allow_cpve_manage</id>
 		<c>OM hw node general settings | input label</c>
-		<val>不允许客户使用控制面板管理Container</val>
+		<val>不允许客户使用控制面板管理容器</val>
 	</string>
 	<string>
 		<id>not_allow_upgr_cp</id>
@@ -35655,7 +35655,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>not_assign_domain_for_vps</id>
 		<c>PCC|SD|New Obj Wizard|Domains</c>
-		<val>不分配的Container任何域</val>
+		<val>不分配的容器任何域</val>
 	</string>
 	<string>
 		<id>not_assigned</id>
@@ -35700,7 +35700,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>not_enough_apps_in_hp</id>
 		<c>PCC|Conflict resolver error message</c>
-		<val>所选的主机方案不包含Container中安装的下列应用程序：%app_names%</val>
+		<val>所选的主机方案不包含容器中安装的下列应用程序：%app_names%</val>
 	</string>
 	<string>
 		<id>not_enough_backup_space</id>
@@ -35735,7 +35735,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>not_enough_license_for_vps</id>
 		<c>error message in VPS Manager</c>
-		<val>硬件节点%hostname%上的许可证不允许创建%ve_count%个Container。</val>
+		<val>硬件节点%hostname%上的许可证不允许创建%ve_count%个容器。</val>
 	</string>
 	<string>
 		<id>not_enough_permanent_ip_addrs</id>
@@ -35839,7 +35839,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>not_registered_ve</id>
 		<c>Conflict type in Conflicts resolver</c>
-		<val>Container尚未注册</val>
+		<val>容器尚未注册</val>
 	</string>
 	<string>
 		<id>not_renew_subscr_uc</id>
@@ -36125,12 +36125,12 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>ns_for_ves</id>
 		<c>PCC|IM|Error</c>
-		<val>Container名称服务器</val>
+		<val>容器名称服务器</val>
 	</string>
 	<string>
 		<id>ns_for_ves_desc</id>
 		<c>PCC|IM|Error</c>
-		<val>Container名称服务器(用空格分开的IP地址列表)</val>
+		<val>容器名称服务器(用空格分开的IP地址列表)</val>
 	</string>
 	<string>
 		<id>ns_host_duplicate</id>
@@ -36480,7 +36480,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>num_of_dynamic_ip_exceeded_full</id>
 		<c>Status message</c>
-		<val>Container资源已超出所包含的动态IP地址的数量。该账户将支付每个额外的IP地址。您仍要继续吗？</val>
+		<val>容器资源已超出所包含的动态IP地址的数量。该账户将支付每个额外的IP地址。您仍要继续吗？</val>
 	</string>
 	<string>
 		<id>num_of_fp_users_found</id>
@@ -36515,12 +36515,12 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>num_of_nbh_ip_exceeded</id>
 		<c>JavaScript alert</c>
-		<val>无需为NBH Container指定多个IP地址。您确实要继续吗？</val>
+		<val>无需为NBH 容器指定多个IP地址。您确实要继续吗？</val>
 	</string>
 	<string>
 		<id>num_of_permanent_ip_exceeded</id>
 		<c>JavaScript alert</c>
-		<val>Container资源已超出所包含的静态IP地址的数量。该账户将支付每个额外的IP地址。您仍要继续吗？</val>
+		<val>容器资源已超出所包含的静态IP地址的数量。该账户将支付每个额外的IP地址。您仍要继续吗？</val>
 	</string>
 	<string>
 		<id>num_of_permanent_ip_exceeded_ds</id>
@@ -36565,7 +36565,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>num_of_ves_included_in_the_hosting_plan</id>
 		<c>Office|Billing|Number of VPS Containers included in the hosting plan</c>
-		<val>Container数量包括在主机方案中</val>
+		<val>容器数量包括在主机方案中</val>
 	</string>
 	<string>
 		<id>num_of_websites_disabled</id>
@@ -36822,7 +36822,7 @@ of decimal places</c>
 	<string>
 		<id>om_err_vps_id_undefined</id>
 		<c>VPS Container operation | Error message</c>
-		<val>尚未定义Container ID。</val>
+		<val>尚未定义容器 ID。</val>
 	</string>
 	<string>
 		<id>om_err_vps_qos_res_id_undefined</id>
@@ -37015,7 +37015,7 @@ of decimal places</c>
 	<string>
 		<id>only_allowed_to_manage_box</id>
 		<c>billing</c>
-		<val>无法创建Container。根据您的主机方案，您只能将您的专用服务器作为物理主机管理。</val>
+		<val>无法创建容器。根据您的主机方案，您只能将您的专用服务器作为物理主机管理。</val>
 	</string>
 	<string>
 		<id>only_cur_page</id>
@@ -37148,7 +37148,7 @@ of decimal places</c>
 	<string>
 		<id>operate_selected_ves</id>
 		<c>Action bar text</c>
-		<val>运行所选的Container</val>
+		<val>运行所选的容器</val>
 	</string>
 	<string>
 		<id>operation</id>
@@ -37187,7 +37187,7 @@ of decimal places</c>
 	<string>
 		<id>ops_drctr_uc</id>
 		<c>item in ProviderCC left menu</c>
-		<val>操作主管</val>
+		<val>操作管理</val>
 	</string>
 	<string>
 		<id>opt_apps_uc</id>
@@ -37320,7 +37320,7 @@ of decimal places</c>
 	<string>
 		<id>or_str_included_domain_was_found_could_not_create_ve</id>
 		<c>MT|MG</c>
-		<val>域名包含在“%domain%”待处理订单%or_str%中。无法创建Container。</val>
+		<val>域名包含在“%domain%”待处理订单%or_str%中。无法创建容器。</val>
 	</string>
 	<string>
 		<id>ord_already_completed</id>
@@ -37510,7 +37510,7 @@ of decimal places</c>
 	<string>
 		<id>order_on_create_vps</id>
 		<c>Order title</c>
-		<val>创建Container订单</val>
+		<val>创建容器订单</val>
 	</string>
 	<string>
 		<id>order_on_domain_registration</id>
@@ -37520,7 +37520,7 @@ of decimal places</c>
 	<string>
 		<id>order_on_purchase_additional_ve_to_dedicated_hosting_plan</id>
 		<c>Billing</c>
-		<val>为专用主机方案购买其他Container的订单</val>
+		<val>为专用主机方案购买其他容器的订单</val>
 	</string>
 	<string>
 		<id>order_on_purchase_dedicated_hosting</id>
@@ -37560,7 +37560,7 @@ of decimal places</c>
 	<string>
 		<id>order_on_update_vps</id>
 		<c>Order title</c>
-		<val>更新Container参数的订单</val>
+		<val>更新容器参数的订单</val>
 	</string>
 	<string>
 		<id>order_paid_by_previous_documents</id>
@@ -37714,7 +37714,7 @@ of decimal places</c>
 	<string>
 		<id>ordered_not_received_pmnt</id>
 		<c>CP - no VPS Container screen</c>
-		<val>您已订购Container，但是我们尚未收到您的付款。您的Container将在我们收到您的付款后激活。</val>
+		<val>您已订购容器，但是我们尚未收到您的付款。您的容器将在我们收到您的付款后激活。</val>
 	</string>
 	<string>
 		<id>ordered_select_pmnt_finish_ltxt</id>
@@ -37879,7 +37879,7 @@ of decimal places</c>
 	<string>
 		<id>os_tmpl_for_ve_not_found</id>
 		<c>Update system size error</c>
-		<val>未找到Container的操作系统模板</val>
+		<val>未找到容器的操作系统模板</val>
 	</string>
 	<string>
 		<id>os_tmpl_has_b_registered</id>
@@ -37904,7 +37904,7 @@ of decimal places</c>
 	<string>
 		<id>os_upgraded_in_vps</id>
 		<c>Configuration Direcrtor|Event Manager|Events|Event name</c>
-		<val>操作系统升级已安装到Container中</val>
+		<val>操作系统升级已安装到容器中</val>
 	</string>
 	<string>
 		<id>ost_incompatible_with_hn</id>
@@ -37959,7 +37959,7 @@ of decimal places</c>
 	<string>
 		<id>other_ves_uc</id>
 		<c>Summary Teaser Link</c>
-		<val>其他Container</val>
+		<val>其他容器</val>
 	</string>
 	<string>
 		<id>other_vms_uc</id>
@@ -38337,7 +38337,7 @@ of decimal places</c>
 	<string>
 		<id>paid_webhosts_can_be_created_on</id>
 		<c>text from Setup page in Infrastructure Manager</c>
-		<val>非试用的Container可以创建于</val>
+		<val>非试用虚拟主机域可被创建</val>
 	</string>
 	<string>
 		<id>palette</id>
@@ -40877,7 +40877,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	</string>
 	<string>
 		<id>pmnt_required_to_start_ve</id>
-		<val>付款需要创建/启动%hostname% Container。</val>
+		<val>付款需要创建/启动%hostname% 的容器。</val>
 	</string>
 	<string>
 		<id>pmnt_settings_uc</id>
@@ -40936,7 +40936,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>poa_node_cant_connect</id>
 		<c>SD | POA | Node | Service Templates</c>
-		<val>无法连接到PA节点，请从系统总监&gt; PA供应商控制面板中的公共API管理器中得到API地址</val>
+		<val>无法连接到PA节点，请从系统管理&gt; PA供应商控制面板中的公共API管理器中得到API地址</val>
 	</string>
 	<string>
 		<id>poa_node_name_uc</id>
@@ -42621,7 +42621,7 @@ poll payment statuses)</c>
 	<string>
 		<id>reassign_ve_s_uc</id>
 		<c>action under VPS Container</c>
-		<val>重新分配集装箱</val>
+		<val>重新分配容器</val>
 	</string>
 	<string>
 		<id>reboot</id>
@@ -42701,7 +42701,7 @@ poll payment statuses)</c>
 	<string>
 		<id>received_not_processed_pmnt</id>
 		<c>CP - no VPS Container screen</c>
-		<val>我们收到您的付款，但没有处理它。您的容器将很快启动。如果您觉得您的集装箱没有被激活，由于一个错误，请与我们联系。</val>
+		<val>我们收到您的付款，但没有处理它。您的容器将很快启动。如果您觉得您的容器没有被激活，由于一个错误，请与我们联系。</val>
 	</string>
 	<string>
 		<id>receiver_name</id>
@@ -42786,7 +42786,7 @@ poll payment statuses)</c>
 	<string>
 		<id>recreate_srv</id>
 		<c>Recreate Container screen title</c>
-		<val>重新创建集装箱</val>
+		<val>重新创建容器</val>
 	</string>
 	<string>
 		<id>recreate_srv_cancelled</id>
@@ -42825,7 +42825,7 @@ poll payment statuses)</c>
 	<string>
 		<id>recreating_lc</id>
 		<c>action under VPS Container</c>
-		<val>再创造</val>
+		<val>重建</val>
 	</string>
 	<string>
 		<id>recs</id>
@@ -43403,7 +43403,7 @@ poll payment statuses)</c>
 	<string>
 		<id>register_this_ve</id>
 		<c>Solution in Conflicts Resolver</c>
-		<val>注册该Container</val>
+		<val>注册该容器</val>
 	</string>
 	<string>
 		<id>register_TLD</id>
@@ -43493,7 +43493,7 @@ poll payment statuses)</c>
 	<string>
 		<id>reinstall_for_advanced</id>
 		<c>Application Director:  Message</c>
-		<val>重新安装VPS操作只能由高级用户进行。请查看操作日志以确认以前的安装任务是否因系统错误而失败。成功重新安装后，需要同步硬件节点，并使用应用程序主管来手工更新主机方案。您确定想进行重新安装吗？</val>
+		<val>重新安装VPS操作只能由高级用户进行。请查看操作日志以确认以前的安装任务是否因系统错误而失败。成功重新安装后，需要同步硬件节点，并使用应用管理来手工更新主机方案。您确定想进行重新安装吗？</val>
 	</string>
 	<string>
 		<id>reinstall_ltxt</id>
@@ -43648,7 +43648,7 @@ poll payment statuses)</c>
 	<string>
 		<id>remove_backup_destr_ve_descr</id>
 		<c>PCC | Backups | Problem description</c>
-		<val>Container备份文件属于已损坏Container。您可能需要通过单击“删除”按钮删除此备份，或通过单击“从DB中删除”按钮仅从Parallels Business Automation - Standard数据库(将备份文件留在Virtuozzo节点上)中删除该备份相关信息。</val>
+		<val>容器备份文件属于已损坏容器。您可能需要通过单击“删除”按钮删除此备份，或通过单击“从DB中删除”按钮仅从Parallels Business Automation - Standard数据库(将备份文件留在Virtuozzo节点上)中删除该备份相关信息。</val>
 	</string>
 	<string>
 		<id>remove_backup_file</id>
@@ -43713,7 +43713,7 @@ poll payment statuses)</c>
 	<string>
 		<id>removed_ve_uc</id>
 		<c>Conflict type in Conflicts resolver</c>
-		<val>在此节点上未找到Container</val>
+		<val>在此节点上未找到容器</val>
 	</string>
 	<string>
 		<id>removing</id>
@@ -43748,7 +43748,7 @@ poll payment statuses)</c>
 	<string>
 		<id>removing_pack_2version_ive</id>
 		<c>Action description</c>
-		<val>在Container %ve_name%上删除%tmpl_package%到%tmpl_version%版本</val>
+		<val>在容器 %ve_name%上删除%tmpl_package%到%tmpl_version%版本</val>
 	</string>
 	<string>
 		<id>removing_s_from_s</id>
@@ -43773,7 +43773,7 @@ poll payment statuses)</c>
 	<string>
 		<id>rename_ve_s_uc</id>
 		<c>action under VPS Container</c>
-		<val>重命名Container</val>
+		<val>重命名容器</val>
 	</string>
 	<string>
 		<id>renew</id>
@@ -43923,7 +43923,7 @@ poll payment statuses)</c>
 	<string>
 		<id>repair_ve_uc</id>
 		<c>Operation under VPS Container</c>
-		<val>修复Container</val>
+		<val>修复容器</val>
 	</string>
 	<string>
 		<id>repairing</id>
@@ -45092,7 +45092,7 @@ poll payment statuses)</c>
 	<string>
 		<id>res_vpsmemory_name</id>
 		<c>Billing|Resource name</c>
-		<val>Container内存</val>
+		<val>容器内存</val>
 	</string>
 	<string>
 		<id>res_wired_pages_name</id>
@@ -45474,7 +45474,7 @@ poll payment statuses)</c>
 	<string>
 		<id>resolve_vps_already_created</id>
 		<c>VPS Container resolver message</c>
-		<val>Container # %ve_id%已由其他进程创建。请从开始处解决冲突</val>
+		<val>容器 # %ve_id%已由其他进程创建。请从开始处解决冲突</val>
 	</string>
 	<string>
 		<id>resource_is_billable</id>
@@ -45559,7 +45559,7 @@ poll payment statuses)</c>
 	<string>
 		<id>restart_ve</id>
 		<c>long action description for Action Log ('descr' table)</c>
-		<val>重新启动Container</val>
+		<val>重新启动容器</val>
 	</string>
 	<string>
 		<id>restarting</id>
@@ -45612,7 +45612,7 @@ poll payment statuses)</c>
 	<string>
 		<id>restore_vps_band</id>
 		<c>Top|System Director|Event Manager|Settings|Event|Actions|New action|New accoun action|Action name</c>
-		<val>还原Container带宽</val>
+		<val>还原容器带宽</val>
 	</string>
 	<string>
 		<id>restoring</id>
@@ -45622,12 +45622,12 @@ poll payment statuses)</c>
 	<string>
 		<id>restoring_ve</id>
 		<c>PBAs | CC | update_task_info</c>
-		<val>正在恢复Container %id%</val>
+		<val>正在恢复容器 %id%</val>
 	</string>
 	<string>
 		<id>restoring_ve_id_from_backup</id>
 		<c>CC|Backup action log task name</c>
-		<val>从备份还原Container %id%</val>
+		<val>从备份还原容器 %id%</val>
 	</string>
 	<string>
 		<id>result</id>
@@ -45657,7 +45657,7 @@ poll payment statuses)</c>
 	<string>
 		<id>ret_mig_into_same_ve</id>
 		<c>PCC|MG|Button name</c>
-		<val>重试迁移到同一台Container</val>
+		<val>重试迁移到同一台容器</val>
 	</string>
 	<string>
 		<id>ret_settings_uc</id>
@@ -45874,7 +45874,7 @@ poll payment statuses)</c>
 	<string>
 		<id>root_passwd_should_specified</id>
 		<c>VPS Container error message</c>
-		<val>为创建的新Container指定Root密码。</val>
+		<val>为创建的新容器指定Root密码。</val>
 	</string>
 	<string>
 		<id>root_passwd_srv_should_specified</id>
@@ -46033,7 +46033,7 @@ poll payment statuses)</c>
 	</string>
 	<string>
 		<id>running_ves</id>
-		<val>正在运行的Container</val>
+		<val>正在运行的容器</val>
 	</string>
 	<string>
 		<id>running_vms</id>
@@ -46048,7 +46048,7 @@ poll payment statuses)</c>
 	<string>
 		<id>rve_fail</id>
 		<c>Backup action processing | error message</c>
-		<val>恢复Container失败。</val>
+		<val>恢复容器失败。</val>
 	</string>
 	<string>
 		<id>s_appear_to_registered_as_alias_lc</id>
@@ -46068,7 +46068,7 @@ poll payment statuses)</c>
 	<string>
 		<id>s_is_scheduled_for_removing_from_ve</id>
 		<c>Application Director | Status message</c>
-		<val>%s%已预定从Container中删除。</val>
+		<val>%s%已预定从容器中删除。</val>
 	</string>
 	<string>
 		<id>s_node</id>
@@ -47862,7 +47862,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sc_manage_ve</id>
 		<c>security category name</c>
-		<val>管理Container</val>
+		<val>管理容器</val>
 	</string>
 	<string>
 		<id>sc_providersite_manager</id>
@@ -47976,7 +47976,7 @@ poll payment statuses)</c>
 	<string>
 		<id>scheduled_for_installation</id>
 		<c>Application Director | Status message</c>
-		<val>预定在Container上安装%s。</val>
+		<val>预定在容器上安装%s。</val>
 	</string>
 	<string>
 		<id>scheduled_for_synchronization_with_lc</id>
@@ -48322,18 +48322,18 @@ poll payment statuses)</c>
 	</string>
 	<string>
 		<id>sel_ve</id>
-		<val>选择Container</val>
+		<val>选择容器</val>
 		<g>webfront</g>
 	</string>
 	<string>
 		<id>sel_ve_not_inc_dom</id>
 		<c>PCC|MG|Error message</c>
-		<val>所选的Container不包括该网站。</val>
+		<val>所选的容器不包括该网站。</val>
 	</string>
 	<string>
 		<id>sel_ve_uc</id>
 		<c>PCC|MG|form header</c>
-		<val>选择Container</val>
+		<val>选择容器</val>
 	</string>
 	<string>
 		<id>sel_wc_uc</id>
@@ -48391,7 +48391,7 @@ poll payment statuses)</c>
 	<string>
 		<id>select_application_to_install_into_ve</id>
 		<c>Application Director | text</c>
-		<val>选择要安装到Container中的应用程序</val>
+		<val>选择要安装到容器中的应用程序</val>
 	</string>
 	<string>
 		<id>select_at_least_one_app</id>
@@ -48649,7 +48649,7 @@ poll payment statuses)</c>
 	<string>
 		<id>select_ve</id>
 		<c>Title</c>
-		<val>选择一个要管理的Container</val>
+		<val>选择一个要管理的容器</val>
 	</string>
 	<string>
 		<id>selectable_lc</id>
@@ -48768,7 +48768,7 @@ poll payment statuses)</c>
 	<string>
 		<id>selected_virtual_environments_uc</id>
 		<c>Application Director | From title</c>
-		<val>所选Container</val>
+		<val>所选容器</val>
 	</string>
 	<string>
 		<id>self_signed_cert_set_ok</id>
@@ -48902,7 +48902,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sendmail_init_error</id>
 		<c>CP | Mail</c>
-		<val>无法初始化sendmail服务</val>
+		<val>无法初始化发送邮件服务</val>
 	</string>
 	<string>
 		<id>sendmail_operation_error</id>
@@ -48912,7 +48912,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sendmail_save_config_failure</id>
 		<c>CP | Mail</c>
-		<val>保存sendmail配置时出现意外错误</val>
+		<val>保存发送邮件配置时出现意外错误</val>
 	</string>
 	<string>
 		<id>sent</id>
@@ -49109,7 +49109,7 @@ poll payment statuses)</c>
 	<string>
 		<id>service_director_uc</id>
 		<c>Menu</c>
-		<val>服务主管</val>
+		<val>服务管理</val>
 	</string>
 	<string>
 		<id>service_mgmt</id>
@@ -49188,7 +49188,7 @@ poll payment statuses)</c>
 	<string>
 		<id>set_4_ve_approaching_limit</id>
 		<c>SL|Setup warning message</c>
-		<val>这是“服务级别管理器”一节中关于“Container使用限制”的设置。 当相关资源使用情况表现为下面资源所允许范围的数值以内，将会显示关于Container的此信息。</val>
+		<val>这是“服务级别管理器”一节中关于“容器使用限制”的设置。 当相关资源使用情况表现为下面资源所允许范围的数值以内，将会显示关于容器的此信息。</val>
 	</string>
 	<string>
 		<id>set_acc_plug_for_vendor</id>
@@ -49275,7 +49275,7 @@ poll payment statuses)</c>
 	<string>
 		<id>setup_fee_for_each_additional_ve</id>
 		<c>Office|Billing|Setup fee for each additional VPS Container</c>
-		<val>每台额外Container的安装费</val>
+		<val>每台额外容器的安装费</val>
 	</string>
 	<string>
 		<id>setup_fee_for_period</id>
@@ -49483,7 +49483,7 @@ poll payment statuses)</c>
 	<string>
 		<id>should_sel_file_ve</id>
 		<c>CP|MG|Error message</c>
-		<val>请在Container中选择文件。</val>
+		<val>请在容器中选择文件。</val>
 	</string>
 	<string>
 		<id>should_sel_fl</id>
@@ -49633,7 +49633,7 @@ poll payment statuses)</c>
 	<string>
 		<id>shut_dis_ve</id>
 		<c>long action description for Action Log ('descr' table)</c>
-		<val>停止和关闭Container</val>
+		<val>停止和关闭容器</val>
 	</string>
 	<string>
 		<id>shutdown_in</id>
@@ -49956,12 +49956,12 @@ poll payment statuses)</c>
 	<string>
 		<id>sl_</id>
 		<c>SL|Graph column name</c>
-		<val>Container计数</val>
+		<val>容器计数</val>
 	</string>
 	<string>
 		<id>sl_custom_ves</id>
 		<c>SL|Graph row name</c>
-		<val>自定义Container</val>
+		<val>自定义容器</val>
 	</string>
 	<string>
 		<id>sl_diskusage_updating</id>
@@ -49996,7 +49996,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sl_provider_vps</id>
 		<c>SLM, Plan name for provider's VPS Container</c>
-		<val>提供商的Container</val>
+		<val>提供商的容器</val>
 	</string>
 	<string>
 		<id>sl_tool</id>
@@ -50016,7 +50016,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sl_ves_disk_update</id>
 		<c>SL|ResourceLimit task name</c>
-		<val>更新Container磁盘使用量</val>
+		<val>更新容器磁盘使用量</val>
 	</string>
 	<string>
 		<id>sl_view_all_parts</id>
@@ -50026,7 +50026,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sl_vps_count</id>
 		<c>SL | Count title</c>
-		<val>Container计数</val>
+		<val>容器计数</val>
 	</string>
 	<string>
 		<id>slave_servers_limit</id>
@@ -50091,7 +50091,7 @@ poll payment statuses)</c>
 	<string>
 		<id>slm_traf_desc</id>
 		<c>PCC | SLM | Traf</c>
-		<val>注意！按部分列(如流量使用百分比列)进行排序可能需要一些时间，所需时间取决于系统中的Container数量(最多30秒)。请等待结果。</val>
+		<val>注意！按部分列(如流量使用百分比列)进行排序可能需要一些时间，所需时间取决于系统中的容器数量(最多30秒)。请等待结果。</val>
 	</string>
 	<string>
 		<id>sm_allow_enh</id>
@@ -50346,7 +50346,7 @@ poll payment statuses)</c>
 	<string>
 		<id>some_apps_not_insted_ve</id>
 		<c>Migration Manager| Error message</c>
-		<val>无法在Container上安装一些所需的应用程序。</val>
+		<val>无法在容器上安装一些所需的应用程序。</val>
 	</string>
 	<string>
 		<id>some_invalid_info</id>
@@ -50356,7 +50356,7 @@ poll payment statuses)</c>
 	<string>
 		<id>some_ip_addrs_from_this_ip_pool_are_used_by_other_acnts_please_destroy_the_ves_chg_ip</id>
 		<c>IPPool Manager| Error message</c>
-		<val>此IP池中的一些IP地址被其他账户使用。请注销这些账户的Container或变更其IP地址设置。</val>
+		<val>此IP池中的一些IP地址被其他账户使用。请注销这些账户的容器或变更其IP地址设置。</val>
 	</string>
 	<string>
 		<id>some_process_use_vefs_safe_area</id>
@@ -50660,12 +50660,12 @@ poll payment statuses)</c>
 	<string>
 		<id>srv_has_been_dest</id>
 		<c>Office|Event Manager|Events</c>
-		<val>Container已删除</val>
+		<val>容器已删除</val>
 	</string>
 	<string>
 		<id>srv_has_been_stop</id>
 		<c>Office|Event Manager|Events</c>
-		<val>Container已停止</val>
+		<val>容器已停止</val>
 	</string>
 	<string>
 		<id>srv_in_repmod_explained</id>
@@ -50740,7 +50740,7 @@ poll payment statuses)</c>
 	<string>
 		<id>srv_side_ve_restore</id>
 		<c>menu link</c>
-		<val>服务器端的Container恢复</val>
+		<val>服务器端的容器恢复</val>
 	</string>
 	<string>
 		<id>srv_start_ok</id>
@@ -52139,13 +52139,13 @@ poll payment statuses)</c>
 	</string>
 	<string>
 		<id>start_ve</id>
-		<val>启动Container</val>
+		<val>启动容器</val>
 		<g>webfront_ves</g>
 	</string>
 	<string>
 		<id>start_ve_s_uc</id>
 		<c>action under VPS Container</c>
-		<val>启动Container</val>
+		<val>启动容器</val>
 	</string>
 	<string>
 		<id>started</id>
@@ -52165,7 +52165,7 @@ poll payment statuses)</c>
 	<string>
 		<id>starting_ve</id>
 		<c>PBAs | CC | update_task_info</c>
-		<val>正在启动Container %id%</val>
+		<val>正在启动容器 %id%</val>
 	</string>
 	<string>
 		<id>starts</id>
@@ -52376,13 +52376,13 @@ poll payment statuses)</c>
 	</string>
 	<string>
 		<id>stop_ve</id>
-		<val>关闭Container</val>
+		<val>关闭容器</val>
 		<g>webfront_ves</g>
 	</string>
 	<string>
 		<id>stop_ve_s_uc</id>
 		<c>action under VPS Container</c>
-		<val>关闭Container</val>
+		<val>关闭容器</val>
 	</string>
 	<string>
 		<id>stopped</id>
@@ -52391,7 +52391,7 @@ poll payment statuses)</c>
 	</string>
 	<string>
 		<id>stopped_ves</id>
-		<val>关闭的Container</val>
+		<val>关闭的容器</val>
 	</string>
 	<string>
 		<id>stopped_vms</id>
@@ -52798,12 +52798,12 @@ poll payment statuses)</c>
 	<string>
 		<id>subscr_del_activ_from_hold</id>
 		<c>BD | Subscriptions | error message</c>
-		<val>Container已删除，所以无法激活业务。</val>
+		<val>容器已删除，所以无法激活业务。</val>
 	</string>
 	<string>
 		<id>subscr_del_put_on_hold</id>
 		<c>BD | Subscriptions | error message</c>
-		<val>Container已删除，所以无法继续保留业务。</val>
+		<val>容器已删除，所以无法继续保留业务。</val>
 	</string>
 	<string>
 		<id>subscr_dom_uc</id>
@@ -53467,7 +53467,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sure_2_proc_force_uninst</id>
 		<c>Application Director:  Confirmation message</c>
-		<val>强制卸载将完全从Container中删除所选应用程序。所有的应用程序文件将被删除且所有的应用程序的依赖项也将被忽略。您确认要强行卸载吗？</val>
+		<val>强制卸载将完全从容器中删除所选应用程序。所有的应用程序文件将被删除且所有的应用程序的依赖项也将被忽略。您确认要强行卸载吗？</val>
 	</string>
 	<string>
 		<id>sure_2_terminate_batch</id>
@@ -53482,7 +53482,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sure_2_uninst_app</id>
 		<c>Application Director:  Confirmation message</c>
-		<val>卸载应用程序属于不安全的操作。应用程序可能不能完全从Container中卸载或Container内部一些相关文件被损坏。您确定要卸载应用程序吗？</val>
+		<val>卸载应用程序属于不安全的操作。应用程序可能不能完全从容器中卸载或容器内部一些相关文件被损坏。您确定要卸载应用程序吗？</val>
 	</string>
 	<string>
 		<id>sure_2clear_mailbox</id>
@@ -53556,7 +53556,7 @@ poll payment statuses)</c>
 	<string>
 		<id>susp_migr_app_installed</id>
 		<c>PCC|MG|Message</c>
-		<val>迁移进程将被挂起，直到所有订购的应用程序被安装在Container上。</val>
+		<val>迁移进程将被挂起，直到所有订购的应用程序被安装在容器上。</val>
 	</string>
 	<string>
 		<id>susp_migr_order_process</id>
@@ -53571,7 +53571,7 @@ poll payment statuses)</c>
 	<string>
 		<id>susp_migr_ve_start</id>
 		<c>PCC|MG|Message</c>
-		<val>此迁移进程将被挂起，直到Container启动。</val>
+		<val>此迁移进程将被挂起，直到容器启动。</val>
 	</string>
 	<string>
 		<id>suspend</id>
@@ -53596,12 +53596,12 @@ poll payment statuses)</c>
 	<string>
 		<id>sve_admin_pwd</id>
 		<c>New HW Node</c>
-		<val>Service Container管理员密码</val>
+		<val>服务容器管理员密码</val>
 	</string>
 	<string>
 		<id>sve_ip</id>
 		<c>New HW Node</c>
-		<val>Service Container IP地址</val>
+		<val>服务容器 IP地址</val>
 	</string>
 	<string>
 		<id>svradm_email_err</id>
@@ -53761,12 +53761,12 @@ poll payment statuses)</c>
 	<string>
 		<id>sync_ve</id>
 		<c>short action description for Action Log ('descr' table)</c>
-		<val>同步Container</val>
+		<val>同步容器</val>
 	</string>
 	<string>
 		<id>sync_ve_traff_problems</id>
 		<c>Traffic parameters error message</c>
-		<val>流量参数已在硬件节点上设置，但一些Container存在问题</val>
+		<val>流量参数已在硬件节点上设置，但一些容器存在问题</val>
 	</string>
 	<string>
 		<id>synchronization_periods_uc</id>
@@ -53801,7 +53801,7 @@ poll payment statuses)</c>
 	<string>
 		<id>synchronize_webhost_domain</id>
 		<c>Billing</c>
-		<val>同步Container</val>
+		<val>同步容器</val>
 	</string>
 	<string>
 		<id>synchronized</id>
@@ -53836,12 +53836,12 @@ poll payment statuses)</c>
 	<string>
 		<id>syncronize_ve_s_uc</id>
 		<c>action under VPS Container</c>
-		<val>同步Container</val>
+		<val>同步容器</val>
 	</string>
 	<string>
 		<id>sys_drctr_uc</id>
 		<c>item in ProviderCC left menu</c>
-		<val>系统主管</val>
+		<val>系统管理</val>
 	</string>
 	<string>
 		<id>sys_err</id>
@@ -53861,7 +53861,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sys_err_failed_create_ve_gate_obj</id>
 		<c>Migration Manager | Error message</c>
-		<val>系统错误：创建Container门户对象失败。</val>
+		<val>系统错误：创建容器门户对象失败。</val>
 	</string>
 	<string>
 		<id>sys_error_contact_support</id>
@@ -53981,7 +53981,7 @@ poll payment statuses)</c>
 	<string>
 		<id>task_upd_ve_disk_usage</id>
 		<c>SL|LimitApproach task description</c>
-		<val>更新Container磁盘使用量</val>
+		<val>更新容器磁盘使用量</val>
 	</string>
 	<string>
 		<id>task_updated_ok</id>
@@ -54747,7 +54747,7 @@ poll payment statuses)</c>
 	<string>
 		<id>the_kernel_no_support_for_ves</id>
 		<c>error message from vztools</c>
-		<val>内核不支持Container。</val>
+		<val>内核不支持容器。</val>
 	</string>
 	<string>
 		<id>the_object_was_removed_recently</id>
@@ -54792,22 +54792,22 @@ poll payment statuses)</c>
 	<string>
 		<id>there_are_no_hw_nodes_to_start_ve</id>
 		<c>error message from vztools</c>
-		<val>尚无可用于启动Container的硬件节点。</val>
+		<val>尚无可用于启动容器的硬件节点。</val>
 	</string>
 	<string>
 		<id>there_are_no_more_free_dynamic_ip_addrs_to_start_ve</id>
 		<c>error message from vztools</c>
-		<val>尚无更多空闲的动态IP地址来启动Container。</val>
+		<val>尚无更多空闲的动态IP地址来启动容器。</val>
 	</string>
 	<string>
 		<id>there_are_no_more_free_ip_addrs_to_start_ve</id>
 		<c>error message from vztools</c>
-		<val>尚无更多空闲IP地址来启动Container。</val>
+		<val>尚无更多空闲IP地址来启动容器。</val>
 	</string>
 	<string>
 		<id>there_are_no_os_tmpls_to_create_ve</id>
 		<c>error in Infrastructure Manager</c>
-		<val>尚无可用于Container创建的OS模板。</val>
+		<val>尚无可用于容器创建的OS模板。</val>
 	</string>
 	<string>
 		<id>there_are_not_enough_dynamic_ip_addrs_on_hw_node</id>
@@ -54832,7 +54832,7 @@ poll payment statuses)</c>
 	<string>
 		<id>there_are_some_other_hw_nodes_that_use_this_one_as_a_storage_for_their_ve_backups</id>
 		<c>CC|Backup Action error string</c>
-		<val>存在一些使用此存储Container备份的硬件节点。</val>
+		<val>存在一些使用此存储容器备份的硬件节点。</val>
 	</string>
 	<string>
 		<id>there_are_website_with_this_name_in_database</id>
@@ -54852,7 +54852,7 @@ poll payment statuses)</c>
 	<string>
 		<id>there_is_no_hw_node_to_create_webhost_domain</id>
 		<c>Status message</c>
-		<val>尚无用于创建Container的硬件节点。</val>
+		<val>尚无用于创建容器的硬件节点。</val>
 	</string>
 	<string>
 		<id>there_is_pcve_on_this_hw_node</id>
@@ -54877,7 +54877,7 @@ poll payment statuses)</c>
 	<string>
 		<id>there_is_ve_on_this_hw_node</id>
 		<c>Status message</c>
-		<val>无法删除该硬件节点。此硬件节点存在托管的Container。您可以先将Container迁移到其他硬件节点然后再试。</val>
+		<val>无法删除该硬件节点。此硬件节点存在托管的容器。您可以先将容器迁移到其他硬件节点然后再试。</val>
 	</string>
 	<string>
 		<id>there_is_vm_on_this_hw_node</id>
@@ -54922,7 +54922,7 @@ poll payment statuses)</c>
 	<string>
 		<id>this_hw_node</id>
 		<c>OM | Backup configuration input label</c>
-		<val>在硬件节点上存储Container备份</val>
+		<val>在硬件节点上存储容器备份</val>
 	</string>
 	<string>
 		<id>this_os_tmpl_was_already_installed_on_the_selected_hw_node_s</id>
@@ -55037,7 +55037,7 @@ poll payment statuses)</c>
 	<string>
 		<id>ti_ve_not_found</id>
 		<c>Import-Export Manager - traffic import</c>
-		<val>未找到Container #%id%。</val>
+		<val>未找到容器 #%id%。</val>
 	</string>
 	<string>
 		<id>ticket_changed</id>
@@ -55267,17 +55267,17 @@ poll payment statuses)</c>
 	<string>
 		<id>tmpl_err_inst_ve_state_changed</id>
 		<c>PCC | VPS Container management | Install Applications | Error message</c>
-		<val>安装在Container上的应用程序设置已被其他程序更改。请尝试重新运行安装程序。</val>
+		<val>安装在容器上的应用程序设置已被其他程序更改。请尝试重新运行安装程序。</val>
 	</string>
 	<string>
 		<id>tmpl_err_upg_ve_state_changed</id>
 		<c>CP | Site | Upgrade Applications | Error message</c>
-		<val>安装在Container上的应用程序设置已经被其他程序更改。请尝试重新运行升级程序。</val>
+		<val>安装在容器上的应用程序设置已经被其他程序更改。请尝试重新运行升级程序。</val>
 	</string>
 	<string>
 		<id>tmpl_err_vps_owner_not_subscribed_app</id>
 		<c>PCC | VPS Container management | Install Applications | Error message</c>
-		<val>Container的所有者尚未订购所选的应用程序。</val>
+		<val>容器的所有者尚未订购所选的应用程序。</val>
 	</string>
 	<string>
 		<id>tmpl_file_location_uc</id>
@@ -55302,12 +55302,12 @@ poll payment statuses)</c>
 	<string>
 		<id>tmpl_inst_dont_create_order_desc</id>
 		<c>PCC | VPS Container management | Install Applications | Option description</c>
-		<val>如果您不想创建订单而只想将应用程序安装到Container中，那么请选择此选项。</val>
+		<val>如果您不想创建订单而只想将应用程序安装到容器中，那么请选择此选项。</val>
 	</string>
 	<string>
 		<id>tmpl_inst_update_order_created_ok</id>
 		<c>PCC | VPS Container management | Install Applications | Status message</c>
-		<val>更新订单已成功创建。应用程序将在接受付款后安装到Container中。</val>
+		<val>更新订单已成功创建。应用程序将在接受付款后安装到容器中。</val>
 	</string>
 	<string>
 		<id>tmpl_is_scheduled_for_sync</id>
@@ -55372,7 +55372,7 @@ poll payment statuses)</c>
 	<string>
 		<id>tmpl_upgrade_locked</id>
 		<c>CP | Site | Upgrade Applications | Status/Error message</c>
-		<val>Container已被其他升级应用程序锁定。请稍后再试。</val>
+		<val>容器已被其他升级应用程序锁定。请稍后再试。</val>
 	</string>
 	<string>
 		<id>tmpl_upgrade_no_apps_available</id>
@@ -55412,12 +55412,12 @@ poll payment statuses)</c>
 	<string>
 		<id>tmpls_arenot_installed_on_hn</id>
 		<c>error message in VPS Manager</c>
-		<val>所选的Container包含尚未与硬件节点%hw_hostname%同步的模板：%tmpls%</val>
+		<val>所选的容器包含尚未与硬件节点%hw_hostname%同步的模板：%tmpls%</val>
 	</string>
 	<string>
 		<id>tmpls_cannot_be_installed_on_hn</id>
 		<c>error message in VPS Manager</c>
-		<val>所选的Container包含模板，无法与硬件节点%hw_hostname%同步：%tmpls%</val>
+		<val>所选的容器包含模板，无法与硬件节点%hw_hostname%同步：%tmpls%</val>
 	</string>
 	<string>
 		<id>tmpls_root_dir_not_specified</id>
@@ -55536,12 +55536,12 @@ poll payment statuses)</c>
 	<string>
 		<id>to_manage_ve</id>
 		<c>Store - last page</c>
-		<val>若要管理Container：</val>
+		<val>若要管理容器：</val>
 	</string>
 	<string>
 		<id>to_manage_ve_until_processed</id>
 		<c>Store - last page</c>
-		<val>若要管理Container(仅当您开始支付时，部分选项才可用)：</val>
+		<val>若要管理容器(仅当您开始支付时，部分选项才可用)：</val>
 	</string>
 	<string>
 		<id>to_name_cant_be_empty</id>
@@ -55571,12 +55571,12 @@ poll payment statuses)</c>
 	<string>
 		<id>to_remove_ip_addrs_assigned_to_running_ves_please_stop_ve</id>
 		<c>IPPool Manager| Error message</c>
-		<val>您正在删除的IP地址已分配给运行中的Container。请停止正在使用这些IP地址的Container并重试。</val>
+		<val>您正在删除的IP地址已分配给运行中的容器。请停止正在使用这些IP地址的容器并重试。</val>
 	</string>
 	<string>
 		<id>to_remove_ip_addrs_permanently_assigned_to_ves_please_destroy_ves_or_chg_ip</id>
 		<c>IPPool Manager| Error message</c>
-		<val>您正在尝试删除的IP地址已被永久分配给Container。请删除这些Container或更改其IP地址设置。</val>
+		<val>您正在尝试删除的IP地址已被永久分配给容器。请删除这些容器或更改其IP地址设置。</val>
 	</string>
 	<string>
 		<id>to_res_uc</id>
@@ -56032,7 +56032,7 @@ poll payment statuses)</c>
 	<string>
 		<id>total_ves_uc</id>
 		<c>Summary Teaser Link</c>
-		<val>Container总数</val>
+		<val>容器总数</val>
 	</string>
 	<string>
 		<id>total_visits_uc</id>
@@ -56612,7 +56612,7 @@ poll payment statuses)</c>
 	<string>
 		<id>trial_period_shouldnt_b_longer</id>
 		<c>error message</c>
-		<val>基于%plan_name%主机方案的Container试用期不应当超过%max_period%。</val>
+		<val>基于%plan_name%主机方案的容器试用期不应当超过%max_period%。</val>
 	</string>
 	<string>
 		<id>trial_subscr</id>
@@ -56647,17 +56647,17 @@ poll payment statuses)</c>
 	<string>
 		<id>trial_ve_uc</id>
 		<c>Form - upper case</c>
-		<val>试用Container</val>
+		<val>试用容器</val>
 	</string>
 	<string>
 		<id>trial_ves_setup_uc</id>
 		<c>Form - upper case</c>
-		<val>试用Container设置</val>
+		<val>试用容器设置</val>
 	</string>
 	<string>
 		<id>trial_virtual_environments_can_be_created_on</id>
 		<c>text from Setup page in Infrastructure Manager</c>
-		<val>试用Container可创建在：</val>
+		<val>试用容器可创建在：</val>
 	</string>
 	<string>
 		<id>trial_webhost_uc</id>
@@ -56949,7 +56949,7 @@ poll payment statuses)</c>
 	<string>
 		<id>u_cant_restore_backups_4_dead_ve</id>
 		<c>CC | OM | Backups | Error message</c>
-		<val>您无法恢复已删除的Container备份。</val>
+		<val>您无法恢复已删除的容器备份。</val>
 	</string>
 	<string>
 		<id>u_cant_ubgrade_subscr</id>
@@ -56969,7 +56969,7 @@ poll payment statuses)</c>
 	<string>
 		<id>u_should_sel_ve</id>
 		<c>PCC|MG|Error message</c>
-		<val>您应选择Container。</val>
+		<val>您应选择容器。</val>
 	</string>
 	<string>
 		<id>u_should_type_for_hp_name</id>
@@ -57270,7 +57270,7 @@ poll payment statuses)</c>
 	<string>
 		<id>unable_get_latest_version_of_package</id>
 		<c>Application Director | Error message</c>
-		<val>无法获取Container #%ve_id%中的最新版本的%package%</val>
+		<val>无法获取容器 #%ve_id%中的最新版本的%package%</val>
 	</string>
 	<string>
 		<id>unable_load_excl</id>
@@ -57308,7 +57308,7 @@ poll payment statuses)</c>
 	</string>
 	<string>
 		<id>unable_set_ip_4_ve</id>
-		<val>无法为Container设置IP地址</val>
+		<val>无法为容器设置IP地址</val>
 	</string>
 	<string>
 		<id>unable_to_copy_file</id>
@@ -57326,11 +57326,11 @@ poll payment statuses)</c>
 	</string>
 	<string>
 		<id>unable_to_install_package_set_into_ve</id>
-		<val>无法在Container中安装程序包组。</val>
+		<val>无法在容器中安装程序包组。</val>
 	</string>
 	<string>
 		<id>unable_to_remove_packageset_from_ve</id>
-		<val>无法从Container删除程序包组。</val>
+		<val>无法从容器删除程序包组。</val>
 	</string>
 	<string>
 		<id>unable_to_set_traffic_accounting_rules</id>
@@ -57375,12 +57375,12 @@ poll payment statuses)</c>
 	<string>
 		<id>unable_uninst_app_ve</id>
 		<c>Application Director:  Error message</c>
-		<val>无法从管理节点卸载应用程序。存在使用此应用程序或其更新的Container。请先删除Container。</val>
+		<val>无法从管理节点卸载应用程序。存在使用此应用程序或其更新的容器。请先删除容器。</val>
 	</string>
 	<string>
 		<id>unable_uninst_os_ve</id>
 		<c>Application Director:  Error message</c>
-		<val>无法从管理节点卸载操作系统模板。因为有Container基于此操作系统模板或其更新。请先删除此Container。</val>
+		<val>无法从管理节点卸载操作系统模板。因为有容器基于此操作系统模板或其更新。请先删除此容器。</val>
 	</string>
 	<string>
 		<id>unable_uninst_ost_hp</id>
@@ -57440,7 +57440,7 @@ poll payment statuses)</c>
 	<string>
 		<id>undelete_ve</id>
 		<c>long action description for Action Log ('descr' table)</c>
-		<val>取消删除Container</val>
+		<val>取消删除容器</val>
 	</string>
 	<string>
 		<id>unexpect_error_try_again</id>
@@ -57705,7 +57705,7 @@ poll payment statuses)</c>
 	<string>
 		<id>unused_ip</id>
 		<c>IP-related problem in Conflicts Resolver</c>
-		<val>此IP地址已分配给Container，但此Container未使用该地址。</val>
+		<val>此IP地址已分配给容器，但此容器未使用该地址。</val>
 	</string>
 	<string>
 		<id>unused_licenses_uc</id>
@@ -57819,7 +57819,7 @@ poll payment statuses)</c>
 	<string>
 		<id>upd_data_ve</id>
 		<c>long action description for Action Log ('descr' table)</c>
-		<val>更新Container数据</val>
+		<val>更新容器数据</val>
 	</string>
 	<string>
 		<id>upd_date</id>
@@ -58173,7 +58173,7 @@ poll payment statuses)</c>
 	<string>
 		<id>upgrade_the_following_virtual_environments</id>
 		<c>Application Director | Table header</c>
-		<val>升级下列Container</val>
+		<val>升级下列容器</val>
 	</string>
 	<string>
 		<id>upgrade_to_a_real_hosting_plan</id>
@@ -58188,12 +58188,12 @@ poll payment statuses)</c>
 	<string>
 		<id>upgrade_ves_uc</id>
 		<c>Application Director | Tab title</c>
-		<val>升级Container</val>
+		<val>升级容器</val>
 	</string>
 	<string>
 		<id>upgrade_with_root_without_root</id>
 		<c>PCC|BD|Billing Manager|Hosting Plans|Upgrade</c>
-		<val>无法从具有根权限的Container升级到无根权限的主机方案。</val>
+		<val>无法从具有根权限的容器升级到无根权限的主机方案。</val>
 	</string>
 	<string>
 		<id>upgrades</id>
@@ -58682,12 +58682,12 @@ poll payment statuses)</c>
 	<string>
 		<id>use_reg_ve_for_res</id>
 		<c>Conflict Resolver|Field name</c>
-		<val>使用已注册的Container进行解析</val>
+		<val>使用已注册的容器进行解析</val>
 	</string>
 	<string>
 		<id>use_reg_ve_for_res_hw</id>
 		<c>Conflict Resolver</c>
-		<val>更改系统中注册的ContainerHW节点(此Container刚被手动迁移)</val>
+		<val>更改系统中注册的容器HW节点(此容器刚被手动迁移)</val>
 	</string>
 	<string>
 		<id>use_regex</id>
@@ -58772,7 +58772,7 @@ poll payment statuses)</c>
 	<string>
 		<id>used_by_ve</id>
 		<c>Conflict Resolver</c>
-		<val>由Container使用</val>
+		<val>由容器使用</val>
 	</string>
 	<string>
 		<id>used_s</id>
@@ -59209,32 +59209,32 @@ poll payment statuses)</c>
 	<string>
 		<id>ve_added_ok</id>
 		<c>Status message</c>
-		<val>成功添加Container。</val>
+		<val>成功添加容器。</val>
 	</string>
 	<string>
 		<id>ve_already_added_to_subscription</id>
 		<c>Billing</c>
-		<val>已将Container #%VEID%添加到业务中</val>
+		<val>已将容器 #%VEID%添加到业务中</val>
 	</string>
 	<string>
 		<id>ve_already_located_on_hw_node</id>
 		<c>VPS Container status message</c>
-		<val>%hostname% Container位于此硬件节点上。</val>
+		<val>%hostname% 容器位于此硬件节点上。</val>
 	</string>
 	<string>
 		<id>ve_already_registered</id>
 		<c>VPS Container error message</c>
-		<val>使用此主机名的Container已注册。</val>
+		<val>使用此主机名的容器已注册。</val>
 	</string>
 	<string>
 		<id>ve_already_running</id>
 		<c>VPS Container status message</c>
-		<val>%hostname% Container已在运行中。</val>
+		<val>%hostname% 容器已在运行中。</val>
 	</string>
 	<string>
 		<id>ve_approaching_limit</id>
 		<c>SL|</c>
-		<val>Container即将达到限制</val>
+		<val>容器即将达到限制</val>
 	</string>
 	<string>
 		<id>ve_apps_no_billing_warning</id>
@@ -59244,62 +59244,62 @@ poll payment statuses)</c>
 	<string>
 		<id>ve_apps_uc</id>
 		<c>Office|Billing|VE Applications</c>
-		<val>Container应用程序</val>
+		<val>容器应用程序</val>
 	</string>
 	<string>
 		<id>ve_ar_start_rest</id>
 		<c>PBAs | CC | add_error</c>
-		<val>已开始恢复Container %ve_id%：%id%</val>
+		<val>已开始恢复容器 %ve_id%：%id%</val>
 	</string>
 	<string>
 		<id>ve_booting_right_now</id>
 		<c>VPS Container status message</c>
-		<val>%hostname% Container正在启动。</val>
+		<val>%hostname% 容器正在启动。</val>
 	</string>
 	<string>
 		<id>ve_cannot_started</id>
 		<c>VPS Container status message</c>
-		<val>无法启动%hostname% Container。</val>
+		<val>无法启动%hostname% 容器。</val>
 	</string>
 	<string>
 		<id>ve_ched_4rep</id>
 		<c>CP | SACP | Server info | Status Message</c>
-		<val>Container已被预定修复。</val>
+		<val>容器已被预定修复。</val>
 	</string>
 	<string>
 		<id>ve_class</id>
 		<c>Field title</c>
-		<val>Container级别</val>
+		<val>容器级别</val>
 	</string>
 	<string>
 		<id>ve_class_licenses_uc</id>
 		<c>Item in menu tree</c>
-		<val>Virtuozzo Container级别许可证</val>
+		<val>Virtuozzo 容器级别许可证</val>
 	</string>
 	<string>
 		<id>ve_conf</id>
 		<c>Page Title</c>
-		<val>Container配置</val>
+		<val>容器配置</val>
 	</string>
 	<string>
 		<id>ve_config_file_not_found</id>
 		<c>error message from vztools</c>
-		<val>未找到Container配置文件。</val>
+		<val>未找到容器配置文件。</val>
 	</string>
 	<string>
 		<id>ve_created</id>
 		<c>Event Manager | Event type name</c>
-		<val>Container已创建</val>
+		<val>容器已创建</val>
 	</string>
 	<string>
 		<id>ve_created_already</id>
 		<c>VPS Container status message</c>
-		<val>%hostname% Container已存在。</val>
+		<val>%hostname% 容器已存在。</val>
 	</string>
 	<string>
 		<id>ve_creating_right_now</id>
 		<c>VPS Container status message</c>
-		<val>正在创建%hostname% Container。</val>
+		<val>正在创建%hostname% 容器。</val>
 	</string>
 	<string>
 		<id>ve_dead</id>
@@ -59309,26 +59309,26 @@ poll payment statuses)</c>
 	<string>
 		<id>ve_destroyed</id>
 		<c>VPS Container status message</c>
-		<val>%hostname% Container已删除。</val>
+		<val>%hostname% 容器已删除。</val>
 	</string>
 	<string>
 		<id>ve_destroying_right_now</id>
 		<c>VPS Container status message</c>
-		<val>正在删除%hostname% Container。</val>
+		<val>正在删除%hostname% 容器。</val>
 	</string>
 	<string>
 		<id>ve_does_not_exist</id>
 		<c>error message from vztools</c>
-		<val>Container不存在</val>
+		<val>容器不存在</val>
 	</string>
 	<string>
 		<id>ve_gen_settings</id>
-		<val>Container常规设置</val>
+		<val>容器常规设置</val>
 	</string>
 	<string>
 		<id>ve_hname_cudnotb_migrated</id>
 		<c>Error message</c>
-		<val>无法迁移Container %hostname%。</val>
+		<val>无法迁移容器 %hostname%。</val>
 	</string>
 	<string>
 		<id>ve_hostname</id>
@@ -59338,17 +59338,17 @@ poll payment statuses)</c>
 	<string>
 		<id>ve_hostname_is_currently_in_repair_mode</id>
 		<c>Error while attempting operate VPS Container in Repair Mode</c>
-		<val>%hostname% Container当前处于修复模式。</val>
+		<val>%hostname% 容器当前处于修复模式。</val>
 	</string>
 	<string>
 		<id>ve_hostname_is_in_repair_mode_already</id>
 		<c>Error while attempting operate VPS Container in Repair Mode</c>
-		<val>%hostname% Container处于修复模式。</val>
+		<val>%hostname% 容器处于修复模式。</val>
 	</string>
 	<string>
 		<id>ve_hostname_uc</id>
 		<c>Table column title</c>
-		<val>Container主机名</val>
+		<val>容器主机名</val>
 	</string>
 	<string>
 		<id>ve_id</id>
@@ -59358,107 +59358,107 @@ poll payment statuses)</c>
 	<string>
 		<id>ve_id_is_not_specified</id>
 		<c>OM|Website</c>
-		<val>尚未指定Container ID</val>
+		<val>尚未指定容器 ID</val>
 	</string>
 	<string>
 		<id>ve_in_repair_mode</id>
 		<c>Error while attempting operate VPS Container in Repair Mode</c>
-		<val>%hostname% Container当前处于修复模式。请先将其停止，然后再启动。</val>
+		<val>%hostname% 容器当前处于修复模式。请先将其停止，然后再启动。</val>
 	</string>
 	<string>
 		<id>ve_is_already_running</id>
 		<c>error message from vztools</c>
-		<val>Container正在运行</val>
+		<val>容器正在运行</val>
 	</string>
 	<string>
 		<id>ve_is_locked</id>
 		<c>error message from vztools</c>
-		<val>Container已锁定</val>
+		<val>容器已锁定</val>
 	</string>
 	<string>
 		<id>ve_is_not_running</id>
 		<c>error message from vztools</c>
-		<val>Container尚未运行。</val>
+		<val>容器尚未运行。</val>
 	</string>
 	<string>
 		<id>ve_is_ns_you_should_delete_ns</id>
 		<c>Status message</c>
-		<val>Container #%ve_id%已被名称服务器#%ns_id%使用。您应先删除已分配给此Container的名称服务器</val>
+		<val>容器 #%ve_id%已被名称服务器#%ns_id%使用。您应先删除已分配给此容器的名称服务器</val>
 	</string>
 	<string>
 		<id>ve_is_running_lc</id>
 		<c>error message from vztools</c>
-		<val>Container正在运行。</val>
+		<val>容器正在运行。</val>
 	</string>
 	<string>
 		<id>ve_migrating_right_now</id>
 		<c>VPS Container status message</c>
-		<val>正在迁移%hostname% Container。</val>
+		<val>正在迁移%hostname% 容器。</val>
 	</string>
 	<string>
 		<id>ve_must_have_one_ip_addr_at_least</id>
 		<c>Status message</c>
-		<val>Container必须至少有一个IP地址。</val>
+		<val>容器必须至少有一个IP地址。</val>
 	</string>
 	<string>
 		<id>ve_name</id>
 		<c>Review form field label</c>
-		<val>Container名称</val>
+		<val>容器名称</val>
 	</string>
 	<string>
 		<id>ve_no_billing_plan_attached</id>
 		<c>error message from vztools</c>
-		<val>Container未附带支付方案。</val>
+		<val>容器未附带支付方案。</val>
 	</string>
 	<string>
 		<id>ve_not_found</id>
 		<c>error message</c>
-		<val>未找到Container #%id%。</val>
+		<val>未找到容器 #%id%。</val>
 	</string>
 	<string>
 		<id>ve_not_running</id>
 		<c>VPS Container status message</c>
-		<val>%hostname% Container尚未运行。</val>
+		<val>%hostname% 容器尚未运行。</val>
 	</string>
 	<string>
 		<id>ve_not_running_short</id>
 		<c>text representation for result code ('descr' table)</c>
-		<val>Container不处于运行状态</val>
+		<val>容器不处于运行状态</val>
 	</string>
 	<string>
 		<id>ve_not_specified</id>
 		<c>Status message</c>
-		<val>未指定Container。</val>
+		<val>未指定容器。</val>
 	</string>
 	<string>
 		<id>ve_ns_type</id>
 		<c>DM|Add new NS|NS type</c>
-		<val>在新的Container上安装名称服务器</val>
+		<val>在新的容器上安装名称服务器</val>
 	</string>
 	<string>
 		<id>ve_ns_type_sh</id>
 		<c>DM|NS list|NS property</c>
-		<val>基于Container</val>
+		<val>基于容器</val>
 	</string>
 	<string>
 		<id>ve_object_is_not_defined</id>
 		<c>MG|Plugin|WEBppliance2</c>
-		<val>尚未定义Container对象</val>
+		<val>尚未定义容器对象</val>
 	</string>
 	<string>
 		<id>ve_off_line</id>
 		<c>VPS Container status message</c>
-		<val>%hostname% Container处于离线状态</val>
+		<val>%hostname% 容器处于离线状态</val>
 	</string>
 	<string>
 		<id>ve_on_dserv_dest</id>
 		<c>Office|Event Manager|Events</c>
-		<val>专用服务器上的Container已删除</val>
+		<val>专用服务器上的容器已删除</val>
 	</string>
 	<string>
 		<id>ve_on_dserv_stop</id>
 		<c>Office|Event Manager|Events</c>
-		<val>在专用服务器上的Container已停止</val>
+		<val>在专用服务器上的容器已停止</val>
 	</string>
 	<string>
 		<id>ve_private_not_set</id>
@@ -59468,7 +59468,7 @@ poll payment statuses)</c>
 	<string>
 		<id>ve_properties_uc</id>
 		<c>Office|Billing|VE Properties</c>
-		<val>Container属性</val>
+		<val>容器属性</val>
 	</string>
 	<string>
 		<id>ve_rename_cancelled</id>
@@ -59488,7 +59488,7 @@ poll payment statuses)</c>
 	<string>
 		<id>ve_reparing_now</id>
 		<c>VPS Container status message</c>
-		<val>正在修复%hostname% Container。</val>
+		<val>正在修复%hostname% 容器。</val>
 	</string>
 	<string>
 		<id>ve_root_not_set</id>
@@ -59498,102 +59498,102 @@ poll payment statuses)</c>
 	<string>
 		<id>ve_running</id>
 		<c>text representation for result code ('descr' table)</c>
-		<val>Container已在运行中</val>
+		<val>容器已在运行中</val>
 	</string>
 	<string>
 		<id>ve_scheduled_for_starting</id>
 		<c>CP|Server status</c>
-		<val>计划启动Container。请刷新屏幕来查看进程。</val>
+		<val>计划启动容器。请刷新屏幕来查看进程。</val>
 	</string>
 	<string>
 		<id>ve_scheduled_for_stopping</id>
 		<c>CP|Server status</c>
-		<val>计划停止Container。请刷新屏幕来查看进程。</val>
+		<val>计划停止容器。请刷新屏幕来查看进程。</val>
 	</string>
 	<string>
 		<id>ve_selection_uc</id>
 		<c>PCC|MG|form header</c>
-		<val>Container选择</val>
+		<val>容器选择</val>
 	</string>
 	<string>
 		<id>ve_should_created_first</id>
 		<c>VPS Container status message</c>
-		<val>应先创建%hostname% Container。</val>
+		<val>应先创建%hostname% 容器。</val>
 	</string>
 	<string>
 		<id>ve_should_have_subscr_in_order_to_be_started</id>
 		<c>error message while migrating VPS Container</c>
-		<val>Container应有业务才可以被启动。</val>
+		<val>容器应有业务才可以被启动。</val>
 	</string>
 	<string>
 		<id>ve_started</id>
 		<c>Event Manager | Event type name</c>
-		<val>Container已启动</val>
+		<val>容器已启动</val>
 	</string>
 	<string>
 		<id>ve_status</id>
-		<val>Container状态</val>
+		<val>容器状态</val>
 		<g>webfront_ve_status</g>
 	</string>
 	<string>
 		<id>ve_str_containig_domain_was_found</id>
 		<c>MT|MG</c>
-		<val>包含网站"%domain%”的Container %ve_str%已经找到。</val>
+		<val>包含网站"%domain%”的容器 %ve_str%已经找到。</val>
 	</string>
 	<string>
 		<id>ve_sts_uc</id>
 		<c>CP|System|Systems list</c>
-		<val>Container状态</val>
+		<val>容器状态</val>
 	</string>
 	<string>
 		<id>ve_subscr_is_terminating_already</id>
 		<c>Event Manager|Events|Event name</c>
-		<val>业务#%subscr_id% (VE #%vps_id%)已处于“终止”状态。依照业务终止规则，Container将会被删除。</val>
+		<val>业务#%subscr_id% (VE #%vps_id%)已处于“终止”状态。依照业务终止规则，容器将会被删除。</val>
 	</string>
 	<string>
 		<id>ve_subscription_fee</id>
 		<c>Billing</c>
-		<val>Container业务费用</val>
+		<val>容器业务费用</val>
 	</string>
 	<string>
 		<id>ve_uc</id>
 		<c>used in conflict resolver</c>
-		<val>Container</val>
+		<val>容器</val>
 	</string>
 	<string>
 		<id>ve_upd_cancelled</id>
 		<c>Status message</c>
-		<val>Container更新已取消。</val>
+		<val>容器更新已取消。</val>
 	</string>
 	<string>
 		<id>ve_updated_ok</id>
 		<c>Status message</c>
-		<val>Container更新已成功预定。</val>
+		<val>容器更新已成功预定。</val>
 	</string>
 	<string>
 		<id>ve_uses_assigned_ip</id>
 		<c>IP-related problem in Conflicts Resolver</c>
-		<val>Container正在使用已分配给另一个Container的IP地址。</val>
+		<val>容器正在使用已分配给另一个容器的IP地址。</val>
 	</string>
 	<string>
 		<id>ve_uses_ip_not_assigned</id>
 		<c>IP-related problem in Conflicts Resolver</c>
-		<val>Container正在尝试使用一个未分配给它的IP地址。</val>
+		<val>容器正在尝试使用一个未分配给它的IP地址。</val>
 	</string>
 	<string>
 		<id>ve_uses_ip_not_registered</id>
 		<c>IP-related problem in Conflicts Resolver</c>
-		<val>使用该IP地址的Container未在Parallels Business Automation - Standard中注册。</val>
+		<val>使用该IP地址的容器未在Parallels Business Automation - Standard中注册。</val>
 	</string>
 	<string>
 		<id>ve_was_reassigned_ok</id>
 		<c>Message showing after VPS Container was reassigned to another account</c>
-		<val>Container已重新分配成功</val>
+		<val>容器已重新分配成功</val>
 	</string>
 	<string>
 		<id>ve_will_be_registered_with_parameters</id>
 		<c>solution in Conflicts Resolver</c>
-		<val>Container将按下列参数注册：</val>
+		<val>容器将按下列参数注册：</val>
 	</string>
 	<string>
 		<id>vefs_already_mounted</id>
@@ -59613,7 +59613,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vefs_private_area_already_exist</id>
 		<c>error message from vztools</c>
-		<val>VZFS个人区域已存在。仅当您将冲突的Container从节点上删除后才可以创建新的Container。</val>
+		<val>VZFS个人区域已存在。仅当您将冲突的容器从节点上删除后才可以创建新的容器。</val>
 	</string>
 	<string>
 		<id>vefs_private_area_already_exists</id>
@@ -59648,17 +59648,17 @@ poll payment statuses)</c>
 	<string>
 		<id>veid_changed</id>
 		<c>VPS Container Resolver message</c>
-		<val>冲突的Container ID已更改。新的Container ID为%new_veid%</val>
+		<val>冲突的容器 ID已更改。新的容器 ID为%new_veid%</val>
 	</string>
 	<string>
 		<id>veid_should_changed_explained</id>
 		<c>VPS Container Resolver message</c>
-		<val>Container # %ve_id%已存在于Parallels Business Automation - Standard数据库中。若要解决冲突，冲突的Container %ve_hostname% ID将会在硬件节点上进行更改。请按下“下一步”继续进行操作。</val>
+		<val>容器 # %ve_id%已存在于Parallels Business Automation - Standard数据库中。若要解决冲突，冲突的容器 %ve_hostname% ID将会在硬件节点上进行更改。请按下“下一步”继续进行操作。</val>
 	</string>
 	<string>
 		<id>vem_2hw_sel_not_support</id>
 		<c>PCC|IM|Action Log error message</c>
-		<val>不支持Container迁移至所选的硬件节点。</val>
+		<val>不支持容器迁移至所选的硬件节点。</val>
 	</string>
 	<string>
 		<id>vendor</id>
@@ -59736,37 +59736,37 @@ poll payment statuses)</c>
 	<string>
 		<id>ves</id>
 		<c>WebCC | Hardware | TopBar menu item | VPS Containers  of Rack or HW node (listing)</c>
-		<val>Container</val>
+		<val>容器</val>
 	</string>
 	<string>
 		<id>ves_already_located_on_hw_node</id>
 		<c>Container migrate message</c>
-		<val>无法迁移部分Container，因为它们已位于目标节点上：%ves%</val>
+		<val>无法迁移部分容器，因为它们已位于目标节点上：%ves%</val>
 	</string>
 	<string>
 		<id>ves_belonging_to</id>
 		<c>Channel manager</c>
-		<val>Container属于</val>
+		<val>容器属于</val>
 	</string>
 	<string>
 		<id>ves_has_diff_platform</id>
 		<c>HN message</c>
-		<val>一些Container在硬件节点上拥有不同的平台</val>
+		<val>一些容器在硬件节点上拥有不同的平台</val>
 	</string>
 	<string>
 		<id>ves_reach_traffic_limit</id>
 		<c>CC|Dashboard item title</c>
-		<val>Container即将达到流量限制</val>
+		<val>容器即将达到流量限制</val>
 	</string>
 	<string>
 		<id>ves_reaching_limit</id>
 		<c>CC|Dashboard item title</c>
-		<val>Container达到磁盘限制</val>
+		<val>容器达到磁盘限制</val>
 	</string>
 	<string>
 		<id>ves_uc</id>
 		<c>Actions Log Dashboard</c>
-		<val>Container</val>
+		<val>容器</val>
 	</string>
 	<string>
 		<id>view</id>
@@ -59827,12 +59827,12 @@ poll payment statuses)</c>
 	<string>
 		<id>virtual_environments_resources_uc</id>
 		<c>Summary Teaser Link</c>
-		<val>Container资源</val>
+		<val>容器资源</val>
 	</string>
 	<string>
 		<id>virtual_environments_subscribed_for_upgrade</id>
 		<c>Application Director | From title</c>
-		<val>为升级而订购的Container</val>
+		<val>为升级而订购的容器</val>
 	</string>
 	<string>
 		<id>virtual_hosting</id>
@@ -59932,7 +59932,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vps_cant_be_destroyed</id>
 		<c>OD|Infrastructure Manager|Error message</c>
-		<val>删除Container“%hostname%”时出错：%error%。</val>
+		<val>删除容器“%hostname%”时出错：%error%。</val>
 	</string>
 	<string>
 		<id>vps_creat_in_progress</id>
@@ -59942,7 +59942,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vps_holder_uc</id>
 		<c>CP | Hostname holder type</c>
-		<val>Container #%id%</val>
+		<val>容器 #%id%</val>
 	</string>
 	<string>
 		<id>vps_id_uc</id>
@@ -59952,7 +59952,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vps_ip_addresses</id>
 		<c>IM | IP pool setup | Dashboard title</c>
-		<val>Container IP地址</val>
+		<val>容器 IP地址</val>
 	</string>
 	<string>
 		<id>vps_man_desc</id>
@@ -59962,32 +59962,32 @@ poll payment statuses)</c>
 	<string>
 		<id>vps_name_format_error</id>
 		<c>VPS manager|VZWindows VPS Container name error message</c>
-		<val>无效的Container名称。Container名称只能包含字母、数字或连字符(“-”)，它不能以连字符开头或结尾，并且不能包含空格。</val>
+		<val>无效的容器名称。容器名称只能包含字母、数字或连字符(“-”)，它不能以连字符开头或结尾，并且不能包含空格。</val>
 	</string>
 	<string>
 		<id>vps_name_uc</id>
 		<c>VPS manager|VZWindows VPS Container name</c>
-		<val>Container名称</val>
+		<val>容器名称</val>
 	</string>
 	<string>
 		<id>vps_not_found</id>
 		<c>Billing</c>
-		<val>未找到Container</val>
+		<val>未找到容器</val>
 	</string>
 	<string>
 		<id>vps_not_supp_backup</id>
 		<c>OM, Error message</c>
-		<val>Container #%id%不支持备份功能。</val>
+		<val>容器 #%id%不支持备份功能。</val>
 	</string>
 	<string>
 		<id>vps_not_supp_repair_mode</id>
 		<c>OM, Error message</c>
-		<val>Container不支持修复模式。</val>
+		<val>容器不支持修复模式。</val>
 	</string>
 	<string>
 		<id>vps_num_name</id>
 		<c>VPS Container title</c>
-		<val>Container #%ve_id% %ve_name%</val>
+		<val>容器 #%ve_id% %ve_name%</val>
 	</string>
 	<string>
 		<id>vps_secure_key</id>
@@ -59997,12 +59997,12 @@ poll payment statuses)</c>
 	<string>
 		<id>vps_with_webhost_cant_be_destroyed</id>
 		<c>OD|Infrastructure Manager|Error message</c>
-		<val>删除Container“%hostname%”和相应的Plesk硬件节点发生错误：%error%。</val>
+		<val>删除容器“%hostname%”和相应的Plesk硬件节点发生错误：%error%。</val>
 	</string>
 	<string>
 		<id>vpss_uc</id>
 		<c>Actions Log Dashboard</c>
-		<val>Container</val>
+		<val>容器</val>
 	</string>
 	<string>
 		<id>vswap_status</id>
@@ -60057,7 +60057,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vz_vps</id>
 		<c>IM | IP pool setup | List title</c>
-		<val>Container</val>
+		<val>容器</val>
 	</string>
 	<string>
 		<id>vz_vps_ps_uc</id>
@@ -60067,7 +60067,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vz_vps_uc</id>
 		<c>Billing|Hosting Plan Type|VPS Container</c>
-		<val>Container</val>
+		<val>容器</val>
 	</string>
 	<string>
 		<id>vza_provis_err</id>
@@ -60092,7 +60092,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vze_not_run</id>
 		<c>VZAgent error</c>
-		<val>Container尚未运行。</val>
+		<val>容器尚未运行。</val>
 	</string>
 	<string>
 		<id>vzpp_disabled_msg</id>
@@ -60257,7 +60257,7 @@ poll payment statuses)</c>
 	<string>
 		<id>warn_os_tmpl_reg_new_node</id>
 		<c>New HW node | warning</c>
-		<val>如果正在注册的节点有比PBAs更新的操作系统模板版本，并且有一些Container基于这些更新版本 -- 它们将无法使用。如果属于此类情况，请取消注册，然后先将这些操作系统模板安装到Parallels Business Automation - Standard中。</val>
+		<val>如果正在注册的节点有比PBAs更新的操作系统模板版本，并且有一些容器基于这些更新版本 -- 它们将无法使用。如果属于此类情况，请取消注册，然后先将这些操作系统模板安装到Parallels Business Automation - Standard中。</val>
 	</string>
 	<string>
 		<id>warn_permissions_out_of_range</id>
@@ -60317,7 +60317,7 @@ poll payment statuses)</c>
 	<string>
 		<id>warning_num_ip_addresss_from_this_ip_pool_are_used_by_other</id>
 		<c>IPPool Manager| Warning message</c>
-		<val>警告：此IP地址池中的%num% IP地址已被其他账户使用。请删除这些账户的Container或更改其IP地址设置。</val>
+		<val>警告：此IP地址池中的%num% IP地址已被其他账户使用。请删除这些账户的容器或更改其IP地址设置。</val>
 	</string>
 	<string>
 		<id>warns</id>
@@ -60487,7 +60487,7 @@ poll payment statuses)</c>
 	<string>
 		<id>webcc_down_phrase1</id>
 		<c>WebCC | Download | Text</c>
-		<val>Parallels Business Automation - Standard控制中心(PBA CC)是GCI客户应用程序。它提供对硬件节点和Container的全面管理和控制。</val>
+		<val>Parallels Business Automation - Standard控制中心(PBA CC)是GCI客户应用程序。它提供对硬件节点和容器的全面管理和控制。</val>
 		<g>webcc_down</g>
 	</string>
 	<string>
@@ -61242,7 +61242,7 @@ poll payment statuses)</c>
 	<string>
 		<id>website_ip_address_not_found_in_ve</id>
 		<c>Website Configuration</c>
-		<val>分配给该网站的IP地址“%ip%”不再属于Container。请为该网站分配另一个IP地址。</val>
+		<val>分配给该网站的IP地址“%ip%”不再属于容器。请为该网站分配另一个IP地址。</val>
 	</string>
 	<string>
 		<id>website_management_uc</id>
@@ -61317,7 +61317,7 @@ poll payment statuses)</c>
 	<string>
 		<id>websites_wrong_ip</id>
 		<c>PCC|IM|Warning</c>
-		<val>下列网站：已使用不属于主机Container的IP地址配置%websites%</val>
+		<val>下列网站：已使用不属于主机容器的IP地址配置%websites%</val>
 	</string>
 	<string>
 		<id>wednesday</id>
@@ -61815,7 +61815,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_about_deleting_dflt_hostname_for_ve</id>
 		<c>DM</c>
-		<val>您准备删除Container的默认主机名%%name%。请输入另一个主机名作为此Container的默认项。</val>
+		<val>您准备删除容器的默认主机名%%name%。请输入另一个主机名作为此容器的默认项。</val>
 	</string>
 	<string>
 		<id>you_already_logged_as</id>
@@ -61875,7 +61875,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_cannot_create_ve_on_hp</id>
 		<c>error message</c>
-		<val>您无法基于%plan_name%主机方案创建试用的Container。</val>
+		<val>您无法基于%plan_name%主机方案创建试用的容器。</val>
 	</string>
 	<string>
 		<id>you_cannot_save_backup_files_on_this_hw_node_id</id>
@@ -61962,7 +61962,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_must_permit_to_store_backups_on_this_hw_node</id>
 		<c>CC|Backup Action error string</c>
-		<val>要在该硬件节点上储存Container备份，您需要启用备份存储。</val>
+		<val>要在该硬件节点上储存容器备份，您需要启用备份存储。</val>
 	</string>
 	<string>
 		<id>you_must_sel_hp</id>
@@ -62096,7 +62096,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_select_os_tmpl_for_ec_ve</id>
 		<c>Status message</c>
-		<val>您应为企业用户的Container选择操作系统模板。</val>
+		<val>您应为企业用户的容器选择操作系统模板。</val>
 	</string>
 	<string>
 		<id>you_should_select_plan_type</id>
@@ -62126,7 +62126,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_specify_at_least_one_hostname_for_ve</id>
 		<c>Status message</c>
-		<val>您应为Container至少指定一个主机名。</val>
+		<val>您应为容器至少指定一个主机名。</val>
 	</string>
 	<string>
 		<id>you_should_specify_at_least_one_hw_node_for_paid_ves</id>
@@ -62136,7 +62136,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_specify_at_least_one_hw_node_for_paid_webhosts</id>
 		<c>error message on setup page in Infrastructure Manager</c>
-		<val>您应为非试用Container至少指定一个硬件节点。</val>
+		<val>您应为非试用容器至少指定一个硬件节点。</val>
 	</string>
 	<string>
 		<id>you_should_specify_at_least_one_hw_node_for_trial_ves</id>
@@ -62146,7 +62146,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_specify_at_least_one_hw_node_for_trial_webhosts</id>
 		<c>error message on setup page in Infrastructure Manager</c>
-		<val>您应为试用Container指定至少一个硬件节点。</val>
+		<val>您应为试用容器指定至少一个硬件节点。</val>
 	</string>
 	<string>
 		<id>you_should_specify_base_set</id>
@@ -62161,12 +62161,12 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_specify_ve_domain</id>
 		<c>VPS Container error message</c>
-		<val>请指定Container域名。</val>
+		<val>请指定容器域名。</val>
 	</string>
 	<string>
 		<id>you_should_specify_ve_hostname</id>
 		<c>VPS Container error message</c>
-		<val>您应指定Container主机名。</val>
+		<val>您应指定容器主机名。</val>
 	</string>
 	<string>
 		<id>you_shud_sel_dom_4_registration</id>
