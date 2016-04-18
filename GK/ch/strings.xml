@@ -10,11 +10,11 @@
 		<c>GM|Configuration input label</c>
 		<val>3~6 个月</val>
 	</string>
-	<string>
+	<string
 		<id>_1_5_days_lc</id>
 		<c>GM|Configuration input label</c>
 		<val>1~5 天</val>
-	</string>
+	</string
 	<string>
 		<id>_1_day_lc</id>
 		<c>GM|Configuration input label</c>
@@ -1133,7 +1133,7 @@
 	<string>
 		<id>ad_err_vza_internal</id>
 		<c>Application management | VZAgent internal error</c>
-		<val>Parallels Virtuozzo Containers代理内部错误。有关详细信息，请查看vzagent日志文件。</val>
+		<val>Parallels VPS Containers代理内部错误。有关详细信息，请查看vzagent日志文件。</val>
 	</string>
 	<string>
 		<id>ad_forcedown_uc</id>
@@ -1168,12 +1168,12 @@
 	<string>
 		<id>ad_setup_auto_reg_on_sync</id>
 		<c>Application Director | Setup | Option</c>
-		<val>自动注册Parallels Virtuozzo Containers OS/应用程序模板</val>
+		<val>自动注册Parallels VPS Containers OS/应用程序模板</val>
 	</string>
 	<string>
 		<id>ad_setup_auto_reg_on_sync_desc</id>
 		<c>Application Director | Setup | Option description</c>
-		<val>当您从硬件节点处获取Parallels Virtuozzo Containers OS/应用程序模板时，此选项控制它们的自动注册。如果启用此选项，则所有来自硬件节点的模板都将在Parallels Business Automation - Standard中注册。如果禁用此选项，则只会更新现有模板的同步状态。您可以通过相应的硬件配置屏幕随时开始从硬件节点处获取模板。</val>
+		<val>当您从硬件节点处获取Parallels VPS Containers OS/应用程序模板时，此选项控制它们的自动注册。如果启用此选项，则所有来自硬件节点的模板都将在Parallels Business Automation - Standard中注册。如果禁用此选项，则只会更新现有模板的同步状态。您可以通过相应的硬件配置屏幕随时开始从硬件节点处获取模板。</val>
 	</string>
 	<string>
 		<id>ad_setup_title</id>
@@ -7289,7 +7289,7 @@
 	<string>
 		<id>cant_release_ip_from_VPS_hn</id>
 		<c>BM | webhost</c>
-		<val>无法从Virtuozzo节点释放IP地址%ip%：%error%</val>
+		<val>无法从VPS节点释放IP地址%ip%：%error%</val>
 	</string>
 	<string>
 		<id>cant_remove_vm</id>
@@ -18131,7 +18131,7 @@ string</c>
 	<string>
 		<id>error_occured_during_assigning_ip_to_webhost_client</id>
 		<c>BM | webhost</c>
-		<val>为Virtuozzo节点分配IP时出错：%error%。</val>
+		<val>为VPS节点分配IP时出错：%error%。</val>
 	</string>
 	<string>
 		<id>error_occured_while_adding_client_on_webhost_node</id>
@@ -25736,7 +25736,7 @@ element</c>
 	<string>
 		<id>hspc_mt_billing_order_hw_vz_uc</id>
 		<c>Class type name</c>
-		<val>Virtuozzo独立节点订单</val>
+		<val>VPS独立节点订单</val>
 	</string>
 	<string>
 		<id>hspc_mt_billing_order_misc_uc</id>
@@ -25836,7 +25836,7 @@ element</c>
 	<string>
 		<id>hspc_mt_billing_subscription_hw_vz_uc</id>
 		<c>Class type name</c>
-		<val>Virtuozzo独立节点业务</val>
+		<val>VPS独立节点业务</val>
 	</string>
 	<string>
 		<id>hspc_mt_billing_subscription_misc_uc</id>
@@ -25876,7 +25876,7 @@ element</c>
 	<string>
 		<id>hspc_mt_bm_hp_hw_vz_uc</id>
 		<c>HSPC::MT::BM::HP object name</c>
-		<val>Virtuozzo独立节点主机方案</val>
+		<val>VPS独立节点主机方案</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_hp_hw_webhost_uc</id>
@@ -26031,7 +26031,7 @@ element</c>
 	<string>
 		<id>hspc_mt_lm_hn_uc</id>
 		<c>Class type name</c>
-		<val>Parallels Virtuozzo Containers许可证</val>
+		<val>Parallels VPS Containers许可证</val>
 	</string>
 	<string>
 		<id>hspc_mt_lm_mn_uc</id>
@@ -26544,7 +26544,7 @@ element</c>
 	<string>
 		<id>hwnode_with_vz</id>
 		<c>New HW node</c>
-		<val>与Parallels Virtuozzo Containers一同安装的节点</val>
+		<val>与Parallels VPS Containers一同安装的节点</val>
 	</string>
 	<string>
 		<id>i_accept_all_the_terms</id>
@@ -27481,7 +27481,7 @@ element</c>
 	<string>
 		<id>install_webhost_lic</id>
 		<c>System Director | License Manager</c>
-		<val>安装Parallels Virtuozzo Containers许可证</val>
+		<val>安装Parallels VPS Containers许可证</val>
 	</string>
 	<string>
 		<id>installation_new_cert</id>
@@ -37059,7 +37059,7 @@ of decimal places</c>
 	<string>
 		<id>only_valid_hspc_tmpls_could_be_installed_ltxt</id>
 		<c>Application Director:  Note</c>
-		<val>仅可以安装有效的Parallels Virtuozzo Containers for Linux (.rpm)或Parallels Virtuozzo Containers for Windows (.efd)模板。由软件服务商提供的原始RPM不能作为模板安装。</val>
+		<val>仅可以安装有效的Parallels VPS Containers for Linux (.rpm)或Parallels VPS Containers for Windows (.efd)模板。由软件服务商提供的原始RPM不能作为模板安装。</val>
 	</string>
 	<string>
 		<id>onlyone_category</id>
@@ -43648,7 +43648,7 @@ poll payment statuses)</c>
 	<string>
 		<id>remove_backup_destr_ve_descr</id>
 		<c>PCC | Backups | Problem description</c>
-		<val>容器备份文件属于已损坏容器。您可能需要通过单击“删除”按钮删除此备份，或通过单击“从DB中删除”按钮仅从Parallels Business Automation - Standard数据库(将备份文件留在Virtuozzo节点上)中删除该备份相关信息。</val>
+		<val>容器备份文件属于已损坏容器。您可能需要通过单击“删除”按钮删除此备份，或通过单击“从DB中删除”按钮仅从Parallels Business Automation - Standard数据库(将备份文件留在VPS节点上)中删除该备份相关信息。</val>
 	</string>
 	<string>
 		<id>remove_backup_file</id>
@@ -50036,12 +50036,12 @@ poll payment statuses)</c>
 	<string>
 		<id>slm_disabled_status_title</id>
 		<c>SLM status title</c>
-		<val>SLM资源管理(禁用SLM配置硬件节点和重起Parallels Virtuozzo Containers)</val>
+		<val>SLM资源管理(禁用SLM配置硬件节点和重起Parallels VPS Containers)</val>
 	</string>
 	<string>
 		<id>slm_enabled_status_title</id>
 		<c>SLM status title</c>
-		<val>SLM资源管理(禁用SLM配置硬件节点和重起Parallels Virtuozzo Containers)</val>
+		<val>SLM资源管理(禁用SLM配置硬件节点和重起Parallels VPS Containers)</val>
 	</string>
 	<string>
 		<id>slm_mode_change_alert</id>
@@ -55561,7 +55561,7 @@ poll payment statuses)</c>
 	<string>
 		<id>to_order_vz_license</id>
 		<c>Used in license manager</c>
-		<val>要订购 Parallels Virtuozzo 容器许可证，请继续 <a href="http://%s" target="lic_order"> %s</a>。</val>
+		<val>要订购 Parallels VPS 容器许可证，请继续 <a href="http://%s" target="lic_order"> %s</a>。</val>
 	</string>
 	<string>
 		<id>to_prov_uc</id>
@@ -57799,7 +57799,7 @@ poll payment statuses)</c>
 	<string>
 		<id>up_sm_vzcoll</id>
 		<c>ServiceMon|VZ Collector</c>
-		<val>Virtuozzo信息采集器</val>
+		<val>VPS信息采集器</val>
 	</string>
 	<string>
 		<id>up_status</id>
@@ -59274,7 +59274,7 @@ poll payment statuses)</c>
 	<string>
 		<id>ve_class_licenses_uc</id>
 		<c>Item in menu tree</c>
-		<val>Virtuozzo 容器级别许可证</val>
+		<val>VPS 容器级别许可证</val>
 	</string>
 	<string>
 		<id>ve_conf</id>
@@ -59817,7 +59817,7 @@ poll payment statuses)</c>
 	<string>
 		<id>virt_lic_has_been_installed</id>
 		<c>Office|Event Manager|Events</c>
-		<val>已安装Parallels Virtuozzo Containers许可证</val>
+		<val>已安装Parallels VPS Containers许可证</val>
 	</string>
 	<string>
 		<id>virtual</id>
@@ -60017,37 +60017,37 @@ poll payment statuses)</c>
 	<string>
 		<id>vz_app_uc</id>
 		<c>BD | Product Manager | Default Prices</c>
-		<val>Parallels Virtuozzo Containers应用程序</val>
+		<val>Parallels VPS Containers应用程序</val>
 	</string>
 	<string>
 		<id>vz_hw_registered</id>
 		<c>Office|Event Manager|Events</c>
-		<val>Virtuozzo硬件节点已注册</val>
+		<val>VPS硬件节点已注册</val>
 	</string>
 	<string>
 		<id>vz_hwn_assigned</id>
 		<c>Office|Event Manager|Events</c>
-		<val>Virtuozzo硬件节点已分配</val>
+		<val>VPS硬件节点已分配</val>
 	</string>
 	<string>
 		<id>vz_licenses_uc</id>
 		<c>used by License Manager</c>
-		<val>Parallels Virtuozzo Containers 许可证</val>
+		<val>Parallels VPS Containers 许可证</val>
 	</string>
 	<string>
 		<id>vz_mgr_uc</id>
 		<c>Menu</c>
-		<val>Virtuozzo管理</val>
+		<val>VPS管理</val>
 	</string>
 	<string>
 		<id>vz_nodes</id>
 		<c>Up2date | UI | UPCustomer</c>
-		<val>Virtuozzo节点</val>
+		<val>VPS节点</val>
 	</string>
 	<string>
 		<id>vz_res_uc</id>
 		<c>BD | Product Manager | Default Prices</c>
-		<val>Parallels Virtuozzo Containers资源</val>
+		<val>Parallels VPS Containers资源</val>
 	</string>
 	<string>
 		<id>vz_version_uc</id>
@@ -62042,7 +62042,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_have_webhost_nodes_to_create_hp</id>
 		<c>BM|Hosting Plans|Mesage</c>
-		<val>您应该至少有一个安装了Parallels Virtuozzo Containers的专用硬件节点，才能创建您自己的主机方案。</val>
+		<val>您应该至少有一个安装了Parallels VPS Containers的专用硬件节点，才能创建您自己的主机方案。</val>
 	</string>
 	<string>
 		<id>you_should_sel_hp</id>
