@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>state_ca_ab</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Alberta</val>
+</string>
+
+<string>
+<id>state_ca_bc</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>British Columbia</val>
+</string>
+
+<string>
+<id>state_ca_mb</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Manitoba</val>
+</string>
+
+<string>
+<id>state_ca_nb</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>New Brunswick</val>
+</string>
+
+<string>
+<id>state_ca_nf</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Newfoundland</val>
+</string>
+
+<string>
+<id>state_ca_nt</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Northwest Territories</val>
+</string>
+
+<string>
+<id>state_ca_ns</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Nova Scotia</val>
+</string>
+
+<string>
+<id>state_ca_nu</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Nunavut</val>
+</string>
+
+<string>
+<id>state_ca_on</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Ontario</val>
+</string>
+
+<string>
+<id>state_ca_pe</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Prince Edward Island</val>
+</string>
+
+<string>
+<id>state_ca_qc</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Quebec</val>
+</string>
+
+<string>
+<id>state_ca_sk</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Saskatchewan</val>
+</string>
+
+<string>
+<id>state_ca_yt</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Yukon Territories</val>
+</string>
+
+
+
+</strings>
+

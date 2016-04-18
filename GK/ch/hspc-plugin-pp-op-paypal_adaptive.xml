@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+	<id>paypal_adapt_pay_title</id>
+	<c>PayPal title</c>
+	<val>支付宝自适应支付</val>
+</string>
+
+<string>
+	<id>pm_type_paypal</id>
+	<c>PayPal title</c>
+	<val>支付宝协议</val>
+</string>
+
+<string>
+	<id>corr_id</id>
+	<c>PayPal trans_log</c>
+	<val>相关Id</val>
+</string>
+
+<string>
+	<id>preapproval_key</id>
+	<c>PayPal paymethod</c>
+	<val>支付宝预先认证密匙</val>
+</string>
+
+<string>
+	<id>number_of_payments</id>
+	<c>Number of payments</c>
+	<val>数字处理支付</val>
+</string>
+
+<string>
+	<id>total_amount</id>
+	<c>Total amount of payments</c>
+	<val>总额处理支付</val>
+</string>
+
+<string>
+	<id>max_total_amount</id>
+	<c>Total amount</c>
+	<val>所有付款的预先认证最大总额.</val>
+</string>
+
+<string>
+	<id>sender_email</id>
+	<c>Sender email</c>
+	<val>发送者邮件地址</val>
+</string>
+
+<string>
+	<id>pay_key</id>
+	<c>Pay key</c>
+	<val>支付识别密匙</val>
+</string>
+
+<string>
+	<id>tracking_id</id>
+	<c>tracking_id</c>
+	<val>追踪 ID</val>
+</string>
+
+<string>
+	<id>build_no</id>
+	<c>tracking_id</c>
+	<val>创建号</val>
+</string>
+
+<string>
+	<id>receiver_email</id>
+	<c>Receiver email</c>
+	<val>收件者邮箱地址</val>
+</string>
+
+<string>
+	<id>application_id</id>
+	<c>Application ID</c>
+	<val>应用ID</val>
+</string>
+
+<string>
+	<id>api_signature</id>
+	<c>API signature</c>
+	<val>API 签名</val>
+</string>
+
+<string>
+	<id>paypal_param_must_be_defined</id>
+	<c>Config form error</c>
+	<val>应该定义参数 %param% </val>
+</string>
+
+<string>
+	<id>refund_gross_amount</id>
+	<c>Trans details</c>
+	<val>退款总额</val>
+</string>
+
+<string>
+	<id>refund_fee_amount</id>
+	<c>Trans details</c>
+	<val>退费金额</val>
+</string>
+
+<string>
+	<id>refund_net_amount</id>
+	<c>Trans details</c>
+	<val>退费总额</val>
+</string>
+
+<string>
+	<id>number_of_checks</id>
+	<c>Trans details</c>
+	<val>检查数量</val>
+</string>
+
+<string>
+	<id>paypal_preaproval_create_up_string</id>
+	<c>Trans details</c>
+	<val>在支付阶段你可以选择创建协议，以便未来服务更新时支付宝账户可以. <br/><br/>以下设置会通过日期和累积值限制协议. 已经为您输入支付宝限制的最大值，但是也可以减少.<br/><br/>超出这些值之后，你无法通过协议额外付款，这时需要重新创建一个值.</val>
+</string>
+
+<string>
+	<id>paypal_preaproval_create_down_string</id>
+	<c>Trans details</c>
+	<val><b>必须勾选 <i>预先通过未来付款</i> 在支付宝页面检查复选框，创建协议.</b> 如果你只想提交单个手动付款， 可以忽略以上设置 (和复选框)，不会创建支付协议.</val>
+</string>
+
+<string>
+	<id>preaproval_date</id>
+	<c>Preaproval screen</c>
+	<val>预先认证结束日期</val>
+</string>
+
+<string>
+	<id>preaproval_amnt</id>
+	<c>Preaproval screen</c>
+	<val>所有付款预先认证最大值总额</val>
+</string>
+
+<string>
+	<id>ppa_sum_shoud_be_int</id>
+	<c>Preaproval screen</c>
+	<val>所有付款预先认证最大值总额应该为整数.</val>
+</string>
+
+<string>
+	<id>ppa_sum_less_max</id>
+	<c>Preaproval screen</c>
+	<val>所有付款预先认证最大值总额应该少于%最大值%</val>
+</string>
+
+<string>
+	<id>ppa_date_is_in_past</id>
+	<c>Preaproval screen</c>
+	<val>过去预先认证结束日期</val>
+</string>
+
+<string>
+	<id>ppa_continue_paypal</id>
+	<c>Preaproval screen</c>
+	<val>继续支付宝</val>
+</string>
+
+<string>
+	<id>paypal_param_must_be_integer</id>
+	<c>Config form error</c>
+	<val>参数%param% 应该为整数</val>
+</string>
+
+<string>
+	<id>ppap_preaproval_amount</id>
+	<c>Show preaproval screen</c>
+	<val>预先支付数额</val>
+</string>
+
+<string>
+	<id>ppap_num_days</id>
+	<c>Number of year</c>
+	<val>预先支付周期 (天)</val>
+</string>
+
+<string>
+	<id>ppap_show_screen</id>
+	<c>Show preaproval screen</c>
+	<val>显示预先支付屏幕</val>
+</string>
+
+<string>
+	<id>ppap_skip_iframe</id>
+	<c>Skip iframe</c>
+	<val>支付宝页面黑屏<br/>(浏览器兼容)</val>
+</string>
+
+<string>
+	<id>ppap_pending_reason</id>
+	<c>pending reason</c>
+	<val>挂起原因</val>
+</string>
+
+<string>
+	<id>ppap_trans_notfound</id>
+	<c>error message</c>
+	<val>支付宝房未发现交易,停止进一步检查</val>
+</string>
+
+<string>
+	<id>ppap_time_out</id>
+	<c>error message</c>
+	<val>支付宝方未注册交易，但是在检查期间未收到状态</val>
+</string>
+
+</strings>

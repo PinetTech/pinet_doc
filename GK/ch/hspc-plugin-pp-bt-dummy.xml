@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>holder_name_not_defined</id>
+<c>Errors</c>
+<val>未定义持有者姓名</val>
+</string>
+
+<string>
+<id>public_acc_cant_set</id>
+<c>Errors</c>
+<val>无法设置公共卡编号</val>
+</string>
+
+<string>
+<id>dummy_pp_description</id>
+<c>Order description</c>
+<val> %doc_name% #%doc_num%</val>
+</string>
+
+<string>
+<id>dummy_acc_number_required</id>
+<c>error</c>
+<val>账户密码为必填字段.</val>
+</string>
+
+<string>
+<id>dummy_bank_code_required</id>
+<c>error</c>
+<val>银行卡密码为必填字段.</val>
+</string>
+
+<string>
+<id>dummy_bank_code_length8</id>
+<c>error</c>
+<val>银行卡未8个字符.</val>
+</string>
+
+</strings>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" convert_to_utf="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>percent_discount_uc</id>
+<c>Billing | Promotion</c>
+<val>Percent Discount</val>
+</string>
+
+
+</strings>

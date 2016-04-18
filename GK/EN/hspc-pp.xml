@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>pp_error_plugin_not_return_status</id>
+<c>HSPcomplete payment processing error</c>
+<val>Plug-in doesn't return correct status</val>
+</string>
+
+<string>
+<id>pm_paytype_not_supported</id>
+<c>Error message when new payment method type is not configured</c>
+<val>This payment method type %type% is not allowed</val>
+</string>
+
+<string>
+<id>allows_payment_paymethod</id>
+<c>PCC|New bank account form field title</c>
+<val>Allow payment by this payment method</val>
+</string>
+
+<string>
+<id>use_4rec_paying</id>
+<c>CP|New credit card form field title</c>
+<val>Use this payment method for recurring payments</val>
+</string>
+
+<string>
+<id>change_paymethod_for_doc_uc</id>
+<c>CommerceDirector, title for changing paymethod</c>
+<val>Change Payment Method for %doc% #%id%</val>
+</string>
+
+<string>
+<id>document_cannot_pay</id>
+<c>CommerceDirector, error string</c>
+<val>Document can not be paid</val>
+</string>
+
+<string>
+<id>store_refresh_page_link</id>
+<c>CP, RCC store message</c>
+<val>Refresh this page to update the status of your payment.</val>
+</string>
+
+<string>
+<id>rcccp_store_3ds_redirect</id>
+<c>CP, RCC store message 3d secury redirect</c>
+<val>Please wait while we process your payment details.<br/><br/>If you are paying by credit card and you have registered for the 'Verified by Visa' or 'MasterCard SecureCode' scheme, then you will be redirected to your banks secure server where you will need to enter your security password/PIN.<br/><br/>If you have not registered for Verified by Visa or MasterCard SecureCode then you will be asked to register before continuing with this transaction.</val>
+</string>
+
+<string>
+<id>rcccp_store_3ds_redirect_contact</id>
+<c>CP, RCC store message 3d secury redirect</c>
+<val>If you have any question regarding making payment please contact the %s% support team.</val>
+</string>
+
+<string>
+<id>3ds_error_cannot_pay</id>
+<c>Payment processing error, 3d required</c>
+<val>The transaction has been cancelled, because 3D secure validation is required from customer.</val>
+</string>
+
+<string>
+<id>payment_request_not_open</id>
+<c>CP | My Account | Billing History | Store | Payment Options</c>
+<val>Unfortunately, your payment request is unavailable. Please try to perform the payment from scratch</val>
+</string>
+
+</strings>

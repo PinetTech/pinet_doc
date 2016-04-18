@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" convert_to_utf="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+
+<string>
+<id>domain_waivee_discount_uc</id>
+<c>Billing | Promotion</c>
+<val>Waiving domain registration fee</val>
+</string>
+
+<string>
+<id>domain_waive_period</id>
+<c>Billing | Promotion</c>
+<val>Domain waive period</val>
+</string>
+
+<string>
+<id>domain_waive_limit</id>
+<c>Billing | Promotion</c>
+<val>Domain waive limit</val>
+</string>
+
+<string>
+<id>domain_waivee_uc</id>
+<c>Billing | Promotion</c>
+<val>Domain waive</val>
+</string>
+
+</strings>

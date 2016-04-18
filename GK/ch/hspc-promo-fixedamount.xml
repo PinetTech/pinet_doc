@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" convert_to_utf="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>fixedamount_discount_uc</id>
+<c>Billing | Promotion</c>
+<val>固定优惠金额</val>
+</string>
+
+<string>
+<id>promotion_for_amount</id>
+<c>Billing</c>
+<val> %prom_item%的促销 %prom_name% </val>
+</string>
+
+</strings>

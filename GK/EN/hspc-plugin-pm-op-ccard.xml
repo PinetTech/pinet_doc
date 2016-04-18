@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+<!-- $Id: hspc-plugin-pm-op-ccard.xml,v 1.6 2008-05-23 13:36:11 amark Exp $ -->
+<string>
+<id>ccpmp_credit_card_uc</id>
+<c>Template title</c>
+<val>Credit Card</val>
+</string>
+
+<string>
+<id>ccpmp_type_a</id>
+<c>Payment Method type</c>
+<val>American Express</val>
+</string>
+
+<string>
+<id>ccpmp_type_b</id>
+<c>Payment Method type</c>
+<val>Carte Blanche</val>
+</string>
+
+<string>
+<id>ccpmp_type_c</id>
+<c>Payment Method type</c>
+<val>Diner's Club</val>
+</string>
+
+<string>
+<id>ccpmp_type_d</id>
+<c>Payment Method type</c>
+<val>Discover</val>
+</string>
+
+<string>
+<id>ccpmp_type_e</id>
+<c>Payment Method type</c>
+<val>enRoute</val>
+</string>
+
+<string>
+<id>ccpmp_type_j</id>
+<c>Payment Method type</c>
+<val>JCB</val>
+</string>
+
+<string>
+<id>ccpmp_type_l</id>
+<c>Payment Method type</c>
+<val>Visa Electron</val>
+</string>
+
+<string>
+<id>ccpmp_type_m</id>
+<c>Payment Method type</c>
+<val>MasterCard</val>
+</string>
+
+<string>
+<id>ccpmp_type_o</id>
+<c>Payment Method type</c>
+<val>Optima</val>
+</string>
+
+<string>
+<id>ccpmp_type_s</id>
+<c>Payment Method type</c>
+<val>Solo</val>
+</string>
+
+<string>
+<id>ccpmp_type_t</id>
+<c>Payment Method type</c>
+<val>Visa Debit/Delta</val>
+</string>
+
+<string>
+<id>ccpmp_type_v</id>
+<c>Payment Method type</c>
+<val>Visa</val>
+</string>
+
+<string>
+<id>ccpmp_type_w</id>
+<c>Payment Method type</c>
+<val>Maestro</val>
+</string>
+
+<string>
+<id>ccpmp_use_account_address</id>
+<c>Radio Button name on the new CC page</c>
+<val>Use Account address</val>
+</string>
+
+<string>
+<id>ccpmp_new_billing_address</id>
+<c>Radio Button name on the new CC page</c>
+<val>New Billing Address</val>
+</string>
+
+<string>
+<id>ccpmp_type_title_uc</id>
+<c>Field Title</c>
+<val>Type</val>
+</string>
+
+<string>
+<id>cc_type_not_match</id>
+<c>Error message in store</c>
+<val>Credit card type does not correspond card number entered.</val>
+</string>
+
+<string>
+<id>op_valid_from</id>
+<c>Form filed name</c>
+<val>Valid from (Some Maestro/Solo only)</val>
+</string>
+
+</strings>
+

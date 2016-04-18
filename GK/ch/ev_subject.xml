@@ -1,0 +1,885 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<c>Event manager|Message subject</c>
+<id>stment_has_been_created_subj</id>
+<val>@@provider.company_name@的声明 #@@statement.id@ 日期 @@statement.date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_ren_订单_has_been_crt_subj</id>
+<val>@@provider.company_name@的订单 #@@order.doc_num@ (ID @@order.id@) 日期 @@order.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>付款_has_been_accepted_subj_on</id>
+<val>付款 #@@payment.doc_num@ (ID @@payment.id@) 日期 @@payment.doc_date@ 已由 @@provider.company_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>付款_has_been_accepted_subj_off</id>
+<val>付款 #@@payment.doc_num@ (ID @@payment.id@) 日期 @@payment.doc_date@ 已由 @@provider.company_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>付款_has_been_accepted_subj_cri</id>
+<val>@@provider.company_name@的发票 #@@payment.doc_num@ (ID @@payment.id@) 日期 @@payment.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>付款_has_been_accepted_subj_cra</id>
+<val>@@provider.company_name@的信用卡调整 #@@payment.doc_num@ (ID @@payment.id@) 日期 @@payment.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>付款_has_been_canceled_subj_on</id>
+<val>付款 #@@payment.doc_num@ (ID @@payment.id@) 日期 @@payment.doc_date@已由 @@provider.company_name@取消</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>付款_has_been_canceled_subj_off</id>
+<val>付款 #@@payment.doc_num@ (ID @@payment.id@) 日期 @@payment.doc_date@ 已由 @@provider.company_name@取消</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>付款_has_been_canceled_subj_cri</id>
+<val>Credit 发票 #@@payment.doc_num@ (ID @@payment.id@) 日期 @@payment.doc_date@ 已由@@provider.company_name@取消</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>付款_has_been_canceled_subj_cra</id>
+<val>信用卡调整 #@@payment.doc_num@ (ID @@payment.id@) 日期 @@payment.doc_date@已由@@provider.company_name@取消</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>debit_adj_crt_subj</id>
+<val>@@provider.company_name@的信用卡调整#@@debitadjustment.doc_num@ (ID @@信用卡调整.id@) 日期 @@debitadjustment.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>curr_balance_below_zero_subj</id>
+<val>Y现在的平衡为负值</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>发票_due_日期_has_expired_subj</id>
+<val>@@provider.company_name@'s 发票 #@@invoice.doc_num@ (ID @@invoice.id@) 注有日期的过期发票 @@invoice.doc_date@ </val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>发票_cutoff_日期_has_expired_subj</id>
+<val>你有来自 @@invoice.doc_date@ - @@provider.company_name@的未付款发票 #@@invoice.doc_num@ (ID @@invoice.id@)@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>发票_has_been_created_subj</id>
+<val>@@provider.company_name@的订单 #@@order.doc_num@ (ID @@order.id@)注有日期的 @@invoice.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_upg_订单_has_been_crt_subj</id>
+<val>@@provider.company_name@的 订单 #@@order.doc_num@ (ID @@order.id@)注有日期的 @@order.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_up日期_subj</id>
+<val>你的订阅@@subscription.name@已更新</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_renewed_subj</id>
+<val>你的订阅@@subscription.name@已更新</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_ve</id>
+<val>恭喜!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_misc_cust</id>
+<val>创建杂项订阅#@@subscription.id@ @@subscription.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_misc_prov</id>
+<val>创建杂项订阅#@@subscription.id@ @@subscription.name@@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_hw_vz</id>
+<val>创建VPS专用节点订阅 #@@subscription.id@ @@subscription.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_hw_generic</id>
+<val>创建专用服务器订阅 #@@subscription.id@ @@subscription.name@</val>
+</string>	
+<string>
+<c>Event manager|Message subject</c>
+<id>ds_subscr_appeared_subj</id>
+<val>创建专用服务器订阅 #@@subscription.id@ @@subscription.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_domain</id>
+<val>创建域名订阅 #@@subscription.id@ @@subscription.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_pd</id>
+<val>创建控制面板专用节点订阅 #@@subscription.id@ @@subscription.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_plesk_srv</id>
+<val>创建控制面板专用节点订阅 #@@subscription.id@ @@subscription.name@@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_creation_failed_subj</id>
+<val>订阅#@@subscription.id@ 程序出错</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_has_been_registered_subj</id>
+<val>域@@domain.name@注册</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_reg_err_subj</id>
+<val>域@@domain.name@注册错误</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_has_been_trans_subj</id>
+<val>域@@domain.name@转换</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_trans_err_subj</id>
+<val>域@@domain.name@转换错误</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_has_been_renewed_subj</id>
+<val>域@@domain.name@更新</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_renewal_err_subj</id>
+<val>域@@domain.name@更新出错</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_termination_queued_subj</id>
+<val>域@@domain.name@等待终止</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_termination_err_subj</id>
+<val>域@@domain.name@终止错误</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_has_been_terminated_subj</id>
+<val>终止域@@domain.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>订单_has_been_created_subj_cust</id>
+<val>@@provider.company_name@的 订单 #@@order.doc_num@ (ID @@order.id@)注有日期的 @@order.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>订单_has_been_created_subj_prov</id>
+<val>客户下的订单 #@@order.doc_num@ (ID @@order.id@)注有日期的 @@order.doc_date@ </val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>non_mtr_traff_over_subj</id>
+<val>流量超标</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_grace_period_ended_subj</id>
+<val>你的订阅 @@subscription.name@ 宽限期已结束</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>srv_has_been_stop_subj_cust</id>
+<val>VPS 容器 @@ve.id@ 已停止!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>srv_has_been_stop_subj_prov</id>
+<val>VPS 容器@@ve.id@ 已停止!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_credit_lim_over_subj_cust_prov</id>
+<val>A账户@@customer.id@ 达到信用额度</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_credit_lim_over_subj_cust_cust</id>
+<val>达到信用额度</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_credit_lim_over_res_prov</id>
+<val>账户@@customer.id@ 达到信用额度</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_credit_lim_over_res_cust</id>
+<val>达到信用卡额度</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>inv_for_res_created_subj</id>
+<val>@@provider.company_name@的发票 #@@invoice.doc_num@ (ID @@invoice.id@) 日期 @@invoice.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_ve</id>
+<val>你的@@subscription.name@ 订阅被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_pd</id>
+<val>你的@@subscription.name@ 订阅被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_domain</id>
+<val>你的@@subscription.name@ 订阅被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_misc</id>
+<val>你的@@subscription.name@ 订阅被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_hw_vz</id>
+<val>你的@@subscription.name@ 订阅被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_hw_generic</id>
+<val>你的@@subscription.name@ 订阅被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_plesk_srv</id>
+<val>你的@@subscription.name@ 订阅被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_ve_plesk_srv</id>
+<val>你的@@subscription.name@ 订阅被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_pc</id>
+<val>你的@@subscription.name@ 订阅被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_ve_due_unpaid_doc</id>
+<val>你的@@subscription.name@ 订阅因为未付款发票#@@invoice.id@ (@@invoice.doc_num@) 被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_pd_due_unpaid_doc</id>
+<val>你的@@subscription.name@ 订阅因为未付款发票#@@invoice.id@ (@@invoice.doc_num@) 被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_domain_due_unpaid_doc</id>
+<val>你的@@subscription.name@ 订阅因为未付款发票#@@invoice.id@ (@@invoice.doc_num@) 被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_misc_due_unpaid_doc</id>
+<val>你的@@subscription.name@ 订阅因为未付款发票#@@invoice.id@ (@@invoice.doc_num@) 被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_hw_vz_due_unpaid_doc</id>
+<val>Y你的@@subscription.name@ 订阅因为未付款发票#@@invoice.id@ (@@invoice.doc_num@) 被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_hw_generic_due_unpaid_doc</id>
+<val>你的@@subscription.name@ 订阅因为未付款发票#@@invoice.id@ (@@invoice.doc_num@) 被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_plesk_srv_due_unpaid_doc</id>
+<val>你的@@subscription.name@ 订阅因为未付款发票#@@invoice.id@ (@@invoice.doc_num@) 被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_ve_plesk_srv_due_unpaid_doc</id>
+<val>你的@@subscription.name@ 订阅因为未付款发票#@@invoice.id@ (@@invoice.doc_num@) 被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_pc_due_unpaid_doc</id>
+<val>你的@@subscription.name@ 订阅因为未付款发票#@@invoice.id@ (@@invoice.doc_num@) 被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>srv_has_been_dest_subj_prov</id>
+<val>@@ve.id@上的VPS Container已损坏</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>srv_has_been_dest_subj_cust</id>
+<val>@@ve.id@上的VPS Container已损坏</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>sub_trial_p_ended_subj</id>
+<val>@@subscription.name@订阅试用期已结束</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>vz_hwn_assigned_subj</id>
+<val>恭喜!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ve_created_subj</id>
+<val>@@subscription.name@ 服务器上的VPS Container已创建</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ve_started_subj</id>
+<val>@@subscription.name@ 服务器上的VPS Container已开启</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_has_been_add_to_dns_subj</id>
+<val>把@@domain.name@域加到DNS上</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ve_on_dserv_stop_subj</id>
+<val>@@subscription.name@ 服务器上的VPS Container 已停止</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ve_on_dserv_dest_subj</id>
+<val>@@subscription.name@ 服务器上的VPS Container已经损坏</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>vz_hw_registered_subj</id>
+<val>注册@@hw.shortname@硬件节点</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>paid_inv_created_subj</id>
+<val>@@provider.company_name@的发票 #@@invoice.doc_num@ (ID @@invoice.id@) 注有日期的@@invoice.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>nonvz_hw_assigned_subj</id>
+<val>恭喜!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>inv_refunded_subj</id>
+<val>退换发票 #@@invoice.doc_num@ (ID @@invoice.id@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>pa_approved_subj</id>
+<val>通过分销商的申请</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>pa_submited_subj_cust</id>
+<val>接收分销商的申请</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>pa_submited_subj_prov</id>
+<val>@@customer.name@ - 合作伙伴申请表格</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_place_on_hold_subj</id>
+<val>你的账户被搁置</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_activated_subj</id>
+<val>激活你的账户</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>订单_cancelled_subj</id>
+<val>取消订单 #@@order.doc_num@ (ID @@order.id@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>sub_not_p_started_subj</id>
+<val>你的@@subscription.name@的订阅周期 即将结束</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>hold_subscr_activated_subj</id>
+<val>激活你的订阅 #@@subscription.id@ (@@subscription.name@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>pending_subscr_activated_subj</id>
+<val>激活你的订阅 #@@subscription.id@ (@@subscription.name@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_subscr_deleted_subj</id>
+<val>终止你的订阅 #@@subscription.id@ (@@subscription.name@) </val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>pass_rem_req_subj</id>
+<val>为@@person.name@重置新的授权代码</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_person_created_subj</id>
+<val>为 @@person.name@创建新的名称</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_password_changed_subj</id>
+<val>@@person.name@的密码已修改@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_disk_near_used_up_subj</id>
+<val>磁盘空间即将被用完</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_traf_near_used_up_subj</id>
+<val>流量即将被用完</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>sub_p_ended_subj</id>
+<val>你的订阅(@@subscription.name@)已结束</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>grace_subscr_activated_subj</id>
+<val>激活你的订阅 #@@subscription.id@ (@@subscription.name@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>expire_subscr_grace_subj</id>
+<val>重启你的订阅 #@@subscription.id@ (@@subscription.name@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>expire_subscr_active_subj</id>
+<val>激活你的订阅 #@@subscription.id@ (@@subscription.name@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>mtr_traff_over_subj</id>
+<val>流量超标</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>mtr_traff_end_subj</id>
+<val>达到流量限制</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_opened_subj_prov</id>
+<val>已通过要求_名称@@ticket.tag@ @@ticket.req_name@打开#@@ticket.number@ @@ticket.req_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_opened_subj_cust</id>
+<val>@@ticket.tag@ 你的报告已经收到, 新票 #@@ticket.number@已打开</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_proceeded_subj_prov</id>
+<val>工单票 #@@ticket.number@ 是 @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_proceeded_subj_cust</id>
+<val>@@ticket.tag@ 你的票 #@@ticket.number@ 是 @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_changed_subj_prov</id>
+<val>票 #@@ticket.number@ 是 @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_changed_subj_cust</id>
+<val>@@ticket.tag@ 你的票 #@@ticket.number@ 是 @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_opened_from_email_subj_prov</id>
+<val>已通过邮件新票@@ticket_ev.email@打开#@@ticket.number@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_opened_from_email_subj_cust</id>
+<val>@@ticket.tag@ 你的报告已经收到, 新票 #@@ticket.number@已打开</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_proceeded_from_email_subj_prov</id>
+<val>票 #@@ticket.number@ 是 @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_proceeded_from_email_subj_cust</id>
+<val>@@ticket.tag@ 你的票 #@@ticket.number@是 @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_changed_from_email_subj_prov</id>
+<val>票 #@@ticket.number@ 是 @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_changed_from_email_subj_cust</id>
+<val>@@ticket.tag@ 你的票 #@@ticket.number@是 @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_no_mailgate_subj</id>
+<val>再次: @@ticket.err_subj@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_no_tickets_subj</id>
+<val>再次: @@ticket.err_subj@@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_no_customers_subj</id>
+<val>再次: @@ticket.err_subj@@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>app_lic_violation_subj</id>
+<val>违反许可证: @@template.name@ 无法安装到 @@ve.hostname@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>app_upgrade_avail_subj</id>
+<val>为@@subscription.name@更新@@template.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>plesk_hw_assigned_subj</id>
+<val>恭喜!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ip_address_for_nvhw_paid_subj</id>
+<val>更新@@subscription.name@ 订阅</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ip_address_for_nvhw_assign_subj</id>
+<val>更新@@hw.hostname@ 硬件节点 </val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ip_address_for_ds_assign_subj</id>
+<val>更新专用服务器 @@ds.identification@ </val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_new_campaign_created_subj_prov</id>
+<val>新客户加入营销活动</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_new_campaign_created_subj_cust</id>
+<val>你将成为@@provider.company_name@活动@@campaign.title@的会员</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_订单_placed_subj</id>
+<val>@@provider.company_name@ 收到活动访客@@campaignorder.visitor_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_订单_placed_subj_vendor</id>
+<val>@@provider.company_name@ 收到由访客 @@campaignorder.visitor_name@为活动 @@campaignorder.campaign_title@</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_credit_adj_crt_subj</id>
+<val>创建@@provider.company_name@的信用卡调整 #@@payment.doc_num@ (ID @@payment.id@) 注有日期的 @@payment.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_credit_adj_crt_subj_vendor</id>
+<val>由 @@customer.name@创建信用卡调整#@@payment.doc_num@ (ID @@payment.id@)注有日期的 @@payment.doc_date@</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_付款_request_crt_subj</id>
+<val>创建@@provider.company_name@的支付请求 #@@paymentrequest.id@ 注有日期的 @@paymentrequest.open_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_付款_request_crt_subj_vendor</id>
+<val>由#@@paymentrequest.id@创建支付请求 #@@paymentrequest.id@ 有日期的@@paymentrequest.open_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_付款_request_completed_subj</id>
+<val>完成@@provider.company_name@的支付请求 #@@paymentrequest.id@ 注有日期的 @@paymentrequest.open_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_付款_request_completed_subj_vendor</id>
+<val>完成支付请求 #@@paymentrequest.id@ 有日期的@@paymentrequest.open_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_付款_request_canceled_subj</id>
+<val>删除@@provider.company_name@的支付请求 #@@paymentrequest.id@ 注有日期的 @@paymentrequest.open_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_付款_request_canceled_subj_vendor</id>
+<val>取消支付请求 #@@paymentrequest.id@ 有日期的@@paymentrequest.open_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_付款_request_declined_subj</id>
+<val>拒绝@@provider.company_name@的支付请求 #@@paymentrequest.id@ 注有日期的 @@paymentrequest.open_date@@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_付款_request_declined_subj_vendor</id>
+<val>拒绝支付请求 #@@paymentrequest.id@ 有日期的@@paymentrequest.open_date@@</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_sale_completed_subj</id>
+<val>完成 @@campaignorder.visitor_name@ 放置的 @@活动订单</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_sale_completed_subj_vendor</id>
+<val>完成 @@campaignorder.visitor_name@ 为活动 @@campaignorder.campaign_title@放置的活动订单</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_transaction_accepted_subj</id>
+<val>接受@@translog.trans_type@ 交易</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_transaction_error_subj</id>
+<val>@@translog.trans_type@ 交易以错误结束</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_transaction_frauded_subj</id>
+<val>@@translog.trans_type@交易被欺诈</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_paymethod_expired_subj</id>
+<val>终止你的付款方式</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_transaction_declined_subj</id>
+<val>拒绝@@translog.trans_type@ 交易</val>
+</string>
+<string>
+<id>ev_transaction_authcall_subj</id>
+<val>交易认证呼叫</val>
+</string>
+<string>
+<id>subscr_term_req_subj</id>
+<val>提交 订阅 @@subscription.name@.终止请求</val>
+</string>
+<string>
+<id>new_hspc_release_subj</id>
+<val>虚拟主机新业务 - 标准 (@@provider.hspc_last_ver@) 现在可用</val>
+</string>
+<string>
+<id>new_hspc_plugins_subj</id>
+<val>虚拟主机新业务 - 标准插件现在可用</val>
+</string>
+<string>
+<id>afm_account_chain_checked_approved_subj</id>
+<val>通过账户#@@customer.id@ 。</val>
+</string>
+<string>
+<id>afm_new_订单_chain_checked_approved_subj</id>
+<val>通过订单 #@@order.doc_num@ (ID @@order.id@)。</val>
+</string>
+<string>
+<id>afm_reccuring_订单_chain_checked_approved_subj</id>
+<val>通过订单 #@@order.doc_num@ (ID @@order.id@)。</val>
+</string>
+<string>
+<id>afm_capture_new_付款_chain_checked_approved_subj</id>
+<val>在获取阶段，通过有名称'@@paymethod.name@' (ID @@paymethod.id@)的信用卡</val>
+</string>
+<string>
+<id>afm_capture_approved_付款_chain_checked_approved_subj</id>
+<val>在获取阶段，通过有名称'@@paymethod.name@' (ID @@paymethod.id@)的信用卡。</val>
+</string>
+<string>
+<id>afm_account_chain_checked_declined_subj</id>
+<val>拒绝账户#@@customer.id@ 。</val>
+</string>
+<string>
+<id>afm_new_订单_chain_checked_declined_subj</id>
+<val>拒绝订单 #@@order.doc_num@ (ID @@order.id@)。</val>
+</string>
+<string>
+<id>afm_reccuring_订单_chain_checked_declined_subj</id>
+<val>拒绝订单 #@@order.doc_num@ (ID @@order.id@)。</val>
+</string>
+<string>
+<id>afm_capture_new_付款_chain_checked_declined_subj</id>
+<val>在获取阶段，拒绝有名称'@@paymethod.name@' (ID @@paymethod.id@)的信用卡。</val>
+</string>
+<string>
+<id>afm_capture_approved_付款_chain_checked_declined_subj</id>
+<val>在获取阶段，拒绝有名称'@@paymethod.name@' (ID @@paymethod.id@)的信用卡。</val>
+</string>
+<string>
+<id>afm_trial_订单_chain_checked_approved_subj</id>
+<val>通过试购订单 #@@order.doc_num@ (ID @@order.id@)。</val>
+</string>
+<string>
+<id>afm_trial_订单_chain_checked_declined_subj</id>
+<val>拒绝试购订单 #@@order.doc_num@ (ID @@order.id@)。</val>
+</string>
+<string>
+<id>afm_preauth_new_付款_chain_checked_approved_subj</id>
+<val>在授权阶段，有名称'@@paymethod.name@' (ID @@paymethod.id@)的信用卡通过认证</val>
+</string>
+<string>
+<id>afm_preauth_approved_付款_chain_checked_approved_subj</id>
+<val>在授权阶段，有名称'@@paymethod.name@' (ID @@paymethod.id@)的信用卡通过认证。</val>
+</string>
+<string>
+<id>afm_preauth_new_付款_chain_checked_declined_subj</id>
+<val>在授权阶段，拒绝有名称'@@paymethod.name@' (ID @@paymethod.id@)的信用卡。</val>
+</string>
+<string>
+<id>afm_preauth_approved_付款_chain_checked_declined_subj</id>
+<val>在授权阶段，拒绝有名称'@@paymethod.name@' (ID @@paymethod.id@)的信用卡。</val>
+</string>
+
+<string>
+	<id>ev_lic_plugin_conf_subj</id>
+	<val>修改许可证插件配置</val>
+</string>
+
+<string>
+	<id>psa_pwd_changed_subj</id>
+	<val>修改</val>
+</string>
+
+
+<string>
+	<id>ev_vm_created_subj</id>
+	<val>创建虚拟机</val>
+</string>
+
+<string>
+	<id>ev_vm_started_subj</id>
+	<val>虚拟机开始运行</val>
+</string>
+
+<string>
+	<id>ev_vm_stoped_subj</id>
+	<val>虚拟机停止运行</val>
+</string>
+
+<string>
+	<id>ev_vm_destroyed_subj</id>
+	<val>虚拟机损坏</val>
+</string>
+
+<string>
+	<id>ev_vm_ip_change_subj</id>
+	<val>改变虚拟机IP地址</val>
+</string>
+
+<string>
+	<id>ev_certificate_fetched_subj</id>
+	<val>获取域名 @@cert.domain@ SSL证书</val>
+</string>
+
+<string>
+	<id>certificate_issue_error_subj</id>
+	<val>不能发布域名 @@cert.domain@ SSL证书</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>pbas_license_up日期_failed</id>
+	<val>业务自动化 - 标准许可证更新失败</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>pbas_license_graced</id>
+	<val>业务自动化 - 标准的许可证即将到期 宽限期开始</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>pbas_license_expired</id>
+	<val>业务自动化 - 标准的许可证已经过期</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>send_domain_auth_code_subj</id>
+	<val>域@@domain.name@激活码</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>sepa_man日期_message_subj</id>
+	<val>SEPA 直接借记授权</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>sepa_付款_message_subj</id>
+	<val>SEPA 直接借记付款</val>
+</string>
+
+</strings>

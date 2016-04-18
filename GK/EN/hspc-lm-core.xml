@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>lm_err_plugin_id_undef</id>
+<c>License Manager | Error message</c>
+<val>Plug-in identifier not defined.</val>
+</string>
+
+<string>
+<id>lm_err_plugin_id_too_long</id>
+<c>License Manager | Error message</c>
+<val>Plug-in identifier should contain no more then %num% characters.</val>
+</string>
+
+<string>
+<id>lm_err_plugin_class_undef</id>
+<c>License Manager | Error message</c>
+<val>Plug-in class name not defined.</val>
+</string>
+
+<string>
+<id>lm_err_prod_undef</id>
+<c>License Manager | Error message</c>
+<val>License product not defined.</val>
+</string>
+
+<string>
+<id>lm_err_prod_too_long</id>
+<c>License Manager | Error message</c>
+<val>License product identifier should contain no more then %num% characters.</val>
+</string>
+
+<string>
+<id>lm_err_prod_name_undef</id>
+<c>License Manager | Error message</c>
+<val>License product name not defined.</val>
+</string>
+
+<string>
+<id>lm_err_lictype_undef</id>
+<c>License Manager | Error message</c>
+<val>License type not defined.</val>
+</string>
+
+<string>
+<id>lm_err_lictype_too_long</id>
+<c>License Manager | Error message</c>
+<val>License type should contain no more then %num% characters.</val>
+</string>
+
+<string>
+<id>lm_err_plugin_not_found</id>
+<c>License Manager | Error message</c>
+<val>Plug-in not found.</val>
+</string>
+
+<string>
+<id>lm_err_plugin_alrdy_registered</id>
+<c>License Manager | Error message</c>
+<val>Plug-in already registered.</val>
+</string>
+
+<string>
+<id>lm_err_plugin_inv_class</id>
+<c>License Manager | Error message</c>
+<val>Plug-in does not implement abstract plug-in interface.</val>
+</string>
+
+<string>
+<id>lm_err_internal</id>
+<c>License Manager | Error message</c>
+<val>License Manager internal error. Please refer to log for more details.</val>
+</string>
+
+<string>
+<id>lic_classes_uc</id>
+<c>License Manager | Title</c>
+<val>License Classes</val>
+</string>
+
+<string>
+<id>lic_class_uc</id>
+<c>License Manager | Title</c>
+<val>License Class</val>
+</string>
+
+<string>
+<id>new_lic_class_uc</id>
+<c>License Class | Button label</c>
+<val>New License Class</val>
+</string>
+
+<string>
+<id>lic_type_uc</id>
+<c>License Type | Title</c>
+<val>License Type</val>
+</string>
+
+<string>
+<id>lm_product_uc</id>
+<c>License Manager | Product</c>
+<val>Product</val>
+</string>
+
+<string>
+<id>renewal_fee_uc</id>
+<c>Core | Title</c>
+<val>Renewal Fee</val>
+</string>
+
+<string>
+<id>lm_lic_ref_no_short_uc</id>
+<c>License Manager | License prop. title</c>
+<val>Ref. Number</val>
+</string>
+
+<string>
+<id>lm_action_create_issue_lics</id>
+<c>License Manager | TM action title</c>
+<val>Create and Issue Licenses</val>
+</string>
+
+<string>
+<id>lm_license_issued_ok</id>
+<c>License Manager | TM action title</c>
+<val>License %refno% issued successfully</val>
+</string>
+
+<string>
+<id>lm_action_install_issued_lics</id>
+<c>License Manager | TM action title</c>
+<val>Install Issued Licenses</val>
+</string>
+
+<string>
+<id>lm_setup_max_install_attempts</id>
+<c>License Manager | Setup | Option title</c>
+<val>Maximum number of attempts to install license automatically</val>
+</string>
+
+<string>
+<id>lm_setup_plugin_autoassign_unused</id>
+<c>License Manager | Setup | Option title</c>
+<val>Automatically assign unused licenses to subscription</val>
+</string>
+
+<string>
+<id>lm_setup_auto_reuse_free_lics</id>
+<c>License Manager | Setup | Option title</c>
+<val>Enable automated assignment after license is released</val>
+</string>
+
+<string>
+<id>lm_setup_plugin_autoterminate</id>
+<c>License Manager | Setup | Option title</c>
+<val>Terminate licenses when subscription is terminated</val>
+</string>
+
+<string>
+<id>lm_setup_clear_term_lic_data</id>
+<c>License Manager | Setup | Option title</c>
+<val>Clear license data on license termination</val>
+</string>
+
+<string>
+<id>lm_stat_setup_updated_ok</id>
+<c>License Manager | Setup | Status message</c>
+<val>License Manager Setup has been updated successfully.</val>
+</string>
+
+<string>
+<id>lm_stat_setup_updated_cancelled</id>
+<c>License Manager | Setup | Status message</c>
+<val>License Manager Setup update cancelled.</val>
+</string>
+
+<string>
+<id>lm_stat_no_lics_for_hp</id>
+<c>License Manager | General | Status message</c>
+<val>Licenses are not yet included in the Hosting Plan.</val>
+</string>
+
+<string>
+<id>lm_err_max_attempts_inv</id>
+<c>License Manager | Setup | Error message</c>
+<val>Maximum number of attempts should be non-negative integer.</val>
+</string>
+
+<string>
+<id>lm_max_install_attempts_note</id>
+<c>License Manager | Setup | Description</c>
+<val>Warning: Setting the value to 0 (zero) completely disables the automated license provisioning.</val>
+</string>
+
+</strings>

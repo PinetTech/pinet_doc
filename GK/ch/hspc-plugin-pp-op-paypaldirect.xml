@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+	<id>paypal_direct_api_txn_chk_url_sign_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>测试 API URL (获取交易详情API) (签名认证方法) 必须定义</val>
+</string>
+
+<string>
+	<id>api_server_url_txn_check_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>支付宝 API URL (获取交易详情API) (签名认证方法)</val>
+</string>
+
+<string>
+	<id>paypal_direct_signature_tst</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>测试PayPal API 认证 签名</val>
+</string>
+
+<string>
+	<id>paypal_direct_signature</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>支付宝 API 认证 签名</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_server_url_tst_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>测试支付宝API URL (获取认证信息 API) (签名认证方法)</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_server_dir_pay_url_tst_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>测试支付宝 API URL (签名认证方法)</val>
+</string>
+
+<string>
+	<id>paypal_cert_enabled</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>证书认证方法</val>
+</string>
+
+<string>
+	<id>api_server_url_dir_pay_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>支付宝API URL (签名 认证 方法)</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_signature_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>测试支付宝 API 认证签名必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_signature_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>API认证签名必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_url_sign_txn_chk_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>API URL (获取交易详情API) (签名认证方法)必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_server_url_sign_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝API URL (签名 认证方法) 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_trans_not_found</id>
+	<c>PayPal, error message</c>
+	<val>支付宝网关未发现支付编号 # %nef_no% 的交易.</val>
+</string>
+
+<string>
+	<id>paypal_check_try_number_check</id>
+	<c>PayPal, config param</c>
+	<val>检查的数字</val>
+</string>
+
+<string>
+	<id>tries_over</id>
+	<c>PayPal, config string</c>
+	<val>交易状态检查尝试允许的数字已结束.</val>
+</string>
+
+<string>
+	<id>tries_remain</id>
+	<c>PayPal, config string</c>
+	<val>保留交易状态检查尝试</val>
+</string>
+
+<string>
+	<id>paypal_direct_num_of_tries</id>
+	<c>PayPal, config string</c>
+	<val>检查交易状态尝试的数字</val>
+</string>
+
+<string>
+	<id>paypal_direct_num_of_tries_not_defined</id>
+	<c>PayPal, error message</c>
+	<val>必须定义检查交易状态尝试的数字</val>
+</string>
+
+<string>
+	<id>paypal_direct_num_of_tries_incorrect</id>
+	<c>PayPal, error message</c>
+	<val>检查交易状态尝试的数字不正确</val>
+</string>
+
+<string>
+	<id>paypal_direct_check_status_period_to_small</id>
+	<c>PayPal, details parameters</c>
+	<val>检查周期必须比 %min% 分钟大</val>
+</string>
+
+<string>
+	<id>paypal_direct_check_status_period_min_incorrect</id>
+	<c>PayPal, error message</c>
+	<val>检查交易周期值不正确</val>
+</string>
+
+<string>
+	<id>paypal_direct_check_status_period_min</id>
+	<c>PayPal, config string</c>
+	<val>检查交易状态, (最小.)</val>
+</string>
+
+<string>
+	<id>paypal_direct_check_status_period_min_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>必须定义支付宝交易状态检查周期</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_server_dir_pay_url_tst</id>
+	<c>PayPal, config string</c>
+	<val>测试 API URL</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_server_url_tst</id>
+	<c>PayPal, config string</c>
+	<val>测试 API URL (获取交易详情 API)</val>
+</string>
+
+<string>
+	<id>paypal_direct_paypal_api_cfg</id>
+	<c>PayPal, config message</c>
+	<val>支付宝交易检查配置</val>
+</string>
+
+<string>
+	<id>paypal_direct_title</id>
+	<c>Payment Plugins: Plugin name</c>
+	<val>支付宝直接信用卡插件</val>
+</string>
+
+<string>
+	<id>paypal_direct_auth_code</id>
+	<c>Payment Plugins: PayPal's details parameter</c>
+	<val>认证码</val>
+</string>
+
+<string>
+	<id>paypal_direct_ccp_cvv_code</id>
+	<c>Payment Plugins: PayPal's details parameter name</c>
+	<val>CVV 结果码</val>
+</string>
+
+<string>
+	<id>paypal_direct_total_summ_undef</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>待付 doc #%order_id% 未定义或为0</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_txn_chk_url_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>测试API URL (获取交易详情API) 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_url_txn_chk_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>获取交易详情 API URL 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_url_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>测试API URL 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_user_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>测试API 用户名 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_passwd_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>测试API 密码必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_tst_merchant_cert_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>测试证书文件路径必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_server_url_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>API URL 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_passwd_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>API密码必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_user_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>API用户名必须定义</val>
+</string>
+
+<string>
+	<id>paypal_direct_api_merchant_cert_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>API证书文件路径必须定义 </val>
+</string>
+
+<string>
+	<id>paypal_confirmation_failed</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>交易认证失败. 收到来自支付宝的无效认证响应.</val>
+</string>
+ 
+<string>
+<id>business_email_uc</id>
+<c>PayPal, config message</c>
+<val>商业邮件</val>
+</string>
+
+<string>
+<id>primary_email_uc</id>
+<c>PayPal, config message</c>
+<val>电子邮件</val>
+</string>
+
+<string>
+<id>api_server_url_dir_pay</id>
+<c>PayPal, config message</c>
+<val>直接支付 API URL</val>
+</string>
+
+<string>
+<id>api_server_url_exp_check</id>
+<c>PayPal, config string</c>
+<val>快捷退出 API URL</val>
+</string>
+
+<string>
+<id>api_server_url_txn_check</id>
+<c>PayPal, config string</c>
+<val>获取交易详情API URL</val>
+</string>
+
+<string>
+<id>txn_not_found</id>
+<c>Error message</c>
+<val>在支付网关未发现交易信息. 可能原因是客户未完成支付程序.</val>
+</string>
+
+<string>
+<id>paypal_api_enabled</id>
+<c>PayPal, config message</c>
+<val>可以进行交易检查</val>
+</string>
+
+<string>
+<id>check_status_period_min</id>
+<c>PayPal, config message</c>
+<val>检查状态周期, (分.)</val>
+</string>
+
+<string>
+<id>paypal_api_cfg_exp_check</id>
+<c>PayPal, config message</c>
+<val>支付宝快捷退出 API 认证</val>
+</string>
+
+<string>
+<id>cert_present_upload_new</id>
+<c>PayPal, config message</c>
+<val>显示证书文件. 在下面上传一个新的:</val>
+</string>
+
+<string>
+<id>key_present_upload_new</id>
+<c>PayPal, config message</c>
+<val>显示关键文件. 在下面上传一个新的:</val>
+</string>
+
+<string>
+<id>token_url</id>
+<c>PayPal, details parameters</c>
+<val>URL代号</val>
+</string>
+
+<string>
+<id>Payer_id</id>
+<c>PayPal, details parameters</c>
+<val>付款方ID</val>
+</string>
+
+<string>
+<id>Payer_status</id>
+<c>PayPal, details parameters</c>
+<val>付款方状态</val>
+</string>
+
+<string>
+<id>Payer_name</id>
+<c>PayPal, details parameters</c>
+<val>付款方名称</val>
+</string>
+
+<string>
+<id>tst_merchant_cert</id>
+<c>PayPal, parameters</c>
+<val>测试商家凭证</val>
+</string>
+
+<string>
+<id>api_user_tst</id>
+<c>PayPal, parameters</c>
+<val>测试用户</val>
+</string>
+
+<string>
+<id>api_passwd_tst</id>
+<c>PayPal, parameters</c>
+<val>测试密码</val>
+</string>
+
+<string>
+<id>paypal_3ds_pareq</id>
+<c>PayPal, parameters</c>
+<val>Pa请求</val>
+</string>
+
+<string>
+<id>paypal_3ds_url</id>
+<c>PayPal, parameters</c>
+<val>主要的URL</val>
+</string>
+
+<string>
+<id>paypal_cavv</id>
+<c>PayPal, parameters</c>
+<val>持卡人授权认证值</val>
+</string>
+
+<string>
+<id>paypal_eci_flag</id>
+<c>PayPal, parameters</c>
+<val>电子商务知识器 (ECI)</val>
+</string>
+
+<string>
+<id>paypal_xid</id>
+<c>PayPal, parameters</c>
+<val>Xid</val>
+</string>
+
+<string>
+<id>3dsecure_status</id>
+<c>PayPal, parameters</c>
+<val> 3D 安全状态</val>
+</string>
+
+<string>
+<id>paypal_direct_processor_id</id>
+<c>PayPal, parameters</c>
+<val>处理器 ID</val>
+</string>
+
+<string>
+<id>enable_3d_secure</id>
+<c>PayPal, parameters</c>
+<val>3D 安全有效</val>
+</string>
+
+<string>
+<id>3dsecure_cfg</id>
+<c>PayPal, parameters</c>
+<val>3D 安全配置</val>
+</string>
+
+<string>
+<id>paypal_3ds_md</id>
+<c>PayPal, parameters</c>
+<val>MD</val>
+</string>
+
+<string>
+<id>paypal_3ds_status</id>
+<c>PayPal, parameters</c>
+<val>3D安全状态</val>
+</string>
+
+<string>
+<id>paypal_direct_url_3dsecure</id>
+<c>PayPal, parameters</c>
+<val>主要的URL</val>
+</string>
+
+<string>
+<id>paypal_transaction_pwd</id>
+<c>PayPal, parameters</c>
+<val>交易密码</val>
+</string>
+
+<string>
+<id>paypal_trans_id</id>
+<c>PayPal, parameters</c>
+<val>支付宝交易id</val>
+</string>
+
+<string>
+<id>ok_3d_failed_explained</id>
+<c>PayPal, message</c>
+<val>3D 安全验证失败</val>
+</string>
+
+<string>
+<id>err_3d_failed_explained</id>
+<c>PayPal, message</c>
+<val>3D 安全认证成功</val>
+</string>
+
+</strings>

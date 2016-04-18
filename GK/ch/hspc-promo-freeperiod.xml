@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" convert_to_utf="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>free_period_discount_uc</id>
+<c>Billing | Promotion</c>
+<val>免费订阅周期</val>
+</string>
+
+<string>
+<id>free_period</id>
+<c>Billing | Promotion</c>
+<val>免费周期</val>
+</string>
+
+
+
+</strings>

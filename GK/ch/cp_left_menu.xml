@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_report</id>
+<val>报告</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_limits</id>
+<val>限制</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_preferences</id>
+<val>参数选择</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_domain_user</id>
+<val>域名用户</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_register</id>
+<val>注册者</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_extras</id>
+<val>额外的</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_backup</id>
+<val>备份</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_custom_buttons</id>
+<val>自定义按钮</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_mail</id>
+<val>邮件</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_maillists</id>
+<val>邮件列表</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_dns</id>
+<val>DNS</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_databases</id>
+<val>数据库</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_configure_odbc</id>
+<val>ODBC 设置</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_aspdotnet</id>
+<val>ASP.NET</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_certificates</id>
+<val>证书</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_web_apps</id>
+<val>Tomcat</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_setup</id>
+<val>设置</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_web_users</id>
+<val>网页用户</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_subdomains</id>
+<val>子域名</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_domain_aliases</id>
+<val>域名别名</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_directories</id>
+<val>目录</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_virtualdirs</id>
+<val>虚拟目录</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_webdirs</id>
+<val>网页目录</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_mimetypes</id>
+<val>MIME 类型</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_anonymous_ftp</id>
+<val>匿名 FTP</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_log_manager</id>
+<val>日志管理器</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_file_manager</id>
+<val>文件管理器</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_fotolia</id>
+<val>购买图片</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_task_unknown</id>
+<val>已排程的任务</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_tsclient</id>
+<val>远程桌面</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_crontab_win</id>
+<val>程序机</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_site_apps</id>
+<val>应用百宝箱</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_starterkit</id>
+<val>ASP.NET 网页应用</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_performance</id>
+<val>执行</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_preview</id>
+<val>网站预览</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_site_builder</id>
+<val>网站构建</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_fp_webadmin</id>
+<val>FP 管理界面</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_iis_app_pool</id>
+<val>IIS 应用池</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_shared_ssl</id>
+<val>共享 SSL</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_hotlinkprotection</id>
+<val>防盗链</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_edit</id>
+<val>编辑</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_permissions</id>
+<val>许可</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_ip_pool</id>
+<val>IP池</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_skeleton</id>
+<val>框架</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_logo</id>
+<val>Logo设置</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_custom_buttons</id>
+<val>自定义按钮</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_new_domain</id>
+<val>添加新域名</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_domain_templates</id>
+<val>域名模板</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_register</id>
+<val>注册账户</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_manage</id>
+<val>管理</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_extras</id>
+<val>额外</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_traffic</id>
+<val>流量</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_domain_rename</id>
+<val>重命名域名</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_grp___tools</id>
+<val>工具菜单</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_grp___domain</id>
+<val>域名</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_grp___services</id>
+<val>服务</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_grp___hosting_title</id>
+<val>托管</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_plesk_menu_btn_site_apppool</id>
+<val>网站应用池</val>
+</string>
+
+</strings>

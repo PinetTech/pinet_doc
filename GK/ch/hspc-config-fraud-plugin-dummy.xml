@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>afmp_dummy_max_count_undef</id>
+<c>error</c>
+<val>必须定义异步模式下停止轮询的计数!</val>
+</string>
+
+<string>
+<id>afmp_dummy_max_count_wrong</id>
+<c>error</c>
+<val>异步模式下停止轮询的计数必须是数字!</val>
+</string>
+
+<string>
+<id>afmp_dummy_period_undef</id>
+<c>error</c>
+<val>异步模式下轮询的周期!</val>
+</string>
+
+<string>
+<id>afmp_dummy_period_wrong</id>
+<c>error</c>
+<val>异步模式下轮询的周期必须是数字!</val>
+</string>
+
+<string>
+<id>afmp_dummy_lim_undef</id>
+<c>error</c>
+<val>必须定义异步模式下停止轮询的时间限制!</val>
+</string>
+
+<string>
+<id>afmp_dummy_lim_wrong</id>
+<c>error</c>
+<val>异步模式下停止轮询的时间限制必须是数值!</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_trial_order_place</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>虚拟条件 (试购订单)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_trial_order_place_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>异步虚拟条件(试购订单)</val>
+</string>
+
+<string>
+<id>afmp_dummy_tab_title</id>
+<c>tab title</c>
+<val>虚拟</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_login</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>虚拟条件 (登录)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_regacc</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>虚拟条件(新账户)</val>
+</string>
+
+<string>
+<id>afmp_dummy_error_result</id>
+<c>Anti-Fraud Manager: Dummy Plugin</c>
+<val>错误</val>
+</string>
+
+<string>
+<id>afmp_dummy_matched_result</id>
+<c>Anti-Fraud Manager: Dummy Plugin</c>
+<val>匹配</val>
+</string>
+
+<string>
+<id>afmp_dummy_notmatched_result</id>
+<c>Anti-Fraud Manager: Dummy Plugin</c>
+<val>不匹配</val>
+</string>
+
+<string>
+<id>afmp_dummy_result</id>
+<c>Anti-Fraud Manager: Dummy Plugin</c>
+<val>总是返回</val>
+</string>
+
+<string>
+<id>afmp_dummy_has_no_score</id>
+<c>checkbox description</c>
+<val>在奖励或警惕响应时返回值无效</val>
+</string>
+
+<string>
+<id>afmp_dummy_score</id>
+<c>input field description</c>
+<val>分值返回(如果有)</val>
+</string>
+
+<string>
+<id>afmp_dummy_count</id>
+<c>input field description</c>
+<val>异步模式下停止轮询计数</val>
+</string>
+
+<string>
+<id>afmp_dummy_period</id>
+<c>input field description</c>
+<val>异步模式下轮询周期</val>
+</string>
+
+<string>
+<id>afmp_dummy_lim</id>
+<c>input field description</c>
+<val>异步模式下停止轮询的时间限制</val>
+</string>
+
+<string>
+<id>afmp_dummy_async_desc</id>
+<c>input field description</c>
+<val>异步模式操作时选择响应的插件规则</val>
+</string>
+
+<string>
+<id>afmp_dummy_score_must_nonnegative</id>
+<c>error</c>
+<val>分数值必须是非负值!</val>
+</string>
+
+<string>
+<id>afmp_dummy_score_factor_must_nonnegative</id>
+<c>error</c>
+<val>分数因素值必须是非负值!</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_new_order_place</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>虚拟条件(新菜单配置)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_new_order_place_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>异步虚拟条件 (新菜单配置)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_regacc_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>异步虚拟条件 (新账户t)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_renew_order_place</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>虚拟条件(更新菜单)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_renew_order_place_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>异步虚拟条件(更新菜单)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_capture_new_paymethod</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>虚拟条件 (捕获阶段新支付方式)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_capture_new_paymethod_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>异步虚拟条件(捕获阶段新支付方式)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_capture_approved_paymethod</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>虚拟条件(捕获阶段已认证支付方式)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_capture_approved_paymethod_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>异步虚拟条件 (捕获阶段已认证支付方式)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_preauth_new_paymethod</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>虚拟条件 (授权阶段新的支付方式)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_preauth_new_paymethod_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>异步虚拟条件 (授权阶段新的支付方式)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_preauth_approved_paymethod</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>虚拟条件 (授权阶段已认证支付方式)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_preauth_approved_paymethod_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>异步虚拟条件(授权阶段已认证支付方式)</val>
+</string>
+
+<string>
+<id>afmp_dummy_score_factor</id>
+<c>AFM plugin Dummy: Score correction factor</c>
+<val>分值修改因素</val>
+</string>
+
+</strings>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>state_ca_ab</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>阿尔伯塔</val>
+</string>
+
+<string>
+<id>state_ca_bc</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>不列颠哥伦比亚</val>
+</string>
+
+<string>
+<id>state_ca_mb</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>马尼托巴湖（</val>
+</string>
+
+<string>
+<id>state_ca_nb</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 新不伦瑞克省</val>
+</string>
+
+<string>
+<id>state_ca_nf</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 纽芬兰</val>
+</string>
+
+<string>
+<id>state_ca_nt</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>西北地区</val>
+</string>
+
+<string>
+<id>state_ca_ns</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>新斯科舍</val>
+</string>
+
+<string>
+<id>state_ca_nu</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>努勒维特</val>
+</string>
+
+<string>
+<id>state_ca_on</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>安大略</val>
+</string>
+
+<string>
+<id>state_ca_pe</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>爱德华王子岛</val>
+</string>
+
+<string>
+<id>state_ca_qc</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>魁北克</val>
+</string>
+
+<string>
+<id>state_ca_sk</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 萨斯喀彻温省</val>
+</string>
+
+<string>
+<id>state_ca_yt</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 育空地区</val>
+</string>
+
+
+
+</strings>
+

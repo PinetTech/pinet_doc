@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<c>Event manager|Message subject</c>
+<id>stment_has_been_created_subj</id>
+<val>@@provider.company_name@'s statement #@@statement.id@ dated @@statement.date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_ren_order_has_been_crt_subj</id>
+<val>@@provider.company_name@'s order #@@order.doc_num@ (ID @@order.id@) dated @@order.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>payment_has_been_accepted_subj_on</id>
+<val>Payment #@@payment.doc_num@ (ID @@payment.id@) dated @@payment.doc_date@ has been received by @@provider.company_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>payment_has_been_accepted_subj_off</id>
+<val>Payment #@@payment.doc_num@ (ID @@payment.id@) dated @@payment.doc_date@ has been received by @@provider.company_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>payment_has_been_accepted_subj_cri</id>
+<val>@@provider.company_name@'s invoice #@@payment.doc_num@ (ID @@payment.id@) dated @@payment.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>payment_has_been_accepted_subj_cra</id>
+<val>@@provider.company_name@'s credit adjustment #@@payment.doc_num@ (ID @@payment.id@) dated @@payment.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>payment_has_been_canceled_subj_on</id>
+<val>Payment #@@payment.doc_num@ (ID @@payment.id@) dated @@payment.doc_date@ has been cancelled by @@provider.company_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>payment_has_been_canceled_subj_off</id>
+<val>Payment #@@payment.doc_num@ (ID @@payment.id@) dated @@payment.doc_date@ has been cancelled by @@provider.company_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>payment_has_been_canceled_subj_cri</id>
+<val>Credit invoice #@@payment.doc_num@ (ID @@payment.id@) dated @@payment.doc_date@ has been cancelled by @@provider.company_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>payment_has_been_canceled_subj_cra</id>
+<val>Credit adjustment #@@payment.doc_num@ (ID @@payment.id@) dated @@payment.doc_date@ has been cancelled by @@provider.company_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>debit_adj_crt_subj</id>
+<val>@@provider.company_name@'s debit adjustment #@@debitadjustment.doc_num@ (ID @@debitadjustment.id@) dated @@debitadjustment.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>curr_balance_below_zero_subj</id>
+<val>Your current balance has become a negative value</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>invoice_due_date_has_expired_subj</id>
+<val>@@provider.company_name@'s invoice #@@invoice.doc_num@ (ID @@invoice.id@) dated @@invoice.doc_date@ past due</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>invoice_cutoff_date_has_expired_subj</id>
+<val>You have not paid for invoice #@@invoice.doc_num@ (ID @@invoice.id@) from @@invoice.doc_date@ - @@provider.company_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>invoice_has_been_created_subj</id>
+<val>@@provider.company_name@'s invoice #@@invoice.doc_num@ (ID @@invoice.id@) dated @@invoice.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_upg_order_has_been_crt_subj</id>
+<val>@@provider.company_name@'s order #@@order.doc_num@ (ID @@order.id@) dated @@order.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_updated_subj</id>
+<val>Your subscription @@subscription.name@ has been updated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_renewed_subj</id>
+<val>Your subscription @@subscription.name@ has been renewed</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_ve</id>
+<val>Congratulations!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_misc_cust</id>
+<val>Miscellaneous subscription #@@subscription.id@ @@subscription.name@ has been created</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_misc_prov</id>
+<val>Miscellaneous subscription #@@subscription.id@ @@subscription.name@ has been created</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_hw_vz</id>
+<val>VPS Dedicated Node subscription #@@subscription.id@ @@subscription.name@ has been created</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_hw_generic</id>
+<val>Dedicated Server subscription #@@subscription.id@ @@subscription.name@ has been created</val>
+</string>	
+<string>
+<c>Event manager|Message subject</c>
+<id>ds_subscr_appeared_subj</id>
+<val>Dedicated Server subscription #@@subscription.id@ @@subscription.name@ has been created</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_subj_domain</id>
+<val>Domain subscription #@@subscription.id@ @@subscription.name@ has been created</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_pd</id>
+<val>webhost Domain subscription #@@subscription.id@ @@subscription.name@ has been created</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_has_been_created_webhost_srv</id>
+<val>webhost Dedicated Node subscription #@@subscription.id@ @@subscription.name@ has been created</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_creation_failed_subj</id>
+<val>Subscription #@@subscription.id@ process error</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_has_been_registered_subj</id>
+<val>Domain @@domain.name@ has been registered</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_reg_err_subj</id>
+<val>Domain @@domain.name@ registration error</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_has_been_trans_subj</id>
+<val>Domain @@domain.name@ has been transferred</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_trans_err_subj</id>
+<val>Domain @@domain.name@ transferring error</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_has_been_renewed_subj</id>
+<val>Domain @@domain.name@ has been renewed</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_renewal_err_subj</id>
+<val>Domain @@domain.name@ renewal error</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_termination_queued_subj</id>
+<val>Domain @@domain.name@ has been queued for termination</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_termination_err_subj</id>
+<val>Domain @@domain.name@ termination error</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_has_been_terminated_subj</id>
+<val>Domain @@domain.name@ has been terminated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>order_has_been_created_subj_cust</id>
+<val>@@provider.company_name@'s order #@@order.doc_num@ (ID @@order.id@) dated @@order.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>order_has_been_created_subj_prov</id>
+<val>Order #@@order.doc_num@ (ID @@order.id@) dated @@order.doc_date@ has been placed by the customer</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>non_mtr_traff_over_subj</id>
+<val>Traffic overusage</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_grace_period_ended_subj</id>
+<val>Your subscription @@subscription.name@ grace period has ended</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>srv_has_been_stop_subj_cust</id>
+<val>VPS Container @@ve.id@ has been stopped!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>srv_has_been_stop_subj_prov</id>
+<val>VPS Container @@ve.id@ has been stopped!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_credit_lim_over_subj_cust_prov</id>
+<val>Account @@customer.id@ has reached the Credit limit</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_credit_lim_over_subj_cust_cust</id>
+<val>Credit limit has been reached</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_credit_lim_over_res_prov</id>
+<val>Account @@customer.id@ has reached the Credit limit</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_credit_lim_over_res_cust</id>
+<val>Credit limit has been reached</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>inv_for_res_created_subj</id>
+<val>@@provider.company_name@'s invoice #@@invoice.doc_num@ (ID @@invoice.id@) dated @@invoice.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_ve</id>
+<val>Your @@subscription.name@ subscription has been put on hold</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_pd</id>
+<val>Your @@subscription.name@ subscription has been put on hold</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_domain</id>
+<val>Your @@subscription.name@ subscription has been put on hold</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_misc</id>
+<val>Your @@subscription.name@ subscription has been put on hold</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_hw_vz</id>
+<val>Your @@subscription.name@ subscription has been put on hold</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_hw_generic</id>
+<val>Your @@subscription.name@ subscription has been put on hold</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_webhost_srv</id>
+<val>Your @@subscription.name@ subscription has been put on hold</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_ve_webhost_srv</id>
+<val>Your @@subscription.name@ subscription has been put on hold</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_pc</id>
+<val>Your @@subscription.name@ subscription has been put on hold</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_ve_due_unpaid_doc</id>
+<val>Your @@subscription.name@ subscription has been put on hold due to the unpaid invoice #@@invoice.id@ (@@invoice.doc_num@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_pd_due_unpaid_doc</id>
+<val>Your @@subscription.name@ subscription has been put on hold due to the unpaid invoice #@@invoice.id@ (@@invoice.doc_num@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_domain_due_unpaid_doc</id>
+<val>Your @@subscription.name@ subscription has been put on hold due to the unpaid invoice #@@invoice.id@ (@@invoice.doc_num@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_misc_due_unpaid_doc</id>
+<val>Your @@subscription.name@ subscription has been put on hold due to the unpaid invoice #@@invoice.id@ (@@invoice.doc_num@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_hw_vz_due_unpaid_doc</id>
+<val>Your @@subscription.name@ subscription has been put on hold due to the unpaid invoice #@@invoice.id@ (@@invoice.doc_num@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_hw_generic_due_unpaid_doc</id>
+<val>Your @@subscription.name@ subscription has been put on hold due to the unpaid invoice #@@invoice.id@ (@@invoice.doc_num@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_webhost_srv_due_unpaid_doc</id>
+<val>Your @@subscription.name@ subscription has been put on hold due to the unpaid invoice #@@invoice.id@ (@@invoice.doc_num@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_ve_webhost_srv_due_unpaid_doc</id>
+<val>Your @@subscription.name@ subscription has been put on hold due to the unpaid invoice #@@invoice.id@ (@@invoice.doc_num@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>subscr_placed_on_hold_subj_pc_due_unpaid_doc</id>
+<val>Your @@subscription.name@ subscription has been put on hold due to the unpaid invoice #@@invoice.id@ (@@invoice.doc_num@)</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>srv_has_been_dest_subj_prov</id>
+<val>VPS Container @@ve.id@ has been destroyed</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>srv_has_been_dest_subj_cust</id>
+<val>VPS Container @@ve.id@ has been destroyed</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>sub_trial_p_ended_subj</id>
+<val>Your @@subscription.name@ subscription trial period has ended</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>vz_hwn_assigned_subj</id>
+<val>Congratulations!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ve_created_subj</id>
+<val>VPS Container on your @@subscription.name@ server has been created</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ve_started_subj</id>
+<val>VPS Container on your @@subscription.name@ server has been started</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>domain_has_been_add_to_dns_subj</id>
+<val>The @@domain.name@ domain has been added to DNS</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ve_on_dserv_stop_subj</id>
+<val>VPS Container on your @@subscription.name@ server has been stopped</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ve_on_dserv_dest_subj</id>
+<val>VPS Container on your @@subscription.name@ server has been destroyed</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>vz_hw_registered_subj</id>
+<val>The @@hw.shortname@ Hardware Node has been registered</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>paid_inv_created_subj</id>
+<val>@@provider.company_name@'s invoice #@@invoice.doc_num@ (ID @@invoice.id@) dated @@invoice.doc_date@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>nonvz_hw_assigned_subj</id>
+<val>Congratulations!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>inv_refunded_subj</id>
+<val>Invoice #@@invoice.doc_num@ (ID @@invoice.id@) has been refunded</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>pa_approved_subj</id>
+<val>Your Reseller's Application has been approved</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>pa_submited_subj_cust</id>
+<val>Reseller's Application has been received</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>pa_submited_subj_prov</id>
+<val>@@customer.name@ - Partner Application Form</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_place_on_hold_subj</id>
+<val>Your account has been put on hold</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>acc_activated_subj</id>
+<val>You account has been activated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>order_cancelled_subj</id>
+<val>Order #@@order.doc_num@ (ID @@order.id@) has been cancelled</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>sub_not_p_started_subj</id>
+<val>Your subscription period for @@subscription.name@ will be ended soon</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>hold_subscr_activated_subj</id>
+<val>Your subscription #@@subscription.id@ (@@subscription.name@) has been activated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>pending_subscr_activated_subj</id>
+<val>Your subscription #@@subscription.id@ (@@subscription.name@) has been activated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_subscr_deleted_subj</id>
+<val>Your subscription #@@subscription.id@ (@@subscription.name@) has been terminated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>pass_rem_req_subj</id>
+<val>Reset authorization code for @@person.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_person_created_subj</id>
+<val>New person created for @@person.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_password_changed_subj</id>
+<val>Password has been changed for @@person.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_disk_near_used_up_subj</id>
+<val>The disk space is nearly used up</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_traf_near_used_up_subj</id>
+<val>The traffic is nearly used up</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>sub_p_ended_subj</id>
+<val>Your subscription period for @@subscription.name@ has ended</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>grace_subscr_activated_subj</id>
+<val>Your subscription #@@subscription.id@ (@@subscription.name@) has been activated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>expire_subscr_grace_subj</id>
+<val>Your subscription period for subscription #@@subscription.id@ (@@subscription.name@) has been restarted</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>expire_subscr_active_subj</id>
+<val>Your subscription #@@subscription.id@ (@@subscription.name@) has been activated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>mtr_traff_over_subj</id>
+<val>Traffic overusage</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>mtr_traff_end_subj</id>
+<val>Traffic limit reached</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_opened_subj_prov</id>
+<val>@@ticket.tag@ New ticket #@@ticket.number@ has been opened by @@ticket.req_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_opened_subj_cust</id>
+<val>@@ticket.tag@ Your report has been received, new ticket #@@ticket.number@ has been opened</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_proceeded_subj_prov</id>
+<val>Ticket #@@ticket.number@ has been @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_proceeded_subj_cust</id>
+<val>@@ticket.tag@ Your ticket #@@ticket.number@ has been @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_changed_subj_prov</id>
+<val>Ticket #@@ticket.number@ has been @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_changed_subj_cust</id>
+<val>@@ticket.tag@ Your ticket #@@ticket.number@ has been @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_opened_from_email_subj_prov</id>
+<val>New ticket #@@ticket.number@ has been opened by email @@ticket_ev.email@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_opened_from_email_subj_cust</id>
+<val>@@ticket.tag@ Your report has been received, new ticket #@@ticket.number@ has been opened</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_proceeded_from_email_subj_prov</id>
+<val>Ticket #@@ticket.number@ has been @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_proceeded_from_email_subj_cust</id>
+<val>@@ticket.tag@ Your ticket #@@ticket.number@ has been @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_changed_from_email_subj_prov</id>
+<val>Ticket #@@ticket.number@ has been @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_changed_from_email_subj_cust</id>
+<val>@@ticket.tag@ Your ticket #@@ticket.number@ has been @@ticket_ev.action@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_no_mailgate_subj</id>
+<val>Re: @@ticket.err_subj@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_no_tickets_subj</id>
+<val>Re: @@ticket.err_subj@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ticket_no_customers_subj</id>
+<val>Re: @@ticket.err_subj@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>app_lic_violation_subj</id>
+<val>License violation: @@template.name@ could not be installed into @@ve.hostname@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>app_upgrade_avail_subj</id>
+<val>@@template.name@ can be upgraded for @@subscription.name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>webhost_hw_assigned_subj</id>
+<val>Congratulations!</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ip_address_for_nvhw_paid_subj</id>
+<val>The @@subscription.name@ suscription has been updated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ip_address_for_nvhw_assign_subj</id>
+<val>The @@hw.hostname@ Hardware Node has been updated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ip_address_for_ds_assign_subj</id>
+<val>Dedicated Server @@ds.identification@ has been updated</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_new_campaign_created_subj_prov</id>
+<val>New customer has been joined marketing campaign</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_new_campaign_created_subj_cust</id>
+<val>You have become a member of @@provider.company_name@ campaign @@campaign.title@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_order_placed_subj</id>
+<val>The @@provider.company_name@ has received an order placed by your campaign visitor @@campaignorder.visitor_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_order_placed_subj_vendor</id>
+<val>The @@provider.company_name@ has received an order placed by visitor @@campaignorder.visitor_name@ for campaign @@campaignorder.campaign_title@</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_credit_adj_crt_subj</id>
+<val>@@provider.company_name@'s credit adjustment #@@payment.doc_num@ (ID @@payment.id@) dated @@payment.doc_date@ has been created</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_credit_adj_crt_subj_vendor</id>
+<val>Credit adjustment #@@payment.doc_num@ (ID @@payment.id@) dated @@payment.doc_date@ has been created by @@customer.name@</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_payment_request_crt_subj</id>
+<val>@@provider.company_name@'s payment request #@@paymentrequest.id@ dated @@paymentrequest.open_date@ has been created</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_payment_request_crt_subj_vendor</id>
+<val>Payment request #@@paymentrequest.id@ dated @@paymentrequest.open_date@ has been created by @@paymentrequest.account_name@</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_payment_request_completed_subj</id>
+<val>@@provider.company_name@'s payment request #@@paymentrequest.id@ dated @@paymentrequest.open_date@ has been completed</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_payment_request_completed_subj_vendor</id>
+<val>Payment request #@@paymentrequest.id@ dated @@paymentrequest.open_date@ has been completed</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_payment_request_canceled_subj</id>
+<val>@@provider.company_name@'s payment request #@@paymentrequest.id@ dated @@paymentrequest.open_date@ has been canceled</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_payment_request_canceled_subj_vendor</id>
+<val>Payment request #@@paymentrequest.id@ dated @@paymentrequest.open_date@ has been canceled</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_payment_request_declined_subj</id>
+<val>@@provider.company_name@'s payment request #@@paymentrequest.id@ dated @@paymentrequest.open_date@ has been declined</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_payment_request_declined_subj_vendor</id>
+<val>Payment request #@@paymentrequest.id@ dated @@paymentrequest.open_date@ has been declined</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_sale_completed_subj</id>
+<val>The campaign order placed by @@campaignorder.visitor_name@ has been completed</val>
+</string>
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_campaign_sale_completed_subj_vendor</id>
+<val>The campaign order placed by @@campaignorder.visitor_name@ for campaign @@campaignorder.campaign_title@ has been completed</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_transaction_accepted_subj</id>
+<val>@@translog.trans_type@ transaction has been accepted</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_transaction_error_subj</id>
+<val>@@translog.trans_type@ transaction finished with error</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_transaction_frauded_subj</id>
+<val>@@translog.trans_type@ transaction has been frauded</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_paymethod_expired_subj</id>
+<val>Your Payment Method has expired</val>
+</string>
+
+<string>
+<c>Event manager|Message subject</c>
+<id>ev_transaction_declined_subj</id>
+<val>@@translog.trans_type@ transaction has been declined</val>
+</string>
+<string>
+<id>ev_transaction_authcall_subj</id>
+<val>Transaction auth call</val>
+</string>
+<string>
+<id>subscr_term_req_subj</id>
+<val>Termination request has been submitted for subscription @@subscription.name@.</val>
+</string>
+<string>
+<id>new_hspc_release_subj</id>
+<val>New Business Automation - Standard (@@provider.hspc_last_ver@) is now available</val>
+</string>
+<string>
+<id>new_hspc_plugins_subj</id>
+<val>New  Business Automation - Standard plugins is now available</val>
+</string>
+<string>
+<id>afm_account_chain_checked_approved_subj</id>
+<val>Account #@@customer.id@ has been approved.</val>
+</string>
+<string>
+<id>afm_new_order_chain_checked_approved_subj</id>
+<val>Order #@@order.doc_num@ (ID @@order.id@) has been approved.</val>
+</string>
+<string>
+<id>afm_reccuring_order_chain_checked_approved_subj</id>
+<val>Order #@@order.doc_num@ (ID @@order.id@) has been approved.</val>
+</string>
+<string>
+<id>afm_capture_new_payment_chain_checked_approved_subj</id>
+<val>Credit Card with name '@@paymethod.name@' (ID @@paymethod.id@) has been approved at the Capturing stage.</val>
+</string>
+<string>
+<id>afm_capture_approved_payment_chain_checked_approved_subj</id>
+<val>Credit Card with name '@@paymethod.name@' (ID @@paymethod.id@) has been approved at the Capturing stage.</val>
+</string>
+<string>
+<id>afm_account_chain_checked_declined_subj</id>
+<val>Account #@@customer.id@ has been declined.</val>
+</string>
+<string>
+<id>afm_new_order_chain_checked_declined_subj</id>
+<val>Order #@@order.doc_num@ (ID @@order.id@) has been declined.</val>
+</string>
+<string>
+<id>afm_reccuring_order_chain_checked_declined_subj</id>
+<val>Order #@@order.doc_num@ (ID @@order.id@) has been declined.</val>
+</string>
+<string>
+<id>afm_capture_new_payment_chain_checked_declined_subj</id>
+<val>Credit Card with name '@@paymethod.name@' (ID @@paymethod.id@) has been declined at the Capturing stage.</val>
+</string>
+<string>
+<id>afm_capture_approved_payment_chain_checked_declined_subj</id>
+<val>Credit Card with name '@@paymethod.name@' (ID @@paymethod.id@) has been declined at the Capturing stage.</val>
+</string>
+<string>
+<id>afm_trial_order_chain_checked_approved_subj</id>
+<val>Trial Order #@@order.doc_num@ (ID @@order.id@) has been approved.</val>
+</string>
+<string>
+<id>afm_trial_order_chain_checked_declined_subj</id>
+<val>Trial Order #@@order.doc_num@ (ID @@order.id@) has been declined.</val>
+</string>
+<string>
+<id>afm_preauth_new_payment_chain_checked_approved_subj</id>
+<val>Credit Card with name '@@paymethod.name@' (ID @@paymethod.id@) has been approved at the Authorization stage.</val>
+</string>
+<string>
+<id>afm_preauth_approved_payment_chain_checked_approved_subj</id>
+<val>Credit Card with name '@@paymethod.name@' (ID @@paymethod.id@) has been approved at the Authorization stage.</val>
+</string>
+<string>
+<id>afm_preauth_new_payment_chain_checked_declined_subj</id>
+<val>Credit Card with name '@@paymethod.name@' (ID @@paymethod.id@) has been declined at the Authorization stage.</val>
+</string>
+<string>
+<id>afm_preauth_approved_payment_chain_checked_declined_subj</id>
+<val>Credit Card with name '@@paymethod.name@' (ID @@paymethod.id@) has been declined at the Authorization stage.</val>
+</string>
+
+<string>
+	<id>ev_lic_plugin_conf_subj</id>
+	<val>License plug-in configuration has been changed</val>
+</string>
+
+<string>
+	<id>psa_pwd_changed_subj</id>
+	<val>Password for webhost Panel changed</val>
+</string>
+
+
+<string>
+	<id>ev_vm_created_subj</id>
+	<val>Virtual Machine created</val>
+</string>
+
+<string>
+	<id>ev_vm_started_subj</id>
+	<val>Virtual Machine started</val>
+</string>
+
+<string>
+	<id>ev_vm_stoped_subj</id>
+	<val>Virtual Machine stoped</val>
+</string>
+
+<string>
+	<id>ev_vm_destroyed_subj</id>
+	<val>Virtual Machine destroyed</val>
+</string>
+
+<string>
+	<id>ev_vm_ip_change_subj</id>
+	<val>Virtual Machine IP address changed</val>
+</string>
+
+<string>
+	<id>ev_certificate_fetched_subj</id>
+	<val>SSL certificate for domain @@cert.domain@ fetched</val>
+</string>
+
+<string>
+	<id>certificate_issue_error_subj</id>
+	<val>SSL certificate for domain @@cert.domain@ can't be issued</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>pbas_license_update_failed</id>
+	<val> Business Automation - Standard License update has been failed</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>pbas_license_graced</id>
+	<val> Business Automation - Standard license is about to expire, grace period started</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>pbas_license_expired</id>
+	<val> Business Automation - Standard license has been expired</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>send_domain_auth_code_subj</id>
+	<val>Auth code for domain @@domain.name@</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>sepa_mandate_message_subj</id>
+	<val>SEPA Direct Debit Mandate</val>
+</string>
+
+<string>
+	<c>Event manager|Message subject</c>
+	<id>sepa_payment_message_subj</id>
+	<val>SEPA Direct Debit Payment</val>
+</string>
+
+</strings>

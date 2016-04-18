@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>new_plugin_uc</id>
+<c>VPSBusiness Automation - Standard plugin core</c>
+<val>新插件</val>
+</string>
+
+
+<string>
+<id>plugin_name_uc</id>
+<c>VPSBusiness Automation - Standard plugin core</c>
+<val>插件名称</val>
+</string>
+
+<string>
+<id>plugin_template_uc</id>
+<c>VPSBusiness Automation - Standard plugin core</c>
+<val>插件模板</val>
+</string>
+
+<string>
+<id>plugin_conf_uc</id>
+<c>VPSBusiness Automation - Standard plugin core</c>
+<val>插件配置</val>
+</string>
+
+<string>
+<id>plugin_setting_uc</id>
+<c>VPSBusiness Automation - Standard plugin core</c>
+<val>插件安装</val>
+</string>
+
+<string>
+<id>default_exc_user_message</id>
+<c>Default exception message showed to customers</c>
+<val>操作失败. 几分钟后再次尝试.如果错误继续发生请联系服务中心.很抱歉给您带来不便.</val>
+</string>
+
+<string>
+<id>default_exc_vendor_message</id>
+<c>Default exception message showed to vendors</c>
+<val>内部服务器错误导致安装失败. 请参阅日志了解更多详情.</val>
+</string>
+
+<string>
+<id>start_billing_trans_uc</id>
+<c>VPSBusiness Automation - Standard plugin core, PP</c>
+<val>在交易类型后开始服务配置</val>
+</string>
+
+<string>
+<id>pc_template_not_installed_uc</id>
+<c>VPSBusiness Automation - Standard plugin core</c>
+<val>插件 %模板_id%未安装. 请安装相应的 rpm.</val>
+</string>
+
+<string>
+<id>pc_available_plugins_uc</id>
+<c>VPSBusiness Automation - Standard plugin core, title of summary help page</c>
+<val>可用插件:</val>
+</string>
+
+<string>
+<id>plug_active_ok</id>
+<c>Message appears when online plug-in was marked successfully.</c>
+<val>成功激活插件.</val>
+</string>
+
+</strings>

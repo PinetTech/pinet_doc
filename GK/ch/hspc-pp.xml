@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>pp_error_plugin_not_return_status</id>
+<c>HSPcomplete payment processing error</c>
+<val>插件未返回正确状态</val>
+</string>
+
+<string>
+<id>pm_paytype_not_supported</id>
+<c>Error message when new payment method type is not configured</c>
+<val>这种支付方法类型 %type% 是不允许的</val>
+</string>
+
+<string>
+<id>allows_payment_paymethod</id>
+<c>PCC|New bank account form field title</c>
+<val>允许通过这种方法支付</val>
+</string>
+
+<string>
+<id>use_4rec_paying</id>
+<c>CP|New credit card form field title</c>
+<val>循环支付时使用这种方法</val>
+</string>
+
+<string>
+<id>change_paymethod_for_doc_uc</id>
+<c>CommerceDirector, title for changing paymethod</c>
+<val>把支付方法改为 %doc% #%id%</val>
+</string>
+
+<string>
+<id>document_cannot_pay</id>
+<c>CommerceDirector, error string</c>
+<val>文件无法支付</val>
+</string>
+
+<string>
+<id>store_refresh_page_link</id>
+<c>CP, RCC store message</c>
+<val>刷新网页，更新支付状态.</val>
+</string>
+
+<string>
+<id>rcccp_store_3ds_redirect</id>
+<c>CP, RCC store message 3d secury redirect</c>
+<val>请等待，正在处理支付详情.<br/><br/>如果通过信用卡支付，必须先注册'Visa认证'或者 'MasterCard 安全代码'方案, 然后你需要到银行安全密码/PIN.<br/><br/>如果未注册'Visa认证'或者 'MasterCard 安全代码，必须先注册才能进行交易.</val>
+</string>
+
+<string>
+<id>rcccp_store_3ds_redirect_contact</id>
+<c>CP, RCC store message 3d secury redirect</c>
+<val>如果付款遇到问题，请联系e %s%服务团队.</val>
+</string>
+
+<string>
+<id>3ds_error_cannot_pay</id>
+<c>Payment processing error, 3d required</c>
+<val>交易已取消, 因为3D安全验证来自客户的要求.</val>
+</string>
+
+<string>
+<id>payment_request_not_open</id>
+<c>CP | My Account | Billing History | Store | Payment Options</c>
+<val>不幸的是, 你的支付请求无效.请重新支付</val>
+</string>
+
+</strings>

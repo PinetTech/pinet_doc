@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_report</id>
+<val>Report</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_limits</id>
+<val>Limits</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_preferences</id>
+<val>Preferences</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_domain_user</id>
+<val>Domain User</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_register</id>
+<val>Register</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_extras</id>
+<val>Extras</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_backup</id>
+<val>Back up</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_custom_buttons</id>
+<val>Custom Buttons</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_mail</id>
+<val>Mail</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_maillists</id>
+<val>Mailing Lists</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_dns</id>
+<val>DNS</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_databases</id>
+<val>Databases</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_configure_odbc</id>
+<val>ODBC Settings</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_aspdotnet</id>
+<val>ASP.NET</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_certificates</id>
+<val>Certificates</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_web_apps</id>
+<val>Tomcat</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_setup</id>
+<val>Setup</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_web_users</id>
+<val>Web Users</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_subdomains</id>
+<val>Subdomains</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_domain_aliases</id>
+<val>Domain Aliases</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_directories</id>
+<val>Directories</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_virtualdirs</id>
+<val>Virtual Directories</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_webdirs</id>
+<val>Web Directories</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_mimetypes</id>
+<val>MIME Types</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_anonymous_ftp</id>
+<val>Anonymous FTP</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_log_manager</id>
+<val>Log Manager</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_file_manager</id>
+<val>File Manager</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_fotolia</id>
+<val>Buy Pictures</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_task_unknown</id>
+<val>Scheduled Tasks</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_tsclient</id>
+<val>Remote Desktop</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_crontab_win</id>
+<val>Scheduler</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_site_apps</id>
+<val>Application Vault</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_starterkit</id>
+<val>ASP.NET Web Applications</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_performance</id>
+<val>Performance</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_preview</id>
+<val>Site Preview</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_site_builder</id>
+<val>Sitebuilder</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_fp_webadmin</id>
+<val>FP Webadmin</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_iis_app_pool</id>
+<val>IIS Application Pool</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_shared_ssl</id>
+<val>Shared SSL</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_hotlinkprotection</id>
+<val>Hotlink Protection</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_edit</id>
+<val>Edit</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_permissions</id>
+<val>Permissions</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_ip_pool</id>
+<val>IP Pool</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_skeleton</id>
+<val>Skeleton</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_logo</id>
+<val>Logo Setup</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_custom_buttons</id>
+<val>Custom Buttons</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_new_domain</id>
+<val>Add New Domain</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_domain_templates</id>
+<val>Domain Templates</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_register</id>
+<val>Register</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_manage</id>
+<val>Manage</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_extras</id>
+<val>Extras</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_traffic</id>
+<val>Traffic</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_domain_rename</id>
+<val>Rename Domain</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_grp___tools</id>
+<val>Tools</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_grp___domain</id>
+<val>Domain</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_grp___services</id>
+<val>Services</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_grp___hosting_title</id>
+<val>Hosting</val>
+</string>
+
+<string>
+<c>CP|System|Left menu</c>
+<id>cp_webhost_menu_btn_site_apppool</id>
+<val>Site Application Pool</val>
+</string>
+
+</strings>

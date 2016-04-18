@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+	<id>paypal_express_api_txn_chk_url_sign_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>测试 API URL (获取交易详情API) (签名认证方法) 必须认证</val>
+</string>
+
+<string>
+	<id>api_server_url_txn_check_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>支付宝 API URL (获取交易详情 API) (签名认证方法)</val>
+</string>
+
+<string>
+	<id>paypal_express_signature_tst</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>测试 PayPal API 认证签名</val>
+</string>
+
+<string>
+	<id>paypal_express_signature</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>支付宝 API认证签名</val>
+</string>
+
+<string>
+	<id>paypal_express_api_server_url_tst_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>测试 支付宝 API URL (获取交易详情 API) (签名认证方法)</val>
+</string>
+
+<string>
+	<id>paypal_express_api_server_exp_check_url_tst_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>测试 支付宝 API URL (签名认证方法)</val>
+</string>
+
+<string>
+	<id>paypal_cert_enabled</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>证书认证方法</val>
+</string>
+
+<string>
+	<id>api_server_url_exp_check_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>支付宝 API URL (签名认证方法)</val>
+</string>
+
+<string>
+	<id>paypal_express_api_signature_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>测试 API签名认证必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_signature_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>API 认证签名必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_sign_txn_chk_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>API URL (获取交易详情 API) (签名认证方法)必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_server_url_sign_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝 API URL (签名认证方法) 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_check_try_number_check</id>
+	<c>PayPal, config param</c>
+	<val>检查的数字</val>
+</string>
+
+<string>
+	<id>tries_over</id>
+	<c>PayPal, config string</c>
+	<val>交易状态检查尝试允许的数字已结束.</val>
+</string>
+
+<string>
+	<id>tries_remain</id>
+	<c>PayPal, config string</c>
+	<val>保留交易状态检查尝试</val>
+</string>
+
+<string>
+	<id>paypal_express_num_of_tries</id>
+	<c>PayPal, config string</c>
+	<val>检查交易状态尝试的数字</val>
+</string>
+
+<string>
+	<id>paypal_express_num_of_tries_not_defined</id>
+	<c>PayPal, error message</c>
+	<val>必须定义检查交易状态尝试的数字</val>
+</string>
+
+<string>
+	<id>paypal_express_num_of_tries_incorrect</id>
+	<c>PayPal, error message</c>
+	<val>检查交易状态尝试的数字不正确</val>
+</string>
+
+<string>
+	<id>paypal_express_check_status_period_to_small</id>
+	<c>PayPal, details parameters</c>
+	<val>检查周期必须比 %min% 分钟大</val>
+</string>
+
+<string>
+	<id>paypal_express_check_status_period_min_incorrect</id>
+	<c>PayPal, error message</c>
+	<val>检查交易周期值不正确</val>
+</string>
+
+<string>
+	<id>paypal_express_check_status_period_min</id>
+	<c>PayPal, config string</c>
+	<val>检查交易状态, (最小.)</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_tst_exp_check</id>
+	<c>Payment Plugins: config string</c>
+	<val>测试快捷退出 API URL</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_exp_check</id>
+	<c>Payment Plugins: config string</c>
+	<val>快捷退出 API URL</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_tst_exp_check_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>测试快捷退出API URL 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_exp_check_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>快捷退出API URL 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_wrong_currency</id>
+	<c>PayPal, error message</c>
+	<val>货币和从网关收到的不等值. 货币应该是: %currency_iso%.收到的货币: %recieved_currency%.</val>
+</string>
+
+<string>
+	<id>paypal_express_wrong_order_balance</id>
+	<c>PayPal, error message</c>
+	<val>订单平衡(订单 # %order_id%) 应该是 %transaction_amount%. 已收订单平衡: %received_amount%.</val>
+</string>
+
+<string>
+	<id>paypal_express_paypal_api_cfg</id>
+	<c>PayPal, config message</c>
+	<val>支付宝交易检查API 配置</val>
+</string>
+
+<string>
+	<id>paypal_check_status_period_min</id>
+	<c>PayPal, config message</c>
+	<val>检查支付宝周期, (分.)</val>
+</string>
+
+<string>
+	<id>paypal_express_api_server_url_txn_check</id>
+	<c>PayPal, config string</c>
+	<val>获取交易详情API URL</val>
+</string>
+
+<string>
+	<id>paypal_express_tst_merchant_cert</id>
+	<c>PayPal, parameters</c>
+	<val>测试商家凭证</val>
+</string>
+
+<string>
+	<id>paypal_express_api_user_tst</id>
+	<c>PayPal, parameters</c>
+	<val>测试用户</val>
+</string>
+
+<string>
+	<id>paypal_express_api_passwd_tst</id>
+	<c>PayPal, parameters</c>
+	<val>测试密码</val>
+</string>
+
+<string>
+	<id>paypal_express_api_server_url_tst</id>
+	<c>Payment Plugins, parameters</c>
+	<val>支付宝 测试 API URL (获取支付详情 API)</val>
+</string>
+
+<string>
+	<id>paypal_express_server_url_tst</id>
+	<c>Payment Plugins, parameters</c>
+	<val>支付宝测试服务器URL </val>
+</string>
+
+<string>
+	<id>paypal_express_测试mode</id>
+	<c>PayPal, parameters</c>
+	<val>测试模式</val>
+</string>
+
+<string>
+	<id>paypal_express_cert_present_upload_new</id>
+	<c>PayPal, config message</c>
+	<val>显示证书文件. 在下面上传新的:</val>
+</string>
+
+<string>
+	<id>paypal_express_merchant_cert</id>
+	<c>PayPal, parameters</c>
+	<val>商业证书</val>
+</string>
+
+<string>
+	<id>api_server_url_express_txn_check</id>
+	<c>PayPal, config string</c>
+	<val>获取交易详情 API URL</val>
+</string>
+
+<string>
+	<id>paypal_express_api_enabled</id>
+	<c>PayPal, config message</c>
+	<val>交易检查生生效</val>
+</string>
+
+<string>
+	<id>paypal_express_check_status_period_min_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝 检查状态周期必须定义d</val>
+</string>
+
+<string>
+	<id>paypal_express_server_url_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝服务器 URL必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_txn_chk_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝获取交易详情 API URL 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_user_txn_chk_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝获取交易详情 API 用户名必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_passwd_txn_chk_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝获取交易详情 API密码必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_merchant_cert_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝获取交易详情 API 证书文件 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_url_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝 测试 URL 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝 测试 API URL 必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_user_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal 测试 API用户名必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_api_passwd_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝 测试 API密码必须定义</val>
+</string>
+
+
+<string>
+	<id>paypal_express_tst_merchant_cert_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>支付宝 测试 API证书文件必须定义</val>
+</string>
+
+<string>
+	<id>paypal_express_title</id>
+	<c>Payment Plugins: Plugin name</c>
+	<val>支付宝快捷支付退出信用卡插件</val>
+</string>
+
+<string>
+	<id>paypal_confirmation_failed</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>交易认证失败.收到来自支付宝的无效认证响应.</val>
+</string>
+
+<string>
+<id>txn_not_found</id>
+<c>Error message</c>
+<val>在支付网关未发现交易信息. 可能原因是客户未完成支付程序</val>
+</string>
+
+<string>
+<id>token_url</id>
+<c>PayPal, details parameters</c>
+<val>URL代号</val>
+</string>
+
+<string>
+<id>payer_id</id>
+<c>PayPal, details parameters</c>
+<val>支付方ID</val>
+</string>
+
+<string>
+<id>payer_status</id>
+<c>PayPal, details parameters</c>
+<val>付款方状态</val>
+</string>
+
+<string>
+<id>payer_name</id>
+<c>PayPal, details parameters</c>
+<val>付款方姓名</val>
+</string>
+
+</strings>

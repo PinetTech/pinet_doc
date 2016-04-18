@@ -1,0 +1,1734 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>country_af</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿富汗</val>
+</string>
+
+<string>
+<id>country_al</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿尔巴尼亚</val>
+</string>
+
+<string>
+<id>country_ax</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿兰群岛</val>
+</string>
+
+<string>
+<id>country_dz</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿尔及利亚</val>
+</string>
+
+<string>
+<id>country_as</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>美属萨摩亚</val>
+</string>
+
+<string>
+<id>country_ad</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>安道尔</val>
+</string>
+
+<string>
+<id>country_ao</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>安哥拉</val>
+</string>
+
+<string>
+<id>country_ai</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>安圭拉</val>
+</string>
+
+<string>
+<id>country_aq</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>南极洲</val>
+</string>
+
+<string>
+<id>country_ag</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>安提瓜和巴布达</val>
+</string>
+
+<string>
+<id>country_ar</id>
+<c>country title</c>
+<g>geo_country</g>
+<val> 阿根廷</val>
+</string>
+
+<string>
+<id>country_am</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿美尼亚</val>
+</string>
+
+<string>
+<id>country_aw</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿鲁巴</val>
+</string>
+
+<string>
+<id>country_au</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>澳大利亚</val>
+</string>
+
+<string>
+<id>country_at</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>奥地利</val>
+</string>
+
+<string>
+<id>country_az</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿塞拜疆</val>
+</string>
+
+<string>
+<id>country_bs</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>巴哈马群岛</val>
+</string>
+
+<string>
+<id>country_bh</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>巴林岛</val>
+</string>
+
+<string>
+<id>country_bd</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>孟加拉国</val>
+</string>
+
+<string>
+<id>country_bb</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>巴巴多斯</val>
+</string>
+
+<string>
+<id>country_by</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>白俄罗斯</val>
+</string>
+
+<string>
+<id>country_be</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>比利时</val>
+</string>
+
+<string>
+<id>country_bz</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>伯利兹</val>
+</string>
+
+<string>
+<id>country_bj</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>贝宁</val>
+</string>
+
+<string>
+<id>country_bm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>百慕大群岛</val>
+</string>
+
+<string>
+<id>country_bt</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>不丹</val>
+</string>
+
+<string>
+<id>country_bo</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>玻利维亚</val>
+</string>
+
+<string>
+<id>country_ba</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>波斯尼亚和黑塞哥维那</val>
+</string>
+
+<string>
+<id>country_bw</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>博茨瓦纳</val>
+</string>
+
+<string>
+<id>country_bv</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>布维岛</val>
+</string>
+
+<string>
+<id>country_br</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>巴西</val>
+</string>
+
+<string>
+<id>country_io</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>英属印度领土</val>
+</string>
+
+<string>
+<id>country_bn</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>文莱达鲁塞兰</val>
+</string>
+
+<string>
+<id>country_bg</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>保加利亚</val>
+</string>
+
+<string>
+<id>country_bf</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>布基纳法索o</val>
+</string>
+
+<string>
+<id>country_bi</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>布隆迪</val>
+</string>
+
+<string>
+<id>country_kh</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>柬埔寨</val>
+</string>
+
+<string>
+<id>country_cm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>喀麦隆</val>
+</string>
+
+<string>
+<id>country_ca</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>加拿大</val>
+</string>
+
+<string>
+<id>country_cv</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>佛得角</val>
+</string>
+
+<string>
+<id>country_ky</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>开曼群岛</val>
+</string>
+
+<string>
+<id>country_cf</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>中非共和国c</val>
+</string>
+
+<string>
+<id>country_td</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>乍得</val>
+</string>
+
+<string>
+<id>country_cl</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>智利</val>
+</string>
+
+<string>
+<id>country_cn</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>中华人民共和国</val>
+</string>
+
+<string>
+<id>country_cx</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>圣诞岛</val>
+</string>
+
+<string>
+<id>country_cc</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>科科斯群岛</val>
+</string>
+
+<string>
+<id>country_co</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>哥伦比亚</val>
+</string>
+
+<string>
+<id>country_km</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>科摩罗</val>
+</string>
+
+<string>
+<id>country_cg</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>刚果</val>
+</string>
+
+<string>
+<id>country_ck</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>库克群岛</val>
+</string>
+
+<string>
+<id>country_cr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>哥斯达黎加a</val>
+</string>
+
+<string>
+<id>country_ci</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>科特迪瓦</val>
+</string>
+
+<string>
+<id>country_hr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>克罗地亚</val>
+</string>
+
+<string>
+<id>country_cu</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>古巴</val>
+</string>
+
+<string>
+<id>country_cy</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>塞浦路斯</val>
+</string>
+
+<string>
+<id>country_cz</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>捷克共和国</val>
+</string>
+
+<string>
+<id>country_dk</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>丹麦</val>
+</string>
+
+<string>
+<id>country_dj</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>吉布提</val>
+</string>
+
+<string>
+<id>country_dm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>多米尼加岛</val>
+</string>
+
+<string>
+<id>country_do</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>多米尼加岛共和国</val>
+</string>
+
+<string>
+<id>country_tp</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>东帝汶</val>
+</string>
+
+<string>
+<id>country_ec</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>厄瓜多尔</val>
+</string>
+
+<string>
+<id>country_eg</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>埃及</val>
+</string>
+
+<string>
+<id>country_sv</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>萨尔瓦多</val>
+</string>
+
+<string>
+<id>country_gq</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>赤道几内亚</val>
+</string>
+
+<string>
+<id>country_er</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>厄立特里亚</val>
+</string>
+
+<string>
+<id>country_ee</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>爱沙尼亚</val>
+</string>
+
+<string>
+<id>country_et</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>埃塞俄比亚</val>
+</string>
+
+<string>
+<id>country_fk</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>福克兰群岛(玛尔维亚)</val>
+</string>
+
+<string>
+<id>country_fo</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>法罗兰群岛</val>
+</string>
+
+<string>
+<id>country_fj</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>福吉岛</val>
+</string>
+
+<string>
+<id>country_fi</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>芬兰</val>
+</string>
+
+<string>
+<id>country_fr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>法国</val>
+</string>
+
+<string>
+<id>country_fx</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>法国，大城市</val>
+</string>
+
+<string>
+<id>country_gf</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>法属圭那亚</val>
+</string>
+
+<string>
+<id>country_pf</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>法属波利尼西亚</val>
+</string>
+
+<string>
+<id>country_tf</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>法国南部领土</val>
+</string>
+
+<string>
+<id>country_ga</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>加蓬</val>
+</string>
+
+<string>
+<id>country_gm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>冈比亚</val>
+</string>
+
+<string>
+<id>country_ge</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>乔治亚</val>
+</string>
+
+<string>
+<id>country_de</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>德国</val>
+</string>
+
+<string>
+<id>country_gh</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>加纳</val>
+</string>
+
+<string>
+<id>country_gi</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>直布罗陀</val>
+</string>
+
+<string>
+<id>country_gr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>希腊</val>
+</string>
+
+<string>
+<id>country_gl</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>格陵兰</val>
+</string>
+
+<string>
+<id>country_gd</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>格林纳达</val>
+</string>
+
+<string>
+<id>country_gp</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>瓜德罗普</val>
+</string>
+
+<string>
+<id>country_gu</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>关岛</val>
+</string>
+
+<string>
+<id>country_gt</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>危地马拉</val>
+</string>
+
+<string>
+<id>country_gn</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>几内亚</val>
+</string>
+
+<string>
+<id>country_gw</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>几内亚比绍</val>
+</string>
+
+<string>
+<id>country_gy</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>圭亚纳</val>
+</string>
+
+<string>
+<id>country_ht</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>海地</val>
+</string>
+
+<string>
+<id>country_hm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val> 赫德岛和麦克唐纳群岛</val>
+</string>
+
+<string>
+<id>country_hn</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>洪都拉斯</val>
+</string>
+
+<string>
+<id>country_hk</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>香港</val>
+</string>
+
+<string>
+<id>country_hu</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>匈牙利</val>
+</string>
+
+<string>
+<id>country_is</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>冰岛</val>
+</string>
+
+<string>
+<id>country_in</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>印度</val>
+</string>
+
+<string>
+<id>country_id</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>印度尼西亚</val>
+</string>
+
+<string>
+<id>country_ir</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>伊朗</val>
+</string>
+
+<string>
+<id>country_iq</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>伊拉克</val>
+</string>
+
+<string>
+<id>country_ie</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>爱尔兰</val>
+</string>
+
+<string>
+<id>country_il</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>以色列</val>
+</string>
+
+<string>
+<id>country_it</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>意大利</val>
+</string>
+
+<string>
+<id>country_jm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>牙买加</val>
+</string>
+
+<string>
+<id>country_jp</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>日本</val>
+</string>
+
+<string>
+<id>country_jo</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>约旦</val>
+</string>
+
+<string>
+<id>country_kz</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>哈萨克斯坦</val>
+</string>
+
+<string>
+<id>country_ke</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>肯尼亚</val>
+</string>
+
+<string>
+<id>country_ki</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>基里巴斯</val>
+</string>
+
+<string>
+<id>country_kr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>韩国</val>
+</string>
+
+<string>
+<id>country_kp</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>朝鲜民主党人民代表.</val>
+</string>
+
+<string>
+<id>country_kw</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>科威特</val>
+</string>
+
+<string>
+<id>country_kg</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>吉尔吉斯斯坦</val>
+</string>
+
+<string>
+<id>country_la</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>老挝民主党人民代表.</val>
+</string>
+
+<string>
+<id>country_lv</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>拉脱维亚</val>
+</string>
+
+<string>
+<id>country_lb</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>黎巴嫩</val>
+</string>
+
+<string>
+<id>country_ls</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>莱索拖</val>
+</string>
+
+<string>
+<id>country_lr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>利比里亚</val>
+</string>
+
+<string>
+<id>country_ly</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿拉伯利比亚民众国</val>
+</string>
+
+<string>
+<id>country_li</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>列支敦斯登</val>
+</string>
+
+<string>
+<id>country_lt</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>立陶宛</val>
+</string>
+
+<string>
+<id>country_lu</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>卢森堡</val>
+</string>
+
+<string>
+<id>country_mo</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>澳门</val>
+</string>
+
+<string>
+<id>country_mk</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>马其顿</val>
+</string>
+
+<string>
+<id>country_mg</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>马达加斯加岛</val>
+</string>
+
+<string>
+<id>country_mw</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>马拉维</val>
+</string>
+
+<string>
+<id>country_my</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>马来西亚</val>
+</string>
+
+<string>
+<id>country_mv</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>马尔代夫</val>
+</string>
+
+<string>
+<id>country_ml</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>马里</val>
+</string>
+
+<string>
+<id>country_mt</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>马耳他</val>
+</string>
+
+<string>
+<id>country_mh</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>马绍尔群岛</val>
+</string>
+
+<string>
+<id>country_mq</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>马提尼克</val>
+</string>
+
+<string>
+<id>country_mr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>毛里塔尼亚</val>
+</string>
+
+<string>
+<id>country_mu</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>毛里求斯</val>
+</string>
+
+<string>
+<id>country_yt</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>马约特岛</val>
+</string>
+
+<string>
+<id>country_mx</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>墨西哥</val>
+</string>
+
+<string>
+<id>country_fm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>密克罗尼西亚a</val>
+</string>
+
+<string>
+<id>country_md</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>摩尔多瓦</val>
+</string>
+
+<string>
+<id>country_mc</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>摩纳哥</val>
+</string>
+
+<string>
+<id>country_mn</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>蒙古</val>
+</string>
+
+<string>
+<id>country_ms</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>蒙塞拉特</val>
+</string>
+
+<string>
+<id>country_ma</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>摩洛哥</val>
+</string>
+
+<string>
+<id>country_mz</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>莫桑比克</val>
+</string>
+
+<string>
+<id>country_mm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>缅甸</val>
+</string>
+
+<string>
+<id>country_na</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>纳米比亚</val>
+</string>
+
+<string>
+<id>country_nr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>瑙鲁</val>
+</string>
+
+<string>
+<id>country_np</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>尼泊尔</val>
+</string>
+
+<string>
+<id>country_nl</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>荷兰</val>
+</string>
+
+<string>
+<id>country_an</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>荷属安的列斯</val>
+</string>
+
+<string>
+<id>country_nc</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>新喀里多尼亚</val>
+</string>
+
+<string>
+<id>country_nz</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>新西兰</val>
+</string>
+
+<string>
+<id>country_ni</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>尼加拉瓜</val>
+</string>
+
+<string>
+<id>country_ne</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>尼日尔</val>
+</string>
+
+<string>
+<id>country_ng</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>尼日利亚</val>
+</string>
+
+<string>
+<id>country_nu</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>纽埃</val>
+</string>
+
+<string>
+<id>country_nf</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>诺福克岛</val>
+</string>
+
+<string>
+<id>country_mp</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>北马里亚纳群岛.</val>
+</string>
+
+<string>
+<id>country_no</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>挪威</val>
+</string>
+
+<string>
+<id>country_om</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿曼</val>
+</string>
+
+<string>
+<id>country_pk</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>巴基斯坦</val>
+</string>
+
+<string>
+<id>country_pw</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>帕劳群岛</val>
+</string>
+
+<string>
+<id>country_ps</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>巴勒斯坦领土</val>
+</string>
+
+<string>
+<id>country_pa</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>巴拿马</val>
+</string>
+
+<string>
+<id>country_pg</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>巴布亚新几内亚</val>
+</string>
+
+<string>
+<id>country_py</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>巴拉圭</val>
+</string>
+
+<string>
+<id>country_pe</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>秘鲁</val>
+</string>
+
+<string>
+<id>country_ph</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>菲律宾</val>
+</string>
+
+<string>
+<id>country_pn</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>皮特凯恩</val>
+</string>
+
+<string>
+<id>country_pl</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>波兰</val>
+</string>
+
+<string>
+<id>country_pt</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>葡萄牙</val>
+</string>
+
+<string>
+<id>country_pr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>波多黎各</val>
+</string>
+
+<string>
+<id>country_qa</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>卡塔尔</val>
+</string>
+
+<string>
+<id>country_re</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>留尼汪岛</val>
+</string>
+
+<string>
+<id>country_ro</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>罗马尼亚</val>
+</string>
+
+<string>
+<id>country_ru</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>俄罗斯</val>
+</string>
+
+<string>
+<id>country_rw</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>卢旺达</val>
+</string>
+
+<string>
+<id>country_sh</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>圣赫勒拿岛</val>
+</string>
+
+<string>
+<id>country_kn</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>圣基茨和尼维斯</val>
+</string>
+
+<string>
+<id>country_lc</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>圣卢西亚岛</val>
+</string>
+
+<string>
+<id>country_pm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>圣皮埃尔和密克隆群岛</val>
+</string>
+
+<string>
+<id>country_vc</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>圣文森特和格林纳丁斯</val>
+</string>
+
+<string>
+<id>country_ws</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>萨摩亚</val>
+</string>
+
+<string>
+<id>country_sm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>圣马力诺</val>
+</string>
+
+<string>
+<id>country_st</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>圣多美与普林希比共和国</val>
+</string>
+
+<string>
+<id>country_sa</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>沙特阿拉伯</val>
+</string>
+
+<string>
+<id>country_sn</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>塞纳加尔</val>
+</string>
+
+<string>
+<id>country_sc</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>塞舌尔</val>
+</string>
+
+<string>
+<id>country_sl</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>塞拉利昂</val>
+</string>
+
+<string>
+<id>country_sg</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>新加坡</val>
+</string>
+
+<string>
+<id>country_sk</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>斯洛伐克</val>
+</string>
+
+<string>
+<id>country_si</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>斯洛文尼亚</val>
+</string>
+
+<string>
+<id>country_sb</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>所罗门群岛</val>
+</string>
+
+<string>
+<id>country_so</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>索马里</val>
+</string>
+
+<string>
+<id>country_za</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>南非</val>
+</string>
+
+<string>
+<id>country_gs</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>南乔治亚岛</val>
+</string>
+
+<string>
+<id>country_es</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>西班牙</val>
+</string>
+
+<string>
+<id>country_lk</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>斯里兰卡</val>
+</string>
+
+<string>
+<id>country_sd</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>苏丹</val>
+</string>
+
+<string>
+<id>country_sr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>苏里南</val>
+</string>
+
+<string>
+<id>country_sj</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>斯瓦尔巴和扬马延</val>
+</string>
+
+<string>
+<id>country_sz</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>斯威士兰</val>
+</string>
+
+<string>
+<id>country_se</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>瑞典</val>
+</string>
+
+<string>
+<id>country_ch</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>瑞士</val>
+</string>
+
+<string>
+<id>country_sy</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿拉伯叙利亚共和国</val>
+</string>
+
+<string>
+<id>country_tw</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>台湾</val>
+</string>
+
+<string>
+<id>country_tj</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>塔吉克斯坦</val>
+</string>
+
+<string>
+<id>country_tz</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>坦桑尼亚</val>
+</string>
+
+<string>
+<id>country_th</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>泰国</val>
+</string>
+
+<string>
+<id>country_tg</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>多哥</val>
+</string>
+
+<string>
+<id>country_tk</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>托克劳群岛</val>
+</string>
+
+<string>
+<id>country_to</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>汤加</val>
+</string>
+
+<string>
+<id>country_tt</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>特立尼达和多巴哥</val>
+</string>
+
+<string>
+<id>country_tn</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>突尼斯</val>
+</string>
+
+<string>
+<id>country_tr</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>土耳其</val>
+</string>
+
+<string>
+<id>country_tm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>土库曼斯坦</val>
+</string>
+
+<string>
+<id>country_tc</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>特克斯和凯科斯群岛</val>
+</string>
+
+<string>
+<id>country_tv</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>图瓦卢</val>
+</string>
+
+<string>
+<id>country_ug</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>乌干达</val>
+</string>
+
+<string>
+<id>country_ua</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>乌克兰</val>
+</string>
+
+<string>
+<id>country_ae</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>阿拉伯联合酋长国</val>
+</string>
+
+<string>
+<id>country_gb</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>英国</val>
+</string>
+
+<string>
+<id>country_us</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>美国</val>
+</string>
+
+<string>
+<id>country_um</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>美国本土外小岛屿.</val>
+</string>
+
+<string>
+<id>country_uy</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>乌拉圭</val>
+</string>
+
+<string>
+<id>country_uz</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>乌兹别克斯坦</val>
+</string>
+
+<string>
+<id>country_vu</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>瓦努阿图</val>
+</string>
+
+<string>
+<id>country_va</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>梵蒂冈</val>
+</string>
+
+<string>
+<id>country_ve</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>委内瑞拉</val>
+</string>
+
+<string>
+<id>country_vn</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>越南</val>
+</string>
+
+<string>
+<id>country_vg</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>维尔京群岛 (英国)</val>
+</string>
+
+<string>
+<id>country_vi</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>维珍岛(美国)</val>
+</string>
+
+<string>
+<id>country_wf</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>瓦利斯群岛和富图纳群岛</val>
+</string>
+
+<string>
+<id>country_eh</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>西撒哈拉</val>
+</string>
+
+<string>
+<id>country_ye</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>也门</val>
+</string>
+
+<string>
+<id>country_rs</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>塞尔维亚</val>
+</string>
+
+<string>
+<id>country_me</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>蒙特内格罗</val>
+</string>
+
+<string>
+<id>country_zm</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>赞比亚</val>
+</string>
+
+<string>
+<id>country_zw</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>津巴布韦</val>
+</string>
+
+<string>
+<id>country_cd</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>扎伊尔</val>
+</string>
+
+<string>
+<id>country_je</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>泽西岛</val>
+</string>
+
+<string>
+<id>country_gg</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>根西岛</val>
+</string>
+
+<string>
+<id>country_im</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>曼岛</val>
+</string>
+
+<string>
+<id>country_gf</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>法属圭那亚</val>
+</string>
+
+<string>
+<id>country_tf</id>
+<c>country title</c>
+<g>geo_country</g>
+<val>法属南半球领地</val>
+</string>
+
+</strings>
+

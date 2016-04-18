@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<language id="cn" title="中文">
+<title_id>lang_en_uc</title_id>
+<flag_icon_id>flag_en</flag_icon_id>
+<charset>UTF-8</charset>
+<utf8_map>UTF-8</utf8_map>
+<dateformat>%d-%b-%Y</dateformat>
+<datetimeformat>%d-%b-%Y, %H:%M</datetimeformat>
+<timeformat>%H:%M</timeformat>
+<posixlocale>en_US.utf8</posixlocale>
+</language>

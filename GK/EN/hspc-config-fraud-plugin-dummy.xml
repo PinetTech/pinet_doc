@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>afmp_dummy_max_count_undef</id>
+<c>error</c>
+<val>Count to stop poll in async mode must be defined!</val>
+</string>
+
+<string>
+<id>afmp_dummy_max_count_wrong</id>
+<c>error</c>
+<val>Count to stop poll in async mode must be numeric!</val>
+</string>
+
+<string>
+<id>afmp_dummy_period_undef</id>
+<c>error</c>
+<val>Period to poll in async mode must be defined!</val>
+</string>
+
+<string>
+<id>afmp_dummy_period_wrong</id>
+<c>error</c>
+<val>Period to poll in async mode must be numeric!</val>
+</string>
+
+<string>
+<id>afmp_dummy_lim_undef</id>
+<c>error</c>
+<val>Time limit to stop poll in async mode must be defined!</val>
+</string>
+
+<string>
+<id>afmp_dummy_lim_wrong</id>
+<c>error</c>
+<val>Time limit to stop poll in async mode must be numeric!</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_trial_order_place</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Dummy condition (Trial Order)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_trial_order_place_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Asynchronous dummy condition (Trial Order)</val>
+</string>
+
+<string>
+<id>afmp_dummy_tab_title</id>
+<c>tab title</c>
+<val>Dummy</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_login</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Dummy condition (Login)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_regacc</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Dummy condition (New Account)</val>
+</string>
+
+<string>
+<id>afmp_dummy_error_result</id>
+<c>Anti-Fraud Manager: Dummy Plugin</c>
+<val>Error</val>
+</string>
+
+<string>
+<id>afmp_dummy_matched_result</id>
+<c>Anti-Fraud Manager: Dummy Plugin</c>
+<val>Match</val>
+</string>
+
+<string>
+<id>afmp_dummy_notmatched_result</id>
+<c>Anti-Fraud Manager: Dummy Plugin</c>
+<val>Not match</val>
+</string>
+
+<string>
+<id>afmp_dummy_result</id>
+<c>Anti-Fraud Manager: Dummy Plugin</c>
+<val>Always return</val>
+</string>
+
+<string>
+<id>afmp_dummy_has_no_score</id>
+<c>checkbox description</c>
+<val>Disable returning Score in case of Bonus or Alert response</val>
+</string>
+
+<string>
+<id>afmp_dummy_score</id>
+<c>input field description</c>
+<val>Score return (if any)</val>
+</string>
+
+<string>
+<id>afmp_dummy_count</id>
+<c>input field description</c>
+<val>Count to stop poll in async mode</val>
+</string>
+
+<string>
+<id>afmp_dummy_period</id>
+<c>input field description</c>
+<val>Period to poll in async mode</val>
+</string>
+
+<string>
+<id>afmp_dummy_lim</id>
+<c>input field description</c>
+<val>Time limit to stop poll in async mode</val>
+</string>
+
+<string>
+<id>afmp_dummy_async_desc</id>
+<c>input field description</c>
+<val>Asynchronous mode of operation is chosen with appropriate rules of this plug-in</val>
+</string>
+
+<string>
+<id>afmp_dummy_score_must_nonnegative</id>
+<c>error</c>
+<val>Score Value must be non-negative!</val>
+</string>
+
+<string>
+<id>afmp_dummy_score_factor_must_nonnegative</id>
+<c>error</c>
+<val>Score Factor Value must be non-negative!</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_new_order_place</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Dummy condition (New Order Placement)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_new_order_place_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Asynchronous dummy condition (New Order Placement)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_regacc_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Asynchronous dummy condition (New Account)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_renew_order_place</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Dummy condition (Renewal Order)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_renew_order_place_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Asynchronous dummy condition (Renewal Order)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_capture_new_paymethod</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Dummy condition (New Payment at the Capturing stage)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_capture_new_paymethod_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Asynchronous dummy condition (New Payment at the Capturing stage)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_capture_approved_paymethod</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Dummy condition (Approved Payment at the Capturing stage)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_capture_approved_paymethod_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Asynchronous dummy condition (Approved Payment at the Capturing stage)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_preauth_new_paymethod</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Dummy condition (New Payment at the Authorization stage)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_preauth_new_paymethod_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Asynchronous dummy condition (New Payment at the Authorization stage)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_preauth_approved_paymethod</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Dummy condition (Approved Payment at the Authorization stage)</val>
+</string>
+
+<string>
+<id>afm_cond_dummy_preauth_approved_paymethod_async</id>
+<c>Anti-Fraud Manager Condition:</c>
+<val>Asynchronous dummy condition (Approved Payment at the Authorization stage)</val>
+</string>
+
+<string>
+<id>afmp_dummy_score_factor</id>
+<c>AFM plugin Dummy: Score correction factor</c>
+<val>Score correction factor</val>
+</string>
+
+</strings>

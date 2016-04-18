@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>lm_err_plugin_id_undef</id>
+<c>License Manager | Error message</c>
+<val>插件识别符未定义.</val>
+</string>
+
+<string>
+<id>lm_err_plugin_id_too_long</id>
+<c>License Manager | Error message</c>
+<val>插件识别符不应包含%num% 字符.</val>
+</string>
+
+<string>
+<id>lm_err_plugin_class_undef</id>
+<c>License Manager | Error message</c>
+<val>插件级别名称未定义.</val>
+</string>
+
+<string>
+<id>lm_err_prod_undef</id>
+<c>License Manager | Error message</c>
+<val>许可证未定义.</val>
+</string>
+
+<string>
+<id>lm_err_prod_too_long</id>
+<c>License Manager | Error message</c>
+<val>许可证产品识别符不应包含%num% 字符.</val>
+</string>
+
+<string>
+<id>lm_err_prod_name_undef</id>
+<c>License Manager | Error message</c>
+<val>许可证产品名称未定义.</val>
+</string>
+
+<string>
+<id>lm_err_lictype_undef</id>
+<c>License Manager | Error message</c>
+<val>许可证类型未定义</val>
+</string>
+
+<string>
+<id>lm_err_lictype_too_long</id>
+<c>License Manager | Error message</c>
+<val>许可证类型不应包含%num% 字符.</val>
+</string>
+
+<string>
+<id>lm_err_plugin_not_found</id>
+<c>License Manager | Error message</c>
+<val>插件未找到.</val>
+</string>
+
+<string>
+<id>lm_err_plugin_alrdy_registered</id>
+<c>许可证Manager | Error message</c>
+<val>插件已注册.</val>
+</string>
+
+<string>
+<id>lm_err_plugin_inv_class</id>
+<c>License Manager | Error message</c>
+<val>插件不执行抽象插件界面.</val>
+</string>
+
+<string>
+<id>lm_err_internal</id>
+<c>License Manager | Error message</c>
+<val>许可证管理员内部错误. 请参阅日志查找更多信息.</val>
+</string>
+
+<string>
+<id>lic_classes_uc</id>
+<c>License Manager | Title</c>
+<val>许可证级别</val>
+</string>
+
+<string>
+<id>lic_class_uc</id>
+<c>License Manager | Title</c>
+<val>许可证级别</val>
+</string>
+
+<string>
+<id>new_lic_class_uc</id>
+<c>License Class | Button label</c>
+<val>新许可证级别</val>
+</string>
+
+<string>
+<id>lic_type_uc</id>
+<c>License Type | Title</c>
+<val>许可证类型</val>
+</string>
+
+<string>
+<id>lm_product_uc</id>
+<c>License Manager | Product</c>
+<val>产品</val>
+</string>
+
+<string>
+<id>renewal_fee_uc</id>
+<c>Core | Title</c>
+<val>更新费用</val>
+</string>
+
+<string>
+<id>lm_lic_ref_no_short_uc</id>
+<c>License Manager | License prop. title</c>
+<val>Ref. 号码</val>
+</string>
+
+<string>
+<id>lm_action_create_issue_lics</id>
+<c>License Manager | TM action title</c>
+<val>创建和颁发许可证</val>
+</string>
+
+<string>
+<id>lm_license_issued_ok</id>
+<c>License Manager | TM action title</c>
+<val>许可证%refno% issued successfully</val>
+</string>
+
+<string>
+<id>lm_action_install_issued_lics</id>
+<c>License Manager | TM action title</c>
+<val>安装发行许可证</val>
+</string>
+
+<string>
+<id>lm_setup_max_install_attempts</id>
+<c>License Manager | Setup | Option title</c>
+<val>自动安装许可证尝试的最大值</val>
+</string>
+
+<string>
+<id>lm_setup_plugin_autoassign_unused</id>
+<c>License Manager | Setup | Option title</c>
+<val>自动分配订阅未用许可证</val>
+</string>
+
+<string>
+<id>lm_setup_auto_reuse_free_lics</id>
+<c>license Manager | Setup | Option title</c>
+<val>发行许可证后可以自动分配</val>
+</string>
+
+<string>
+<id>lm_setup_plugin_autoterminate</id>
+<c>License Manager | Setup | Option title</c>
+<val>订阅结束时终止许可证</val>
+</string>
+
+<string>
+<id>lm_setup_clear_term_lic_data</id>
+<c>License Manager | Setup | Option title</c>
+<val>许可证终止时清除许可证数据</val>
+</string>
+
+<string>
+<id>lm_stat_setup_updated_ok</id>
+<c>License Manager | Setup | Status message</c>
+<val>许可证管理员设置更新成功.</val>
+</string>
+
+<string>
+<id>lm_stat_setup_updated_cancelled</id>
+<c>License Manager | Setup | Status message</c>
+<val>取消许可证管理员设置更新.</val>
+</string>
+
+<string>
+<id>lm_stat_no_lics_for_hp</id>
+<c>License Manager | General | Status message</c>
+<val>托管计划不包括许可证.</val>
+</string>
+
+<string>
+<id>lm_err_max_attempts_inv</id>
+<c>License Manager | Setup | Error message</c>
+<val>尝试的最大值应为非负整数.</val>
+</string>
+
+<string>
+<id>lm_max_install_attempts_note</id>
+<c>License Manager | Setup | Description</c>
+<val>提醒: 把值设置为0 (0) 完全禁用自动许可开通.</val>
+</string>
+
+</strings>

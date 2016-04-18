@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+ 
+<language id="en" title="English">
+<title_id>lang_en_uc</title_id>
+<flag_icon_id>flag_en</flag_icon_id>
+<charset>iso-8859-1</charset>
+<utf8_map>ISO_8859-1</utf8_map>
+<dateformat>%d-%b-%Y</dateformat>
+<datetimeformat>%d-%b-%Y, %H:%M</datetimeformat>
+<timeformat>%H:%M</timeformat>
+<posixlocale>en_US.utf8</posixlocale>
+</language>

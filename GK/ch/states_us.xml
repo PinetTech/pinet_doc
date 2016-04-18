@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>state_us_al</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>阿拉巴马</val>
+</string>
+
+<string>
+<id>state_us_ak</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>阿拉斯加</val>
+</string>
+
+<string>
+<id>state_us_az</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>亚利桑那州</val>
+</string>
+
+<string>
+<id>state_us_ar</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>阿肯色州</val>
+</string>
+
+<string>
+<id>state_us_ca</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>加利福尼亚</val>
+</string>
+
+<string>
+<id>state_us_co</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>科罗拉多</val>
+</string>
+
+<string>
+<id>state_us_ct</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>康乃迪克州</val>
+</string>
+
+<string>
+<id>state_us_de</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 特拉华州</val>
+</string>
+
+<string>
+<id>state_us_dc</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>哥伦比亚特区</val>
+</string>
+
+<string>
+<id>state_us_fl</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>佛罗里达</val>
+</string>
+
+<string>
+<id>state_us_ga</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>乔治亚</val>
+</string>
+
+<string>
+<id>state_us_hi</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>夏威夷</val>
+</string>
+
+<string>
+<id>state_us_id</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>爱达荷</val>
+</string>
+
+<string>
+<id>state_us_il</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>伊利诺斯州</val>
+</string>
+
+<string>
+<id>state_us_in</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>印第安纳</val>
+</string>
+
+<string>
+<id>state_us_ia</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 爱荷华州</val>
+</string>
+
+<string>
+<id>state_us_ks</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>堪萨斯州</val>
+</string>
+
+<string>
+<id>state_us_ky</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>肯塔基</val>
+</string>
+
+<string>
+<id>state_us_la</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>路易斯安那</val>
+</string>
+
+<string>
+<id>state_us_me</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>缅因州</val>
+</string>
+
+<string>
+<id>state_us_md</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 马里兰</val>
+</string>
+
+<string>
+<id>state_us_ma</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>马萨诸塞州</val>
+</string>
+
+<string>
+<id>state_us_mi</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 密歇根</val>
+</string>
+
+<string>
+<id>state_us_mn</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>明尼苏达州</val>
+</string>
+
+<string>
+<id>state_us_ms</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 密西西比河</val>
+</string>
+
+<string>
+<id>state_us_mo</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 密苏里</val>
+</string>
+
+<string>
+<id>state_us_mt</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 蒙大拿</val>
+</string>
+
+<string>
+<id>state_us_ne</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 内布拉斯加州</val>
+</string>
+
+<string>
+<id>state_us_nv</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>内华达</val>
+</string>
+
+<string>
+<id>state_us_nh</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>新罕布什尔</val>
+</string>
+
+<string>
+<id>state_us_nj</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>新泽西州</val>
+</string>
+
+<string>
+<id>state_us_nm</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>新墨西哥</val>
+</string>
+
+<string>
+<id>state_us_ny</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>纽约</val>
+</string>
+
+<string>
+<id>state_us_nc</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>北加利福尼亚</val>
+</string>
+
+<string>
+<id>state_us_nd</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>北达科他州</val>
+</string>
+
+<string>
+<id>state_us_oh</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>俄亥俄州</val>
+</string>
+
+<string>
+<id>state_us_ok</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>俄克拉荷马州</val>
+</string>
+
+<string>
+<id>state_us_or</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>俄勒冈州</val>
+</string>
+
+<string>
+<id>state_us_pa</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>宾夕法尼亚州</val>
+</string>
+
+<string>
+<id>state_us_ri</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>美国罗德岛州</val>
+</string>
+
+<string>
+<id>state_us_sc</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>南卡罗来纳州</val>
+</string>
+
+<string>
+<id>state_us_sd</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>南达科塔</val>
+</string>
+
+<string>
+<id>state_us_tn</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 田纳西州</val>
+</string>
+
+<string>
+<id>state_us_tx</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 德克萨斯州</val>
+</string>
+
+<string>
+<id>state_us_ut</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>犹他州</val>
+</string>
+
+<string>
+<id>state_us_vt</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>佛蒙特州</val>
+</string>
+
+<string>
+<id>state_us_va</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>弗吉尼亚州</val>
+</string>
+
+<string>
+<id>state_us_wa</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>华盛顿Washington</val>
+</string>
+
+<string>
+<id>state_us_wv</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>西弗吉尼亚州</val>
+</string>
+
+<string>
+<id>state_us_wi</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>威斯康星州</val>
+</string>
+
+<string>
+<id>state_us_wy</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>怀俄明</val>
+</string>
+
+<string>
+<id>state_us_ae</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>非洲武装部队</val>
+</string>
+
+<string>
+<id>state_us_aa</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>武装部队美洲</val>
+</string>
+
+<string>
+<id>state_us_ap</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>太平洋军队</val>
+</string>
+
+<string>
+<id>state_us_as</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 美属萨摩亚</val>
+</string>
+
+<string>
+<id>state_us_fm</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>密克罗尼西亚联邦国家</val>
+</string>
+
+<string>
+<id>state_us_gu</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>关岛</val>
+</string>
+
+<string>
+<id>state_us_mh</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>马绍尔群岛</val>
+</string>
+
+<string>
+<id>state_us_mp</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>北马里亚纳群岛</val>
+</string>
+
+<string>
+<id>state_us_pw</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>帕劳</val>
+</string>
+
+<string>
+<id>state_us_pr</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>波多黎各</val>
+</string>
+
+<string>
+<id>state_us_tt</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val> 托管领土</val>
+</string>
+
+<string>
+<id>state_us_vi</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>维尔京群岛</val>
+</string>
+
+</strings>

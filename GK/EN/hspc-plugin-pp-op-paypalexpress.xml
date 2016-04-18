@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+	<id>paypal_express_api_txn_chk_url_sign_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>Test API URL (GetTransactionDetails API) (Signature authentification method) must be defined</val>
+</string>
+
+<string>
+	<id>api_server_url_txn_check_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>PayPal API URL (GetTransactionDetails API) (Signature authentification method)</val>
+</string>
+
+<string>
+	<id>paypal_express_signature_tst</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>Test PayPal API Authentification Signature</val>
+</string>
+
+<string>
+	<id>paypal_express_signature</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>PayPal API Authentification Signature</val>
+</string>
+
+<string>
+	<id>paypal_express_api_server_url_tst_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>Test PayPal API URL (GetTransactionDetails API) (Signature authentification method)</val>
+</string>
+
+<string>
+	<id>paypal_express_api_server_exp_check_url_tst_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>Test PayPal API URL (Signature authentification method)</val>
+</string>
+
+<string>
+	<id>paypal_cert_enabled</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>Certificate authentification method</val>
+</string>
+
+<string>
+	<id>api_server_url_exp_check_sign</id>
+	<c>Payment Plugins: PayPal's config parameter</c>
+	<val>PayPal API URL (Signature authentification method)</val>
+</string>
+
+<string>
+	<id>paypal_express_api_signature_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>Test API Authentification Signature must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_signature_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>API Authentification Signature must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_sign_txn_chk_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>API URL (GetTransactionDetails API) (Signature authentification method) must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_server_url_sign_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal API URL (Signature authentification method) must be defined</val>
+</string>
+
+<string>
+	<id>paypal_check_try_number_check</id>
+	<c>PayPal, config param</c>
+	<val>Number of checks</val>
+</string>
+
+<string>
+	<id>tries_over</id>
+	<c>PayPal, config string</c>
+	<val>The allowed number of transaction status check tries is over.</val>
+</string>
+
+<string>
+	<id>tries_remain</id>
+	<c>PayPal, config string</c>
+	<val>Remaining transaction status check tries</val>
+</string>
+
+<string>
+	<id>paypal_express_num_of_tries</id>
+	<c>PayPal, config string</c>
+	<val>Number of tries to check transaction status</val>
+</string>
+
+<string>
+	<id>paypal_express_num_of_tries_not_defined</id>
+	<c>PayPal, error message</c>
+	<val>Number of tries to check transaction status must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_num_of_tries_incorrect</id>
+	<c>PayPal, error message</c>
+	<val>Number of tries to check transaction status is incorrect</val>
+</string>
+
+<string>
+	<id>paypal_express_check_status_period_to_small</id>
+	<c>PayPal, details parameters</c>
+	<val>Check Status period must be greater than %min% minutes</val>
+</string>
+
+<string>
+	<id>paypal_express_check_status_period_min_incorrect</id>
+	<c>PayPal, error message</c>
+	<val>Check Status period value is incorrect</val>
+</string>
+
+<string>
+	<id>paypal_express_check_status_period_min</id>
+	<c>PayPal, config string</c>
+	<val>Check Status period, (min.)</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_tst_exp_check</id>
+	<c>Payment Plugins: config string</c>
+	<val>Test Express Checkout API URL</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_exp_check</id>
+	<c>Payment Plugins: config string</c>
+	<val>Express Checkout API URL</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_tst_exp_check_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>Test Express Checkout API URL must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_exp_check_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>Express Checkout API URL must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_wrong_currency</id>
+	<c>PayPal, error message</c>
+	<val>Currency does not equal the one received from the gateway. Currency should be: %currency_iso%. Currency recieved: %recieved_currency%.</val>
+</string>
+
+<string>
+	<id>paypal_express_wrong_order_balance</id>
+	<c>PayPal, error message</c>
+	<val>Order balance (order # %order_id%) should be %transaction_amount%. Order balance received: %received_amount%.</val>
+</string>
+
+<string>
+	<id>paypal_express_paypal_api_cfg</id>
+	<c>PayPal, config message</c>
+	<val>PayPal Transaction Check API configuration</val>
+</string>
+
+<string>
+	<id>paypal_check_status_period_min</id>
+	<c>PayPal, config message</c>
+	<val>Check Status period, (min.)</val>
+</string>
+
+<string>
+	<id>paypal_express_api_server_url_txn_check</id>
+	<c>PayPal, config string</c>
+	<val>GetTransactionDetails API URL</val>
+</string>
+
+<string>
+	<id>paypal_express_tst_merchant_cert</id>
+	<c>PayPal, parameters</c>
+	<val>Test merchant certificate</val>
+</string>
+
+<string>
+	<id>paypal_express_api_user_tst</id>
+	<c>PayPal, parameters</c>
+	<val>Test user</val>
+</string>
+
+<string>
+	<id>paypal_express_api_passwd_tst</id>
+	<c>PayPal, parameters</c>
+	<val>Test password</val>
+</string>
+
+<string>
+	<id>paypal_express_api_server_url_tst</id>
+	<c>Payment Plugins, parameters</c>
+	<val>PayPal Test API URL (GetTransactionDetails API)</val>
+</string>
+
+<string>
+	<id>paypal_express_server_url_tst</id>
+	<c>Payment Plugins, parameters</c>
+	<val>PayPal Test Server URL </val>
+</string>
+
+<string>
+	<id>paypal_express_testmode</id>
+	<c>PayPal, parameters</c>
+	<val>Test mode</val>
+</string>
+
+<string>
+	<id>paypal_express_cert_present_upload_new</id>
+	<c>PayPal, config message</c>
+	<val>Certificate file is present. Upload a new one below:</val>
+</string>
+
+<string>
+	<id>paypal_express_merchant_cert</id>
+	<c>PayPal, parameters</c>
+	<val>Merchant certificate</val>
+</string>
+
+<string>
+	<id>api_server_url_express_txn_check</id>
+	<c>PayPal, config string</c>
+	<val>GetTransactionDetails API URL</val>
+</string>
+
+<string>
+	<id>paypal_express_api_enabled</id>
+	<c>PayPal, config message</c>
+	<val>Enable Transaction Check</val>
+</string>
+
+<string>
+	<id>paypal_express_check_status_period_min_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal Check Status period must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_server_url_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal server URL must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_txn_chk_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal GetTransactionDetails API URL must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_user_txn_chk_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal GetTransactionDetails API User Name must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_passwd_txn_chk_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal GetTransactionDetails API Password must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_merchant_cert_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal GetTransactionDetails API Certificate file must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_url_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal Test URL must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_url_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal Test API URL must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_user_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal Test API User Name must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_api_passwd_tst_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal Test API Password must be defined</val>
+</string>
+
+
+<string>
+	<id>paypal_express_tst_merchant_cert_not_defined</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>PayPal Test API Certificate file must be defined</val>
+</string>
+
+<string>
+	<id>paypal_express_title</id>
+	<c>Payment Plugins: Plugin name</c>
+	<val>PayPal Express Checkout Credit Card Plug-in</val>
+</string>
+
+<string>
+	<id>paypal_confirmation_failed</id>
+	<c>Payment Plugins: PayPal's error message</c>
+	<val>Transaction verification has failed. INVALID response was received from PayPal.</val>
+</string>
+
+<string>
+<id>txn_not_found</id>
+<c>Error message</c>
+<val>Cannot found the transaction at payment gateway side. The possible reason is that a customer has not completed the payment procedure.</val>
+</string>
+
+<string>
+<id>token_url</id>
+<c>PayPal, details parameters</c>
+<val>Token of URL</val>
+</string>
+
+<string>
+<id>payer_id</id>
+<c>PayPal, details parameters</c>
+<val>Payer ID</val>
+</string>
+
+<string>
+<id>payer_status</id>
+<c>PayPal, details parameters</c>
+<val>Payer status</val>
+</string>
+
+<string>
+<id>payer_name</id>
+<c>PayPal, details parameters</c>
+<val>Payer name</val>
+</string>
+
+</strings>

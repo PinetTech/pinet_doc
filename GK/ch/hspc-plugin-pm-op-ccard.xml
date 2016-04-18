@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+<!-- $Id: hspc-plugin-pm-op-ccard.xml,v 1.6 2008-05-23 13:36:11 amark Exp $ -->
+<string>
+<id>ccpmp_credit_card_uc</id>
+<c>Template title</c>
+<val>信用卡</val>
+</string>
+
+<string>
+<id>ccpmp_type_a</id>
+<c>Payment Method type</c>
+<val>美国运通</val>
+</string>
+
+<string>
+<id>ccpmp_type_b</id>
+<c>Payment Method type</c>
+<val>全权委托</val>
+</string>
+
+<string>
+<id>ccpmp_type_c</id>
+<c>Payment Method type</c>
+<val>用餐者俱乐部</val>
+</string>
+
+<string>
+<id>ccpmp_type_d</id>
+<c>Payment Method type</c>
+<val>发现</val>
+</string>
+
+<string>
+<id>ccpmp_type_e</id>
+<c>Payment Method type</c>
+<val>航线</val>
+</string>
+
+<string>
+<id>ccpmp_type_j</id>
+<c>Payment Method type</c>
+<val>JCB</val>
+</string>
+
+<string>
+<id>ccpmp_type_l</id>
+<c>Payment Method type</c>
+<val>借记卡</val>
+</string>
+
+<string>
+<id>ccpmp_type_m</id>
+<c>Payment Method type</c>
+<val>万事达信用卡</val>
+</string>
+
+<string>
+<id>ccpmp_type_o</id>
+<c>Payment Method type</c>
+<val>最适条件</val>
+</string>
+
+<string>
+<id>ccpmp_type_s</id>
+<c>Payment Method type</c>
+<val>单独</val>
+</string>
+
+<string>
+<id>ccpmp_type_t</id>
+<c>Payment Method type</c>
+<val>Visa 金融卡/Delta</val>
+</string>
+
+<string>
+<id>ccpmp_type_v</id>
+<c>Payment Method type</c>
+<val>签证</val>
+</string>
+
+<string>
+<id>ccpmp_type_w</id>
+<c>Payment Method type</c>
+<val>大师</val>
+</string>
+
+<string>
+<id>ccpmp_use_account_address</id>
+<c>Radio Button name on the new CC page</c>
+<val>使用账户地址</val>
+</string>
+
+<string>
+<id>ccpmp_new_billing_address</id>
+<c>Radio Button name on the new CC page</c>
+<val>新的计费地址</val>
+</string>
+
+<string>
+<id>ccpmp_type_title_uc</id>
+<c>Field Title</c>
+<val>类型</val>
+</string>
+
+<string>
+<id>cc_type_not_match</id>
+<c>Error message in store</c>
+<val>信用卡类型和输入的卡号不匹配.</val>
+</string>
+
+<string>
+<id>op_valid_from</id>
+<c>Form filed name</c>
+<val>有效期自 (Some Maestro/Solo only)</val>
+</string>
+
+</strings>
+

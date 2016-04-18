@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<strings lang="cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+  
+  <string>
+	<id>pre_fill</id>
+	<c>Payment Plugins, Dummy</c>
+	<val>预先填写</val>
+  </string>
+
+  <string>
+	<id>red_banner_text</id>
+	<c>Payment Plugins, Dummy</c>
+	<val>这是网上支付的试用版. 无需填写任何字段. 在表格里填写的任何东西不会发送到任何地方.</val>
+  </string>
+  
+  <string>
+	<id>always_fraud</id>
+	<c>Payment Plugins, Dummy</c>
+	<val>总是诈骗</val>
+  </string>
+
+  <string>
+	<id>dummy_naming</id>
+	<c>Payment Plugins, Dummy</c>
+	<val>虚拟信用卡插件</val>
+  </string>
+  
+</strings>

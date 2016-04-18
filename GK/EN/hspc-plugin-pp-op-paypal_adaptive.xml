@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+	<id>paypal_adapt_pay_title</id>
+	<c>PayPal title</c>
+	<val>PayPal Adaptive Payments</val>
+</string>
+
+<string>
+	<id>pm_type_paypal</id>
+	<c>PayPal title</c>
+	<val>PayPal Agreement</val>
+</string>
+
+<string>
+	<id>corr_id</id>
+	<c>PayPal trans_log</c>
+	<val>correlationId</val>
+</string>
+
+<string>
+	<id>preapproval_key</id>
+	<c>PayPal paymethod</c>
+	<val>PayPal PreApproval Key</val>
+</string>
+
+<string>
+	<id>number_of_payments</id>
+	<c>Number of payments</c>
+	<val>Number processed payments</val>
+</string>
+
+<string>
+	<id>total_amount</id>
+	<c>Total amount of payments</c>
+	<val>Total amount processed payments</val>
+</string>
+
+<string>
+	<id>max_total_amount</id>
+	<c>Total amount</c>
+	<val>The preapproved maximum total amount of all payments.</val>
+</string>
+
+<string>
+	<id>sender_email</id>
+	<c>Sender email</c>
+	<val>The sender's email address</val>
+</string>
+
+<string>
+	<id>pay_key</id>
+	<c>Pay key</c>
+	<val>Payment identifies key</val>
+</string>
+
+<string>
+	<id>tracking_id</id>
+	<c>tracking_id</c>
+	<val>Tracking ID</val>
+</string>
+
+<string>
+	<id>build_no</id>
+	<c>tracking_id</c>
+	<val>Build number</val>
+</string>
+
+<string>
+	<id>receiver_email</id>
+	<c>Receiver email</c>
+	<val>Receiver's email address</val>
+</string>
+
+<string>
+	<id>application_id</id>
+	<c>Application ID</c>
+	<val>Application ID</val>
+</string>
+
+<string>
+	<id>api_signature</id>
+	<c>API signature</c>
+	<val>API signature</val>
+</string>
+
+<string>
+	<id>paypal_param_must_be_defined</id>
+	<c>Config form error</c>
+	<val>Parameter %param% should be defined</val>
+</string>
+
+<string>
+	<id>refund_gross_amount</id>
+	<c>Trans details</c>
+	<val>Refund gross amount</val>
+</string>
+
+<string>
+	<id>refund_fee_amount</id>
+	<c>Trans details</c>
+	<val>Refund fee amount</val>
+</string>
+
+<string>
+	<id>refund_net_amount</id>
+	<c>Trans details</c>
+	<val>Refund net amount</val>
+</string>
+
+<string>
+	<id>number_of_checks</id>
+	<c>Trans details</c>
+	<val>Number of checks</val>
+</string>
+
+<string>
+	<id>paypal_preaproval_create_up_string</id>
+	<c>Trans details</c>
+	<val>During this payment you have the option to create an agreement so that future service renewals can be charged automatically to your PayPal account. <br/><br/>The following settings will limit the agreement by date and total cumulative value. The maximum values allowed by PayPal are entered for you but may be reduced if desired.<br/><br/>After these values are exceeded you cannot make additional payments via this agreement and will need to create a new one.</val>
+</string>
+
+<string>
+	<id>paypal_preaproval_create_down_string</id>
+	<c>Trans details</c>
+	<val><b>You must tick the <i>Preapprove future payments</i> check box on the PayPal page to create the agreement.</b> If you only want to submit a single manual payment you can ignore the settings above (and check box) and no payment agreement will be created.</val>
+</string>
+
+<string>
+	<id>preaproval_date</id>
+	<c>Preaproval screen</c>
+	<val>Pre-approval end date</val>
+</string>
+
+<string>
+	<id>preaproval_amnt</id>
+	<c>Preaproval screen</c>
+	<val>The preapproved maximum total amount of all payments</val>
+</string>
+
+<string>
+	<id>ppa_sum_shoud_be_int</id>
+	<c>Preaproval screen</c>
+	<val>The preapproved maximum total amount of all payments should be integer.</val>
+</string>
+
+<string>
+	<id>ppa_sum_less_max</id>
+	<c>Preaproval screen</c>
+	<val>The preapproved maximum total amount of all payments should be less than %max_value%</val>
+</string>
+
+<string>
+	<id>ppa_date_is_in_past</id>
+	<c>Preaproval screen</c>
+	<val>Pre-approval end date in past</val>
+</string>
+
+<string>
+	<id>ppa_continue_paypal</id>
+	<c>Preaproval screen</c>
+	<val>Continue to PayPal</val>
+</string>
+
+<string>
+	<id>paypal_param_must_be_integer</id>
+	<c>Config form error</c>
+	<val>Parameter %param% should be integer</val>
+</string>
+
+<string>
+	<id>ppap_preaproval_amount</id>
+	<c>Show preaproval screen</c>
+	<val>Pre-approval amount</val>
+</string>
+
+<string>
+	<id>ppap_num_days</id>
+	<c>Number of year</c>
+	<val>Pre-approval period (days)</val>
+</string>
+
+<string>
+	<id>ppap_show_screen</id>
+	<c>Show preaproval screen</c>
+	<val>Show pre-approval screen</val>
+</string>
+
+<string>
+	<id>ppap_skip_iframe</id>
+	<c>Skip iframe</c>
+	<val>PayPal page shows in blank screen<br/>(for Internet Explorer compatible)</val>
+</string>
+
+<string>
+	<id>ppap_pending_reason</id>
+	<c>pending reason</c>
+	<val>Pending reason</val>
+</string>
+
+<string>
+	<id>ppap_trans_notfound</id>
+	<c>error message</c>
+	<val>Transaction not found on PayPal side, stopping further checks</val>
+</string>
+
+<string>
+	<id>ppap_time_out</id>
+	<c>error message</c>
+	<val>Transaction is registered on PayPal side but status not received during check period</val>
+</string>
+
+</strings>

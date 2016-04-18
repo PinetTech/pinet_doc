@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<strings lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="strings.xsd">
+
+<string>
+<id>state_us_al</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Alabama</val>
+</string>
+
+<string>
+<id>state_us_ak</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Alaska</val>
+</string>
+
+<string>
+<id>state_us_az</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Arizona</val>
+</string>
+
+<string>
+<id>state_us_ar</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Arkansas</val>
+</string>
+
+<string>
+<id>state_us_ca</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>California</val>
+</string>
+
+<string>
+<id>state_us_co</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Colorado</val>
+</string>
+
+<string>
+<id>state_us_ct</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Connecticut</val>
+</string>
+
+<string>
+<id>state_us_de</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Delaware</val>
+</string>
+
+<string>
+<id>state_us_dc</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>District of Columbia</val>
+</string>
+
+<string>
+<id>state_us_fl</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Florida</val>
+</string>
+
+<string>
+<id>state_us_ga</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Georgia</val>
+</string>
+
+<string>
+<id>state_us_hi</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Hawaii</val>
+</string>
+
+<string>
+<id>state_us_id</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Idaho</val>
+</string>
+
+<string>
+<id>state_us_il</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Illinois</val>
+</string>
+
+<string>
+<id>state_us_in</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Indiana</val>
+</string>
+
+<string>
+<id>state_us_ia</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Iowa</val>
+</string>
+
+<string>
+<id>state_us_ks</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Kansas</val>
+</string>
+
+<string>
+<id>state_us_ky</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Kentucky</val>
+</string>
+
+<string>
+<id>state_us_la</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Louisiana</val>
+</string>
+
+<string>
+<id>state_us_me</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Maine</val>
+</string>
+
+<string>
+<id>state_us_md</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Maryland</val>
+</string>
+
+<string>
+<id>state_us_ma</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Massachusetts</val>
+</string>
+
+<string>
+<id>state_us_mi</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Michigan</val>
+</string>
+
+<string>
+<id>state_us_mn</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Minnesota</val>
+</string>
+
+<string>
+<id>state_us_ms</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Mississippi</val>
+</string>
+
+<string>
+<id>state_us_mo</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Missouri</val>
+</string>
+
+<string>
+<id>state_us_mt</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Montana</val>
+</string>
+
+<string>
+<id>state_us_ne</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Nebraska</val>
+</string>
+
+<string>
+<id>state_us_nv</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Nevada</val>
+</string>
+
+<string>
+<id>state_us_nh</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>New Hampshire</val>
+</string>
+
+<string>
+<id>state_us_nj</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>New Jersey</val>
+</string>
+
+<string>
+<id>state_us_nm</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>New Mexico</val>
+</string>
+
+<string>
+<id>state_us_ny</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>New York</val>
+</string>
+
+<string>
+<id>state_us_nc</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>North Carolina</val>
+</string>
+
+<string>
+<id>state_us_nd</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>North Dakota</val>
+</string>
+
+<string>
+<id>state_us_oh</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Ohio</val>
+</string>
+
+<string>
+<id>state_us_ok</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Oklahoma</val>
+</string>
+
+<string>
+<id>state_us_or</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Oregon</val>
+</string>
+
+<string>
+<id>state_us_pa</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Pennsylvania</val>
+</string>
+
+<string>
+<id>state_us_ri</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Rhode Island</val>
+</string>
+
+<string>
+<id>state_us_sc</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>South Carolina</val>
+</string>
+
+<string>
+<id>state_us_sd</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>South Dakota</val>
+</string>
+
+<string>
+<id>state_us_tn</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Tennessee</val>
+</string>
+
+<string>
+<id>state_us_tx</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Texas</val>
+</string>
+
+<string>
+<id>state_us_ut</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Utah</val>
+</string>
+
+<string>
+<id>state_us_vt</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Vermont</val>
+</string>
+
+<string>
+<id>state_us_va</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Virginia</val>
+</string>
+
+<string>
+<id>state_us_wa</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Washington</val>
+</string>
+
+<string>
+<id>state_us_wv</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>West Virginia</val>
+</string>
+
+<string>
+<id>state_us_wi</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Wisconsin</val>
+</string>
+
+<string>
+<id>state_us_wy</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Wyoming</val>
+</string>
+
+<string>
+<id>state_us_ae</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Armed Forces Africa</val>
+</string>
+
+<string>
+<id>state_us_aa</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Armed Forces Americas</val>
+</string>
+
+<string>
+<id>state_us_ap</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Armed Forces Pacific</val>
+</string>
+
+<string>
+<id>state_us_as</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>American Somoa</val>
+</string>
+
+<string>
+<id>state_us_fm</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Fed.States of Micronesia</val>
+</string>
+
+<string>
+<id>state_us_gu</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Guam</val>
+</string>
+
+<string>
+<id>state_us_mh</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Marshall Islands</val>
+</string>
+
+<string>
+<id>state_us_mp</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Northern Mariana Islands</val>
+</string>
+
+<string>
+<id>state_us_pw</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Palua</val>
+</string>
+
+<string>
+<id>state_us_pr</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Puerto Rico</val>
+</string>
+
+<string>
+<id>state_us_tt</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Trust Territories</val>
+</string>
+
+<string>
+<id>state_us_vi</id>
+<g>geo_country_state</g>
+<c>usa/canada state</c>
+<val>Virgin Islands</val>
+</string>
+
+</strings>
