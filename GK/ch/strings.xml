@@ -12594,7 +12594,7 @@ once payment will be received</c>
 	<string>
 		<id>default_printform</id>
 		<c>Configuration manager| Printable forms. mean - Is printable form default</c>
-		<val>是默认的可打印表单</val>
+		<val>是否默认的可打印表单</val>
 	</string>
 	<string>
 		<id>default_printform_short</id>
@@ -34230,7 +34230,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>new_webhost_domain</id>
 		<c>Top|Operation Director|Infrastructure Manager|webhost Domains|Button</c>
-		<val>新区域</val>
+		<val>新虚拟主机域名</val>
 	</string>
 	<string>
 		<id>new_webhost_ip_pool</id>
@@ -39347,7 +39347,7 @@ of decimal places</c>
 	<string>
 		<id>pc_perm_site_builder</id>
 		<c>Permission title</c>
-		<val>SiteBuilder</val>
+		<val>建站</val>
 	</string>
 	<string>
 		<id>pc_perm_ssi_html</id>
@@ -40931,7 +40931,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>poa_manager_title</id>
 		<c>POA manager</c>
-		<val>的Parallels自动化管理器</val>
+		<val>Parallels自动化管理</val>
 	</string>
 	<string>
 		<id>poa_node_cant_connect</id>
@@ -41482,12 +41482,12 @@ poll payment statuses)</c>
 	<string>
 		<id>print_form_body</id>
 		<c>Printable forms | Field name</c>
-		<val>可打印形式的身体</val>
+		<val>打印表单内容</val>
 	</string>
 	<string>
 		<id>print_form_del_ok</id>
 		<c>Printable forms | Message</c>
-		<val>可打印的形式已成功删除。</val>
+		<val>打印内容已成功删除。</val>
 	</string>
 	<string>
 		<id>print_form_uc</id>
@@ -41497,7 +41497,7 @@ poll payment statuses)</c>
 	<string>
 		<id>print_form_upd_ok</id>
 		<c>Printable forms | Message</c>
-		<val>可打印的形式已成功更新。</val>
+		<val>打印内容已成功更新。</val>
 	</string>
 	<string>
 		<id>print_forms_uc</id>
@@ -46613,7 +46613,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sb_mgr_uc</id>
 		<c>Service Director Menu</c>
-		<val>Sitebuilder管理</val>
+		<val>建站管理</val>
 	</string>
 	<string>
 		<id>sb_modify_site_error</id>
@@ -47006,7 +47006,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sb_plan_uc</id>
 		<c>Sitebuilder object</c>
-		<val>Sitebuilder方案</val>
+		<val>建站方案</val>
 	</string>
 	<string>
 		<id>sb_plan_used</id>
@@ -47041,7 +47041,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sb_plans_uc_full</id>
 		<c>Sitebuilder object</c>
-		<val>Sitebuilder方案</val>
+		<val>建站方案</val>
 	</string>
 	<string>
 		<id>sb_platform_change_violation</id>
@@ -47576,7 +47576,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sb_uc_short</id>
 		<c>SB</c>
-		<val>Sitebuilder</val>
+		<val>建站</val>
 	</string>
 	<string>
 		<id>sb_update_site_params_error</id>
@@ -51424,7 +51424,7 @@ poll payment statuses)</c>
 	<string>
 		<id>ssl_mgr_uc</id>
 		<c>Caption of node from left menu tree</c>
-		<val>SSL Manager</val>
+		<val>SSL 证书管理</val>
 	</string>
 	<string>
 		<id>ssl_microsoft_iis</id>
@@ -60877,7 +60877,7 @@ poll payment statuses)</c>
 	<string>
 		<id>webhost_mgr_uc</id>
 		<c>Menu</c>
-		<val>虚拟主机提供商经理</val>
+		<val>虚拟主机提供商管理</val>
 	</string>
 	<string>
 		<id>webhost_new_siteapp</id>
