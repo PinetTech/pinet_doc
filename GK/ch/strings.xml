@@ -600,7 +600,7 @@
 	<string>
 		<id>acnt_added_ok_ltxt</id>
 		<c>Business Diriector|Account Manager|Accounts|Status message</c>
-		<val>成功添加账户。注意：Parallels Business Automation - Standard中已存在电子邮件为%email%的用户。此用户已经被分配了新的角色，但是密码和个人信息未更改。</val>
+		<val>成功添加账户。注意：英华智能云平台 - 标准版中已存在电子邮件为%email%的用户。此用户已经被分配了新的角色，但是密码和个人信息未更改。</val>
 	</string>
 	<string>
 		<id>acnt_creating</id>
@@ -663,7 +663,7 @@
 	<string>
 		<id>acnts_hspc_uc</id>
 		<c>Browser Title</c>
-		<val>账户 - Parallels Business Automation - Standard</val>
+		<val>账户 - 英华智能云平台 - 标准版</val>
 	</string>
 	<string>
 		<id>acnts_in_debt</id>
@@ -1043,7 +1043,7 @@
 	<string>
 		<id>ad_err_app_save_failed</id>
 		<c>Application Director | Error message</c>
-		<val>无法保存应用程序模板。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>无法保存应用程序模板。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>ad_err_app_unset_failed_vps</id>
@@ -1068,7 +1068,7 @@
 	<string>
 		<id>ad_err_internal_error</id>
 		<c>Application Director | Error message</c>
-		<val>应用程序管理器内部错误。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>应用程序管理器内部错误。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>ad_err_no_apps_selected_unset</id>
@@ -1088,7 +1088,7 @@
 	<string>
 		<id>ad_err_os_save_failed</id>
 		<c>Application Director | Error message</c>
-		<val>无法保存操作系统模板。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>无法保存操作系统模板。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>ad_err_os_unset_failed_vps</id>
@@ -1103,7 +1103,7 @@
 	<string>
 		<id>ad_err_pkg_name_undefined</id>
 		<c>Application Director | Error message</c>
-		<val>未定义程序包名称。有关详细信息，请参见Parallels Business Automation - Standard日志文件。</val>
+		<val>未定义程序包名称。有关详细信息，请参见英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>ad_err_sync_failed_no_base_eztemplate</id>
@@ -1123,7 +1123,7 @@
 	<string>
 		<id>ad_err_upgrade_info_failed</id>
 		<c>Application director | Error message</c>
-		<val>无法获取可用的升级信息。 请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>无法获取可用的升级信息。 请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>ad_err_vz_tmpl_rep_not_exists</id>
@@ -1158,12 +1158,12 @@
 	<string>
 		<id>ad_reg_app_hn_mn_confirm</id>
 		<c>VPS Manager | HN | Applications | Confirmation</c>
-		<val>您将从硬件节点导入应用程序，并在Parallels Business Automation - Standard中进行注册。是否继续？</val>
+		<val>您将从硬件节点导入应用程序，并在英华智能云平台 - 标准版中进行注册。是否继续？</val>
 	</string>
 	<string>
 		<id>ad_reg_os_hn_mn_confirm</id>
 		<c>VPS Manager | HN | OS templates | Confirmation</c>
-		<val>您将从硬件节点导入OS模板，并在Parallels Business Automation - Standard中进行注册。是否继续？</val>
+		<val>您将从硬件节点导入OS模板，并在英华智能云平台 - 标准版中进行注册。是否继续？</val>
 	</string>
 	<string>
 		<id>ad_setup_auto_reg_on_sync</id>
@@ -1173,7 +1173,7 @@
 	<string>
 		<id>ad_setup_auto_reg_on_sync_desc</id>
 		<c>Application Director | Setup | Option description</c>
-		<val>当您从硬件节点处获取Parallels VPS Containers OS/应用程序模板时，此选项控制它们的自动注册。如果启用此选项，则所有来自硬件节点的模板都将在Parallels Business Automation - Standard中注册。如果禁用此选项，则只会更新现有模板的同步状态。您可以通过相应的硬件配置屏幕随时开始从硬件节点处获取模板。</val>
+		<val>当您从硬件节点处获取Parallels VPS Containers OS/应用程序模板时，此选项控制它们的自动注册。如果启用此选项，则所有来自硬件节点的模板都将在英华智能云平台 - 标准版中注册。如果禁用此选项，则只会更新现有模板的同步状态。您可以通过相应的硬件配置屏幕随时开始从硬件节点处获取模板。</val>
 	</string>
 	<string>
 		<id>ad_setup_title</id>
@@ -1398,12 +1398,12 @@
 	<string>
 		<id>add_err_uninstall_app</id>
 		<c>Application Director:  Error message</c>
-		<val>卸载应用程序时出现SA系统错误。有关详细信息，请参阅Parallels Business Automation - Standard日志文件。</val>
+		<val>卸载应用程序时出现SA系统错误。有关详细信息，请参阅英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>add_err_uninstall_ps</id>
 		<c>Application Director:  Error message</c>
-		<val>卸载系统操作模板时出现SA系统错误。有关详细信息，请参阅Parallels Business Automation - Standard日志文件。</val>
+		<val>卸载系统操作模板时出现SA系统错误。有关详细信息，请参阅英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>add_files_clipbrd</id>
@@ -1438,7 +1438,7 @@
 	<string>
 		<id>add_ip_for_hiding</id>
 		<c>Reseller Hiding|Add IP Button text</c>
-		<val>将新的IP地址添加到Parallels Business Automation - Standard务器</val>
+		<val>将新的IP地址添加到英华智能云平台 - 标准版务器</val>
 	</string>
 	<string>
 		<id>add_ip_uc</id>
@@ -1677,7 +1677,7 @@
 	<string>
 		<id>addr_below_infrom_field_ltxt</id>
 		<c>PCC | Mail Setup | Form descr</c>
-		<val>下列地址将被插入至Parallels Business Automation - Standard发出的所有邮件的“发件人”字段。</val>
+		<val>下列地址将被插入至英华智能云平台 - 标准版发出的所有邮件的“发件人”字段。</val>
 	</string>
 	<string>
 		<id>addr_lc</id>
@@ -1936,12 +1936,12 @@
 	<string>
 		<id>adv_doc_explained</id>
 		<c>Documentation page</c>
-		<val>该指南描述了与Parallels Business Automation - Standard管理相关的高级任务。</val>
+		<val>该指南描述了与英华智能云平台 - 标准版管理相关的高级任务。</val>
 	</string>
 	<string>
 		<id>adv_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard高级配置手册</val>
+		<val>英华智能云平台 - 标准版高级配置手册</val>
 	</string>
 	<string>
 		<id>adv_set_uc</id>
@@ -2739,7 +2739,7 @@
 	<string>
 		<id>all_but_deleted</id>
 		<c>Billing</c>
-		<val>全部，但已删除</val>
+		<val>全部，但不含已删除的</val>
 	</string>
 	<string>
 		<id>all_countries</id>
@@ -3227,17 +3227,17 @@
 	<string>
 		<id>an_err_occured_during_app_installation_please_look_log_file</id>
 		<c>Application Director | Error message</c>
-		<val>在安装应用程序时出错。有关详细信息，请参见Parallels Business Automation - Standard日志文件。</val>
+		<val>在安装应用程序时出错。有关详细信息，请参见英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>an_err_occured_during_app_installation_this_app_is_installed_already</id>
 		<c>Application Director | Error message</c>
-		<val>安装应用程序时出错。应用程序已被安装在管理节点上，但在Parallels Business Automation - Standard数据库中未找到相关记录。有关详细信息，请参阅Parallels Business Automation - Standard日志文件。</val>
+		<val>安装应用程序时出错。应用程序已被安装在管理节点上，但在英华智能云平台 - 标准版数据库中未找到相关记录。有关详细信息，请参阅英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>an_err_occured_during_upgrade_installation_you_cannot_install_this_upgrade</id>
 		<c>Application Director | Error message</c>
-		<val>安装应用程序时出错。因依赖关系失败，无法安装应用程序。请参见Parallels Business Automation - Standard日志文件查找RPM文件名。</val>
+		<val>安装应用程序时出错。因依赖关系失败，无法安装应用程序。请参见英华智能云平台 - 标准版日志文件查找RPM文件名。</val>
 	</string>
 	<string>
 		<id>and</id>
@@ -3916,7 +3916,7 @@
 	<string>
 		<id>are_you_sure_you_want_to_remove_db_backup</id>
 		<c>PCC | Button Capture</c>
-		<val>您确定要从Parallels Business Automation - Standard数据库删除有关备份文件的信息吗？</val>
+		<val>您确定要从英华智能云平台 - 标准版数据库删除有关备份文件的信息吗？</val>
 	</string>
 	<string>
 		<id>are_you_sure_you_want_to_reset_psa_pwd</id>
@@ -7638,7 +7638,7 @@
 	<string>
 		<id>cc_processing_help</id>
 		<c>Initial Setup | Billing | Credit Card Processing</c>
-		<val>要使用周期性计费并处理延期的交易，信用卡数据应保存在Parallels Business Automation - Standard数据库中。请检查相关文本框以确认信用卡数据输入Parallels Business Automation - Standard后立刻保存该信用卡数据。</val>
+		<val>要使用周期性计费并处理延期的交易，信用卡数据应保存在英华智能云平台 - 标准版数据库中。请检查相关文本框以确认信用卡数据输入英华智能云平台 - 标准版后立刻保存该信用卡数据。</val>
 	</string>
 	<string>
 		<id>cc_properties_uc</id>
@@ -9351,7 +9351,7 @@ once payment will be received</c>
 	<string>
 		<id>conf_file_missing_or_corrupted</id>
 		<c>VZtools | Error message</c>
-		<val>应用程序的配置文件丢失或损坏。有关详细信息，请参阅Parallels Business Automation - Standard日志文件。</val>
+		<val>应用程序的配置文件丢失或损坏。有关详细信息，请参阅英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>conf_fwd_rule_mail_uc</id>
@@ -9549,7 +9549,7 @@ once payment will be received</c>
 	<string>
 		<id>connection_to_hw_node_failed</id>
 		<c>VZtools | Error message</c>
-		<val>连接到硬件节点失败。有关详细信息，请参阅Parallels Business Automation - Standard日志文件。</val>
+		<val>连接到硬件节点失败。有关详细信息，请参阅英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>consolidate_inv_settings_uc</id>
@@ -9616,7 +9616,7 @@ once payment will be received</c>
 	<string>
 		<id>contct_hsp_admin</id>
 		<c>Dashbord links</c>
-		<val>如果几分钟后问题还未解决，请与Parallels Business Automation - Standard管理员联系。</val>
+		<val>如果几分钟后问题还未解决，请与英华智能云平台 - 标准版管理员联系。</val>
 	</string>
 	<string>
 		<id>continue_uc</id>
@@ -9636,7 +9636,7 @@ once payment will be received</c>
 	<string>
 		<id>control_panel_title_uc</id>
 		<c>Web tool Name</c>
-		<val>Parallels Business Automation - 控制面板</val>
+		<val>英华智能云平台 - 控制面板</val>
 	</string>
 	<string>
 		<id>control_panel_url_uc</id>
@@ -10208,7 +10208,7 @@ once payment will be received</c>
 	<string>
 		<id>cp_dns_already_registered_by_hspc_err</id>
 		<c>CP | DNS | Warning</c>
-		<val>此域名已被 Parallels Business Automation - Standard 注册。</val>
+		<val>此域名已被 英华智能云平台 - 标准版 注册。</val>
 	</string>
 	<string>
 		<id>cp_dns_create_record_err</id>
@@ -11509,12 +11509,12 @@ once payment will be received</c>
 	<string>
 		<id>curr_hspc_license</id>
 		<c>Configuration manager | Start</c>
-		<val>当前Parallels Business Automation - Standard许可证</val>
+		<val>当前英华智能云平台 - 标准版许可证</val>
 	</string>
 	<string>
 		<id>curr_hspc_license_help</id>
 		<c>Initial Setup | License | Current Parallels Business Automation - Standard License</c>
-		<val>该表格显示了当前Parallels Business Automation - Standard许可证的授权信息。</val>
+		<val>该表格显示了当前英华智能云平台 - 标准版许可证的授权信息。</val>
 	</string>
 	<string>
 		<id>curr_passwd</id>
@@ -12450,7 +12450,7 @@ once payment will be received</c>
 	<string>
 		<id>dedsrvs_hspc_uc</id>
 		<c>Browser Title</c>
-		<val>专用服务器 - Parallels Business Automation - Standard</val>
+		<val>专用服务器 - 英华智能云平台 - 标准版</val>
 	</string>
 	<string>
 		<id>def_bu_set_uc</id>
@@ -12544,7 +12544,7 @@ once payment will be received</c>
 	<string>
 		<id>def_regional_settings_help</id>
 		<c>Initial Setup | Person and Account | Default Regional Settings</c>
-		<val>区域设置默认应用于提供商账户用户和所有在Parallels Business Automation - Standard中注册的用户。这些设置应用于注册表字段，且在注册期间或之后不能被更改。</val>
+		<val>区域设置默认应用于提供商账户用户和所有在英华智能云平台 - 标准版中注册的用户。这些设置应用于注册表字段，且在注册期间或之后不能被更改。</val>
 	</string>
 	<string>
 		<id>def_setup_fee_isnt_specified_4_app</id>
@@ -12934,7 +12934,7 @@ once payment will be received</c>
 	<string>
 		<id>department_was_added_ok</id>
 		<c>Business Diriector|Enterprise Manager|Enterprise customers|Departments|Status message</c>
-		<val>成功添加部门。注意：电子邮件为%email%的用户已存在于Parallels Business Automation - Standard。新角色已分配但密码和个人信息保留未变。</val>
+		<val>成功添加部门。注意：电子邮件为%email%的用户已存在于英华智能云平台 - 标准版。新角色已分配但密码和个人信息保留未变。</val>
 	</string>
 	<string>
 		<id>department_was_ok_deleted</id>
@@ -12949,7 +12949,7 @@ once payment will be received</c>
 	<string>
 		<id>departments_hspc_uc</id>
 		<c>Page title</c>
-		<val>部门 - Parallels Business Automation - Standard</val>
+		<val>部门 - 英华智能云平台 - 标准版</val>
 	</string>
 	<string>
 		<id>departments_on_hold_uc</id>
@@ -15388,7 +15388,7 @@ once payment will be received</c>
 	<string>
 		<id>dns_switch_off_manual</id>
 		<c>Switch on auto DNS management, button title</c>
-		<val>允许Parallels Business Automation - Standard管理区域</val>
+		<val>允许英华智能云平台 - 标准版管理区域</val>
 	</string>
 	<string>
 		<id>dns_switch_on_manual</id>
@@ -15668,12 +15668,12 @@ once payment will be received</c>
 	<string>
 		<id>doc_intended_4_sp_admins</id>
 		<c>Documentation page</c>
-		<val>该单据需要提供给主机服务提供商管理员。它包括Parallels Business Automation - Standard的安装和初始化设置。</val>
+		<val>该单据需要提供给主机服务提供商管理员。它包括英华智能云平台 - 标准版的安装和初始化设置。</val>
 	</string>
 	<string>
 		<id>doc_intended_4_subscibers</id>
 		<c>Documentation page</c>
-		<val>用于订购Parallels Business Automation - Standard服务业务的单据</val>
+		<val>用于订购英华智能云平台 - 标准版服务业务的单据</val>
 	</string>
 	<string>
 		<id>doc_is_busy</id>
@@ -16193,7 +16193,7 @@ once payment will be received</c>
 	<string>
 		<id>domain_another_acc</id>
 		<c>PCC|MG|Error</c>
-		<val>一些域名别名已经属于Parallels Business Automation - Standard上的不同账户:%acc_ids%。迁移并创建容器的过程无法开始。请修改远程服务器上的设置，或者在Parallels Business Automation - Standard上重新分配对应的账户。</val>
+		<val>一些域名别名已经属于英华智能云平台 - 标准版上的不同账户:%acc_ids%。迁移并创建容器的过程无法开始。请修改远程服务器上的设置，或者在英华智能云平台 - 标准版上重新分配对应的账户。</val>
 	</string>
 	<string>
 		<id>domain_be_specified</id>
@@ -16335,7 +16335,7 @@ once payment will be received</c>
 	<string>
 		<id>domain_not_delegated</id>
 		<c>VPS Container error message, MASTER/SLAVE are addresses of DNS servers</c>
-		<val>域名为被指派到Parallels Business Automation - Standard的域名解析服务器(%MASTER%/%SLAVE%)。</val>
+		<val>域名为被指派到英华智能云平台 - 标准版的域名解析服务器(%MASTER%/%SLAVE%)。</val>
 	</string>
 	<string>
 		<id>domain_not_found</id>
@@ -16609,7 +16609,7 @@ once payment will be received</c>
 	<string>
 		<id>dont_update_acc_info_if_exists</id>
 		<c>PCC|MG|form field</c>
-		<val>如果账户已存在于Parallels Business Automation - Standard中，那么该账户信息尚未更新</val>
+		<val>如果账户已存在于英华智能云平台 - 标准版中，那么该账户信息尚未更新</val>
 	</string>
 	<string>
 		<id>double_submit_warning</id>
@@ -16960,7 +16960,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>ec_added_ok_note_ltxt</id>
 		<c>Business Diriector|Enterprise Manager|Enterprise customers|Status message</c>
-		<val>成功添加企业客户。请注意：邮件%email%用户已经存在于Parallels Business Automation - Standard中。新角色已被分配但是密码和个人信息尚未更改。</val>
+		<val>成功添加企业客户。请注意：邮件%email%用户已经存在于英华智能云平台 - 标准版中。新角色已被分配但是密码和个人信息尚未更改。</val>
 	</string>
 	<string>
 		<id>ec_can_disable_not</id>
@@ -16981,12 +16981,12 @@ string</c>
 	<string>
 		<id>ecg_doc_explained</id>
 		<c>Documentation page</c>
-		<val>为使用Parallels Business Automation - Standard企业客户控制中心的企业客户提供单据。</val>
+		<val>为使用英华智能云平台 - 标准版企业客户控制中心的企业客户提供单据。</val>
 	</string>
 	<string>
 		<id>ecg_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard企业客户向导</val>
+		<val>英华智能云平台 - 标准版企业客户向导</val>
 	</string>
 	<string>
 		<id>ecom_mgr_uc</id>
@@ -17484,7 +17484,7 @@ string</c>
 	<string>
 		<id>enable_ssl_tbl</id>
 		<c>An item in a summary table</c>
-		<val>在Parallels Business Automation - Standard Web工具中启用SSL</val>
+		<val>在英华智能云平台 - 标准版 Web工具中启用SSL</val>
 	</string>
 	<string>
 		<id>enable_ssl_uc</id>
@@ -17664,7 +17664,7 @@ string</c>
 	<string>
 		<id>enterprise_customers_hspc_uc</id>
 		<c>Page title</c>
-		<val>企业客户 -Parallels Business Automation - Standard</val>
+		<val>企业客户 -英华智能云平台 - 标准版</val>
 	</string>
 	<string>
 		<id>enterprise_customers_on_hold_uc</id>
@@ -17859,27 +17859,27 @@ string</c>
 	<string>
 		<id>err_occured_during_creation_cached_private_areas</id>
 		<c>VZtools | Error message</c>
-		<val>在创建个人缓存地区时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在创建个人缓存地区时出错。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_during_installation_look_hspc_log</id>
 		<c>VZtools | Error message</c>
-		<val>安装过程中出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>安装过程中出错。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_during_synchronization_look_hspc_log</id>
 		<c>VZtools | Error message</c>
-		<val>在应用程序和硬件节点同步过程中发生错误。有关详细信息，请看Parallels Business Automation - Standard日志文件。</val>
+		<val>在应用程序和硬件节点同步过程中发生错误。有关详细信息，请看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_during_synchronization_sync_nbh_settings</id>
 		<c>VZtools | Error message</c>
-		<val>在基于主机设置的名称同步过程中发生错误。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在基于主机设置的名称同步过程中发生错误。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_during_synchronization_sync_traff_shapping_classes</id>
 		<c>VZtools | Error message</c>
-		<val>在流量控制设置和流量类别同步过程中出现错误。 有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在流量控制设置和流量类别同步过程中出现错误。 有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_setting_networks_classes_on_hw_node</id>
@@ -17898,7 +17898,7 @@ string</c>
 	<string>
 		<id>err_occured_while_changing_app_autostart_set</id>
 		<c>Application Director:  Error message</c>
-		<val>在容器中更改应用程序自动启用设置时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在容器中更改应用程序自动启用设置时出错。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_while_copying_keys_to_hw_node</id>
@@ -17908,12 +17908,12 @@ string</c>
 	<string>
 		<id>err_occured_while_creating_order_for_recreate_ct</id>
 		<c>PCC | SD | VM | Containers Error message</c>
-		<val>重新创建 %subj% 以更改操作系统时出现错误。请参阅 Parallels Business Automation - Standard 日志文件了解详细信息。</val>
+		<val>重新创建 %subj% 以更改操作系统时出现错误。请参阅 英华智能云平台 - 标准版 日志文件了解详细信息。</val>
 	</string>
 	<string>
 		<id>err_occured_while_restarting_app</id>
 		<c>Application Director:  Error message</c>
-		<val>在容器中重启应用程序时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在容器中重启应用程序时出错。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_while_setting_up_shaper_on_hw_node</id>
@@ -17922,12 +17922,12 @@ string</c>
 	<string>
 		<id>err_occured_while_starting_app</id>
 		<c>Application Director:  Error message</c>
-		<val>在容器中启动应用程序时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在容器中启动应用程序时出错。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_while_stopping_app</id>
 		<c>Application Director:  Error message</c>
-		<val>在容器中停止应用程序时出错。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>在容器中停止应用程序时出错。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>err_occured_while_unregistering_hw_node</id>
@@ -18226,7 +18226,7 @@ string</c>
 	<string>
 		<id>error_saviing_ve_config_ltxt</id>
 		<c>Error message</c>
-		<val>保存容器配置时出错。配置文件可能被毁坏。有关详细信息，请参阅Parallels Business Automation - Standard日志文件。可能是该容器的QoS设置不正确，或尚未向其分配主机名。</val>
+		<val>保存容器配置时出错。配置文件可能被毁坏。有关详细信息，请参阅英华智能云平台 - 标准版日志文件。可能是该容器的QoS设置不正确，或尚未向其分配主机名。</val>
 	</string>
 	<string>
 		<id>error_saving_website_conf</id>
@@ -23395,7 +23395,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>for_remote_account_was_created</id>
 		<c>System Director|Migration Manager|Migration Wizard</c>
-		<val>已为这一远程账户创建Parallels Business Automation - Standard账户。</val>
+		<val>已为这一远程账户创建英华智能云平台 - 标准版账户。</val>
 	</string>
 	<string>
 		<id>for_reseller_only_uc</id>
@@ -23759,7 +23759,7 @@ element</c>
 	<string>
 		<id>frontpage</id>
 		<c>PBAs-root | Front page | text</c>
-		<val>这是Parallels Business Automation - Standard网页工具的主页。Parallels Business Automation - Standard是一个专为主机提供商(如：IDC、APS和虚拟主机提供商)设计的端到端解决方案。</val>
+		<val>这是英华智能云平台 - 标准版网页工具的主页。英华智能云平台 - 标准版是一个专为主机提供商(如：IDC、APS和虚拟主机提供商)设计的端到端解决方案。</val>
 	</string>
 	<string>
 		<id>frontpage_ext_not_installed</id>
@@ -24250,7 +24250,7 @@ element</c>
 	<string>
 		<id>getstart_doc_explained</id>
 		<c>Documentation page</c>
-		<val>该文档描述了最重要和最常用的Parallels Business Automation - Standard工作流程。</val>
+		<val>该文档描述了最重要和最常用的英华智能云平台 - 标准版工作流程。</val>
 	</string>
 	<string>
 		<id>getstart_doc_title</id>
@@ -24842,7 +24842,7 @@ element</c>
 	<string>
 		<id>hns_hspc_uc</id>
 		<c>Browser Title</c>
-		<val>硬件节点 - Parallels Business Automation - Standard</val>
+		<val>硬件节点 - 英华智能云平台 - 标准版</val>
 	</string>
 	<string>
 		<id>hold_subscr_activated</id>
@@ -25512,7 +25512,7 @@ element</c>
 	<string>
 		<id>hsp_company_admin_contact_help</id>
 		<c>Initial Setup | Person and Account | PBAs Company Administrative Contact</c>
-		<val>这是负责 PBA 公司中管理问题的人员的姓名和联系方式。这不是新用户，而仅仅是附于账户的其他信息。<br/>Parallels Business Automation - Standard 使用该名称和电子邮件地址自动发送生成的与管理问题有关的电子邮件。请注意，您可以在以后为提供商账户设置计费和技术联系方式。</val>
+		<val>这是负责 PBA 公司中管理问题的人员的姓名和联系方式。这不是新用户，而仅仅是附于账户的其他信息。<br/>英华智能云平台 - 标准版 使用该名称和电子邮件地址自动发送生成的与管理问题有关的电子邮件。请注意，您可以在以后为提供商账户设置计费和技术联系方式。</val>
 	</string>
 	<string>
 		<id>hsp_company_profile</id>
@@ -25557,37 +25557,37 @@ element</c>
 	<string>
 		<id>hspc</id>
 		<c>Page Title</c>
-		<val>Parallels Business Automation - Standard</val>
+		<val>英华智能云平台 - 标准版</val>
 	</string>
 	<string>
 		<id>hspc_2_0_eg</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard企业客户指南</val>
+		<val>英华智能云平台 - 标准版企业客户指南</val>
 	</string>
 	<string>
 		<id>hspc_2_0_ig</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard安装指南</val>
+		<val>英华智能云平台 - 标准版安装指南</val>
 	</string>
 	<string>
 		<id>hspc_2_0_pg</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard提供商指南</val>
+		<val>英华智能云平台 - 标准版提供商指南</val>
 	</string>
 	<string>
 		<id>hspc_2_0_rg</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard分销商指南</val>
+		<val>英华智能云平台 - 标准版分销商指南</val>
 	</string>
 	<string>
 		<id>hspc_2_0_sg</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard户指南</val>
+		<val>英华智能云平台 - 标准版订阅者指南</val>
 	</string>
 	<string>
 		<id>hspc_acc</id>
 		<c>PCC|MG|form header</c>
-		<val>Parallels Business Automation - Standard账户</val>
+		<val>英华智能云平台 - 标准版账户</val>
 	</string>
 	<string>
 		<id>hspc_app_uc</id>
@@ -25597,7 +25597,7 @@ element</c>
 	<string>
 		<id>hspc_control_panel_uc</id>
 		<c>Browser Title</c>
-		<val>Parallels Business Automation - Standard控制面板</val>
+		<val>英华智能云平台 - 标准版控制面板</val>
 	</string>
 	<string>
 		<id>hspc_enterprise_cc_uc</id>
@@ -25607,57 +25607,57 @@ element</c>
 	<string>
 		<id>hspc_hp</id>
 		<c>PCC|MG|form field</c>
-		<val>Parallels Business Automation - Standard主机方案</val>
+		<val>英华智能云平台 - 标准版主机方案</val>
 	</string>
 	<string>
 		<id>hspc_hp_uc</id>
 		<c>PCC|MG|Column name</c>
-		<val>Parallels Business Automation - Standard主机方案</val>
+		<val>英华智能云平台 - 标准版主机方案</val>
 	</string>
 	<string>
 		<id>hspc_lic_expired</id>
 		<c>Office|Event Manager|Events</c>
-		<val>Parallels Business Automation - Standard 许可证已到期</val>
+		<val>英华智能云平台 - 标准版 许可证已到期</val>
 	</string>
 	<string>
 		<id>hspc_lic_expired_alert</id>
 		<c>status message on the top of default page</c>
-		<val>Parallels Business Automation - Standard 许可证已到期。</val>
+		<val>英华智能云平台 - 标准版 许可证已到期。</val>
 	</string>
 	<string>
 		<id>hspc_lic_graced</id>
 		<c>Office|Event Manager|Events</c>
-		<val>Parallels Business Automation - Standard 许可证即将到期，宽限期已开始</val>
+		<val>英华智能云平台 - 标准版 许可证即将到期，宽限期已开始</val>
 	</string>
 	<string>
 		<id>hspc_lic_graced_alert</id>
 		<c>status message on the top of default page</c>
-		<val>Parallels Business Automation - Standard 许可证即将到期，宽限期已开始。</val>
+		<val>英华智能云平台 - 标准版 许可证即将到期，宽限期已开始。</val>
 	</string>
 	<string>
 		<id>hspc_lic_has_been_installed</id>
 		<c>Office|Event Manager|Events</c>
-		<val>Parallels Business Automation - Standard 许可证已安装</val>
+		<val>英华智能云平台 - 标准版 许可证已安装</val>
 	</string>
 	<string>
 		<id>hspc_lic_has_been_updated</id>
 		<c>Office|Event Manager|Events</c>
-		<val>Parallels Business Automation - Standard 许可证已更新</val>
+		<val>英华智能云平台 - 标准版 许可证已更新</val>
 	</string>
 	<string>
 		<id>hspc_lic_update_failed</id>
 		<c>Office|Event Manager|Events</c>
-		<val>Parallels Business Automation - Standard 许可证更新失败</val>
+		<val>英华智能云平台 - 标准版 许可证更新失败</val>
 	</string>
 	<string>
 		<id>hspc_lic_update_failed_alert</id>
 		<c>status message on the top of default page</c>
-		<val>Parallels Business Automation - Standard 许可证更新失败。</val>
+		<val>英华智能云平台 - 标准版 许可证更新失败。</val>
 	</string>
 	<string>
 		<id>hspc_licenses_uc</id>
 		<c>used by License Manager</c>
-		<val>Parallels Business Automation - Standard许可证</val>
+		<val>英华智能云平台 - 标准版许可证</val>
 	</string>
 	<string>
 		<id>hspc_logs</id>
@@ -25667,11 +25667,11 @@ element</c>
 	<string>
 		<id>hspc_messenger_help</id>
 		<c>Initial Setup | Person and Account | Parallels Business Automation - Standard Messenger</c>
-		<val>Parallels Business Automation - Standard 提供一个选项，可以自动生成电子邮件通知，并向提供商管理员（例如有关当前账户余额的通知）或 PBA 客户（例如，如果订阅期即将到期）发送电子邮件通知。每条电子邮件消息都具有“发件人”字段，其中包含名称（可以是 PBA 公司的名称）和发件人电子邮件地址（我们建议输入有效的电子邮件地址，以便将用户回复定向至此地址）。</val>
+		<val>英华智能云平台 - 标准版 提供一个选项，可以自动生成电子邮件通知，并向管理员（例如有关当前账户余额的通知）或客户（例如，如果订阅期即将到期）发送电子邮件通知。每条电子邮件消息都具有“发件人”字段，其中包含名称（可以是公司的名称）和发件人电子邮件地址（我们建议输入有效的电子邮件地址，以便将用户回复定向至此地址）。</val>
 	</string>
 	<string>
 		<id>hspc_messenger_uc</id>
-		<val>Parallels Business Automation - Standard Messenger</val>
+		<val>英华智能云平台 - 标准版 Messenger</val>
 	</string>
 	<string>
 		<id>hspc_mt_ad_ostemplate_uc</id>
@@ -26036,7 +26036,7 @@ element</c>
 	<string>
 		<id>hspc_mt_lm_mn_uc</id>
 		<c>Class type name</c>
-		<val>Parallels Business Automation - Standard许可证</val>
+		<val>英华智能云平台 - 标准版许可证</val>
 	</string>
 	<string>
 		<id>hspc_mt_lm_webhost_uc</id>
@@ -26121,7 +26121,7 @@ element</c>
 	<string>
 		<id>hspc_mycp_uc</id>
 		<c>Page Title</c>
-		<val>Parallels Business Automation - Standard我的控制面板</val>
+		<val>英华智能云平台 - 标准版我的控制面板</val>
 	</string>
 	<string>
 		<id>hspc_provider_cc_uc</id>
@@ -26136,21 +26136,21 @@ element</c>
 	<string>
 		<id>hspc_services</id>
 		<c>services menu title</c>
-		<val>Parallels Business Automation - Standard服务</val>
+		<val>英华智能云平台 - 标准版服务</val>
 	</string>
 	<string>
 		<id>hspc_services_uc</id>
 		<c>Caption of node from left menu tree</c>
-		<val>Parallels Business Automation - Standard服务</val>
+		<val>英华智能云平台 - 标准版服务</val>
 	</string>
 	<string>
 		<id>hspc_support_uc</id>
-		<val>Parallels Business Automation - Standard支持</val>
+		<val>英华智能云平台 - 标准版支持</val>
 	</string>
 	<string>
 		<id>hspc_ug_uc</id>
 		<c>Documentation page | User's Guide title</c>
-		<val>Parallels Business Automation - Standard用户指南</val>
+		<val>英华智能云平台 - 标准版用户指南</val>
 	</string>
 	<string>
 		<id>hspcc_conf_issues</id>
@@ -26728,7 +26728,7 @@ element</c>
 	<string>
 		<id>im_err_hosts_upd_failed</id>
 		<c>Error message</c>
-		<val>无法使用新的IP地址更新主机。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>无法使用新的IP地址更新主机。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>im_err_ip_not_belongs_vps</id>
@@ -27321,7 +27321,7 @@ element</c>
 	<string>
 		<id>initial_setup_finish_descr</id>
 		<c>Initial Setup | Finish</c>
-		<val>谢谢。<p/>初始设置已完成。由您作出的所有初始设置已保存。<p/>安装 Parallels Business Automation - Standard  后只需进行简单的配置，即可连接到数据中心服务器，创建主机方案和打开在线商店。您可以随时更改初始设置。请使用上下文帮助和其他文档，这些资源可以通过“帮助”链接在  %cc_name% 中获取，也可以在“支持 － 文档”页面获取。<p/>Parallels Business Automation - Standard  提供安装向导未涵盖的许多功能。您可以配置更多的支付和域名注册插件，使用高级电子商务商店功能，发布在线合作伙伴申请表，管理在线营销活动和分销联盟计划等等。<br/>欢迎使用 Parallels Business Automation - Standard！<p/>请单击“完成”按钮以继续。您将进入“控制中心”界面。</val>
+		<val>谢谢。<p/>初始设置已完成。由您作出的所有初始设置已保存。<p/>安装 英华智能云平台 - 标准版  后只需进行简单的配置，即可连接到数据中心服务器，创建主机方案和打开在线商店。您可以随时更改初始设置。请使用上下文帮助和其他文档，这些资源可以通过“帮助”链接在  %cc_name% 中获取，也可以在“支持 － 文档”页面获取。<p/>英华智能云平台 - 标准版  提供安装向导未涵盖的许多功能。您可以配置更多的支付和域名注册插件，使用高级电子商务商店功能，发布在线合作伙伴申请表，管理在线营销活动和分销联盟计划等等。<br/>欢迎使用 英华智能云平台 - 标准版！<p/>请单击“完成”按钮以继续。您将进入“控制中心”界面。</val>
 	</string>
 	<string>
 		<id>initiator</id>
@@ -27421,7 +27421,7 @@ element</c>
 	<string>
 		<id>install_hspc_license_uc</id>
 		<c>Used in license manager</c>
-		<val>Parallels Business Automation - Standard许可证</val>
+		<val>英华智能云平台 - 标准版许可证</val>
 	</string>
 	<string>
 		<id>install_lic_on_next_nodes</id>
@@ -27436,7 +27436,7 @@ element</c>
 	<string>
 		<id>install_license_help</id>
 		<c>Initial Setup | License | Install License</c>
-		<val>该表单允许您安装Parallels Business Automation - Standard许可证证书。请将许可证文本粘贴到相应字段或单击“浏览”按钮以定位许可证文件。</val>
+		<val>该表单允许您安装英华智能云平台 - 标准版许可证证书。请将许可证文本粘贴到相应字段或单击“浏览”按钮以定位许可证文件。</val>
 	</string>
 	<string>
 		<id>install_license_uc</id>
@@ -27446,7 +27446,7 @@ element</c>
 	<string>
 		<id>install_migration_plugin</id>
 		<c>System Director|Migration Manager|New Remote Server</c>
-		<val>在您系统中未安装迁移插件。请至少安装一个迁移插件以将账户从合法系统迁移到Parallels Business Automation - Standard。</val>
+		<val>在您系统中未安装迁移插件。请至少安装一个迁移插件以将账户从合法系统迁移到英华智能云平台 - 标准版。</val>
 	</string>
 	<string>
 		<id>install_new_app_on_mn</id>
@@ -27556,12 +27556,12 @@ element</c>
 	<string>
 		<id>instg_doc_explained</id>
 		<c>Documentation page</c>
-		<val>此文档面向主机服务提供商管理员。内容包含Parallels Business Automation - Standard  安装和最初设置。</val>
+		<val>此文档面向主机服务提供商管理员。内容包含英华智能云平台 - 标准版  安装和最初设置。</val>
 	</string>
 	<string>
 		<id>instg_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard安装指南</val>
+		<val>英华智能云平台 - 标准版安装指南</val>
 	</string>
 	<string>
 		<id>insuff_ds_2perform_op</id>
@@ -27621,12 +27621,12 @@ element</c>
 	<string>
 		<id>int_guide</id>
 		<c>PCC|Support|Documentation</c>
-		<val>Parallels Business Automation - Standard集成指南</val>
+		<val>英华智能云平台 - 标准版集成指南</val>
 	</string>
 	<string>
 		<id>int_guide_explained</id>
 		<c>PCC|Support|Documentation</c>
-		<val>此文档面向主机服务提供商管理员。内容包含Parallels Business Automation - Standard的自定义和整合功能。阅读该文档需要一定的Perl编程经验。</val>
+		<val>此文档面向主机服务提供商管理员。内容包含英华智能云平台 - 标准版的自定义和整合功能。阅读该文档需要一定的Perl编程经验。</val>
 	</string>
 	<string>
 		<id>integrity_check_srvr_sheld_ok</id>
@@ -27661,7 +27661,7 @@ element</c>
 	<string>
 		<id>interface_setup_help</id>
 		<c>Initial Setup | Store and Site | Interface Setup</c>
-		<val>请选择将会默认应用到Parallels Business Automation - Standard工具的外观(一组图像或调色板)。稍后您可以从提供商控制中心的界面设置中更改默认外观。</val>
+		<val>请选择将会默认应用到英华智能云平台 - 标准版工具的外观(一组图像或调色板)。稍后您可以从提供商控制中心的界面设置中更改默认外观。</val>
 	</string>
 	<string>
 		<id>interface_setup_uc</id>
@@ -28487,7 +28487,7 @@ element</c>
 	<string>
 		<id>ip_addrs_hspc</id>
 		<c>Browser Title</c>
-		<val>IP地址 - Parallels Business Automation - Standard</val>
+		<val>IP地址 - 英华智能云平台 - 标准版</val>
 	</string>
 	<string>
 		<id>ip_assigned_to_this_ve_already</id>
@@ -28622,12 +28622,12 @@ element</c>
 	<string>
 		<id>ip_pool_vps_help</id>
 		<c>Initial Setup | Data Center | IP Pool for VPS Container</c>
-		<val>分配给 Parallels Business Automation - Standard 群集的 IP 地址资产由组（IP 池）进行管理。IP 池分配给 Parallels Business Automation - Standard 中可用的特殊类型的主机。向特定类型的主机分配 IP 池意味着此 IP 池的 IP 地址将用于提供特殊类型的服务。<br/>请输入用于配置容器的 IP 池的参数。</val>
+		<val>分配给 英华智能云平台 - 标准版 群集的 IP 地址资产由组（IP 池）进行管理。IP 池分配给 英华智能云平台 - 标准版 中可用的特殊类型的主机。向特定类型的主机分配 IP 池意味着此 IP 池的 IP 地址将用于提供特殊类型的服务。<br/>请输入用于配置容器的 IP 池的参数。</val>
 	</string>
 	<string>
 		<id>ip_pool_was_created_during_initsetup</id>
 		<c>Configuration manager | Start</c>
-		<val>IP池是在安装Parallels Business Automation - Standard时创建。</val>
+		<val>IP池是在安装英华智能云平台 - 标准版时创建。</val>
 	</string>
 	<string>
 		<id>ip_pool_webhost</id>
@@ -29177,7 +29177,7 @@ element</c>
 	<string>
 		<id>keypair_generated_ok_ltxt</id>
 		<c>keys management error message</c>
-		<val>密钥生成成功。请在安全的位置保存该新生成的密钥，以便将来进行恢复。以后您将无法通过Parallels Business Automation - Standard工具看到该密钥，请现在备份。</val>
+		<val>密钥生成成功。请在安全的位置保存该新生成的密钥，以便将来进行恢复。以后您将无法通过英华智能云平台 - 标准版工具看到该密钥，请现在备份。</val>
 	</string>
 	<string>
 		<id>keys</id>
@@ -29626,7 +29626,7 @@ element</c>
 	<string>
 		<id>licence_file_missing_or_corrupted</id>
 		<c>VZtools | Error message</c>
-		<val>许可证文件缺失或损坏。请参阅 Parallels Business Automation - Standard 日志文件了解详细信息。</val>
+		<val>许可证文件缺失或损坏。请参阅 英华智能云平台 - 标准版 日志文件了解详细信息。</val>
 	</string>
 	<string>
 		<id>licence_installing_ltxt</id>
@@ -32719,7 +32719,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>more_about</id>
 		<c>PBAs-root | Front page | Link</c>
-		<val>关于Parallels Business Automation - Standard  的更多信息</val>
+		<val>关于英华智能云平台 - 标准版  的更多信息</val>
 	</string>
 	<string>
 		<id>more_inf</id>
@@ -33203,7 +33203,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>name_of_the_srv_which_hosts_hspc_tools_like_www_yourcompany_com</id>
 		<c>Form field dscription</c>
-		<val>托管Parallels Business Automation - Standard工具的服务器名称，例如www.yourcompany.com</val>
+		<val>托管英华智能云平台 - 标准版工具的服务器名称，例如www.yourcompany.com</val>
 	</string>
 	<string>
 		<id>name_of_your_website_like_www_yourcompany_com</id>
@@ -33697,12 +33697,12 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>new_hspc_plugins</id>
 		<c>up2date event</c>
-		<val>新的Parallels Business Automation - Standard插件可用。</val>
+		<val>新的英华智能云平台 - 标准版插件可用。</val>
 	</string>
 	<string>
 		<id>new_hspc_release</id>
 		<c>up2date event</c>
-		<val>新 Parallels Business Automation - Standard 版本已可用。</val>
+		<val>新 英华智能云平台 - 标准版 版本已可用。</val>
 	</string>
 	<string>
 		<id>new_hw_node</id>
@@ -34200,7 +34200,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>new_version_hspc_av_status</id>
 		<c>status message on the top of default page</c>
-		<val>新的Parallels Business Automation - Standard%version%已可用。%html_code%请在Up2Date页面查看详情。</val>
+		<val>新的英华智能云平台 - 标准版%version%已可用。%html_code%请在Up2Date页面查看详情。</val>
 	</string>
 	<string>
 		<id>new_vps_ip_pool</id>
@@ -34788,7 +34788,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_hspc_license</id>
 		<c>Dashbord links</c>
-		<val>该该应用程序的Parallels Business Automation - Standard许可证已过期、无效或丢失。</val>
+		<val>该该应用程序的英华智能云平台 - 标准版许可证已过期、无效或丢失。</val>
 	</string>
 	<string>
 		<id>no_hw_avail_4platform</id>
@@ -36105,7 +36105,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>ns_by_hspc</id>
 		<c>PCC|DM|Form field</c>
-		<val>名称服务器组由Parallels Business Automation - Standard管理</val>
+		<val>名称服务器组由英华智能云平台 - 标准版管理</val>
 	</string>
 	<string>
 		<id>ns_class_cannot_load</id>
@@ -36145,7 +36145,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>ns_hspc</id>
 		<c>PCC|DM|Form field</c>
-		<val>通过Parallels Business Automation - Standard管理名称服务器</val>
+		<val>通过英华智能云平台 - 标准版管理名称服务器</val>
 	</string>
 	<string>
 		<id>ns_in_set</id>
@@ -37005,12 +37005,12 @@ of decimal places</c>
 	<string>
 		<id>only_active_pc_can_be_registered</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>仅有活动的Plesk客户可以在Parallels Business Automation - Standard中注册。</val>
+		<val>仅有活动的Plesk客户可以在英华智能云平台 - 标准版中注册。</val>
 	</string>
 	<string>
 		<id>only_active_pd_can_be_registered</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>仅有活动的Plesk站点可以在Parallels Business Automation - Standard中注册 。</val>
+		<val>仅有活动的Plesk站点可以在英华智能云平台 - 标准版中注册 。</val>
 	</string>
 	<string>
 		<id>only_allowed_to_manage_box</id>
@@ -38129,7 +38129,7 @@ of decimal places</c>
 	<string>
 		<id>pa_approved_ok_note2_ltxt</id>
 		<c>Business Diriector|Channel Manager|Resellers|Status message</c>
-		<val>代理申请已顺利批准，注意：邮箱是%email% 的用户已存在于Parallels Business Automation - Standard中。将分配新角色，但是密码和个人信息不会变更。</val>
+		<val>代理申请已顺利批准，注意：邮箱是%email% 的用户已存在于英华智能云平台 - 标准版中。将分配新角色，但是密码和个人信息不会变更。</val>
 	</string>
 	<string>
 		<id>pa_cnflct_attribute_absent_in_hp</id>
@@ -39012,7 +39012,7 @@ of decimal places</c>
 	<string>
 		<id>pc_customer_belongs_reseller_cannot_resolve</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk 客户属于分销商账户 (%owner_name%)，不能在 Parallels Business Automation - Standard 中单独注册。首先解决分销商账户。</val>
+		<val>Plesk 客户属于分销商账户 (%owner_name%)，不能在 英华智能云平台 - 标准版 中单独注册。首先解决分销商账户。</val>
 	</string>
 	<string>
 		<id>pc_customers_ve</id>
@@ -39027,7 +39027,7 @@ of decimal places</c>
 	<string>
 		<id>pc_is_not_registered_in_hspc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户未在Parallels Business Automation - Standard中注册。</val>
+		<val>Plesk客户未在英华智能云平台 - 标准版中注册。</val>
 	</string>
 	<string>
 		<id>pc_owning_current_domain</id>
@@ -39037,12 +39037,12 @@ of decimal places</c>
 	<string>
 		<id>pc_owning_pd_registred_in_hspc_already</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户说拥有的Plesk站点已被注册到Parallels Business Automation - Standard。</val>
+		<val>Plesk客户说拥有的Plesk站点已被注册到英华智能云平台 - 标准版。</val>
 	</string>
 	<string>
 		<id>pc_owns_pd_already_registered</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>在Parallels Business Automation - Standard中，选择拥有Plesk站点#%domain_id%的plesk客户</val>
+		<val>在英华智能云平台 - 标准版中，选择拥有Plesk站点#%domain_id%的plesk客户</val>
 	</string>
 	<string>
 		<id>pc_perm_access_appcatalog</id>
@@ -39382,7 +39382,7 @@ of decimal places</c>
 	<string>
 		<id>pc_registred_in_hspc_already</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户已经注册在Parallels Business Automation - Standard。</val>
+		<val>Plesk客户已经注册在英华智能云平台 - 标准版。</val>
 	</string>
 	<string>
 		<id>pc_subscr_already_terminating</id>
@@ -39495,7 +39495,7 @@ of decimal places</c>
 	<string>
 		<id>pd_host_found_and_belongs_to_acc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk站点主机名'%host%'已在Parallels Business Automation - Standard中注册，并属于账户#%acc_id% '%acc_name%'。您只能以该用户身份来创建Plesk站点业务。</val>
+		<val>Plesk站点主机名'%host%'已在英华智能云平台 - 标准版中注册，并属于账户#%acc_id% '%acc_name%'。您只能以该用户身份来创建Plesk站点业务。</val>
 	</string>
 	<string>
 		<id>pd_hosting_type_frame_fwd</id>
@@ -39550,7 +39550,7 @@ of decimal places</c>
 	<string>
 		<id>pd_is_not_registered_in_hspc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk站点未在Parallels Business Automation - Standard中注册。</val>
+		<val>Plesk站点未在英华智能云平台 - 标准版中注册。</val>
 	</string>
 	<string>
 		<id>pd_logrotate_compress</id>
@@ -39740,7 +39740,7 @@ of decimal places</c>
 	<string>
 		<id>pd_registred_in_hspc_already</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk站点已在Parallels Business Automation - Standard中注册。</val>
+		<val>Plesk站点已在英华智能云平台 - 标准版中注册。</val>
 	</string>
 	<string>
 		<id>pd_services_apps</id>
@@ -40263,12 +40263,12 @@ of decimal places</c>
 	<string>
 		<id>pg_doc_explained</id>
 		<c>Documentation page</c>
-		<val>此单据即将提供给主机提供商。它简单描述了主机提供商通过提供商管理中心可以执行的最重要的任务。有关详细信息，请单击Parallels Business Automation - Standard屏幕上方的“帮助”链接以参阅HTML手册。</val>
+		<val>此单据即将提供给主机提供商。它简单描述了主机提供商通过提供商管理中心可以执行的最重要的任务。有关详细信息，请单击英华智能云平台 - 标准版屏幕上方的“帮助”链接以参阅HTML手册。</val>
 	</string>
 	<string>
 		<id>pg_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard提供商指南</val>
+		<val>英华智能云平台 - 标准版提供商指南</val>
 	</string>
 	<string>
 		<id>pg_nav_bar_bg_color</id>
@@ -41150,7 +41150,7 @@ poll payment statuses)</c>
 	<string>
 		<id>powered_by_hspc</id>
 		<c>CP|Visual image alt</c>
-		<val>技术支持的Parallels Business Automation - Standard</val>
+		<val>技术支持的英华智能云平台 - 标准版</val>
 	</string>
 	<string>
 		<id>pp_card_type_required</id>
@@ -41961,7 +41961,7 @@ poll payment statuses)</c>
 	<string>
 		<id>provider_cc_title_uc</id>
 		<c>Web tool Name</c>
-		<val>Parallels Business Automation - Provider Control Center</val>
+		<val>英华智能云平台 - 供应商控制中心</val>
 	</string>
 	<string>
 		<id>provider_cc_uc</id>
@@ -43368,7 +43368,7 @@ poll payment statuses)</c>
 	<string>
 		<id>register_pc_in_hspc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>在Parallels Business Automation - Standard中注册Plesk客户</val>
+		<val>在英华智能云平台 - 标准版中注册Plesk客户</val>
 	</string>
 	<string>
 		<id>register_pd_at_hw</id>
@@ -43378,7 +43378,7 @@ poll payment statuses)</c>
 	<string>
 		<id>register_pd_in_hspc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>在Parallels Business Automation - Standard中注册Plesk站点</val>
+		<val>在英华智能云平台 - 标准版中注册Plesk站点</val>
 	</string>
 	<string>
 		<id>register_sb_node</id>
@@ -43648,7 +43648,7 @@ poll payment statuses)</c>
 	<string>
 		<id>remove_backup_destr_ve_descr</id>
 		<c>PCC | Backups | Problem description</c>
-		<val>容器备份文件属于已损坏容器。您可能需要通过单击“删除”按钮删除此备份，或通过单击“从DB中删除”按钮仅从Parallels Business Automation - Standard数据库(将备份文件留在VPS节点上)中删除该备份相关信息。</val>
+		<val>容器备份文件属于已损坏容器。您可能需要通过单击“删除”按钮删除此备份，或通过单击“从DB中删除”按钮仅从英华智能云平台 - 标准版数据库(将备份文件留在VPS节点上)中删除该备份相关信息。</val>
 	</string>
 	<string>
 		<id>remove_backup_file</id>
@@ -43703,7 +43703,7 @@ poll payment statuses)</c>
 	<string>
 		<id>remove_this_ve_from_db</id>
 		<c>Solution in Conflicts Resolver</c>
-		<val>从Parallels Business Automation - Standard数据库中删除该Container的信息</val>
+		<val>从英华智能云平台 - 标准版数据库中删除该Container的信息</val>
 	</string>
 	<string>
 		<id>removed_pd_uc</id>
@@ -45171,7 +45171,7 @@ poll payment statuses)</c>
 	<string>
 		<id>reseller_added_ok_note_ltxt</id>
 		<c>Business Diriector|Channel Manager|Resellers|Status message</c>
-		<val>成功添加分销商。提示：电子邮件是%email% 的用户已经存在于 Parallels Business Automation - Standard中。分配了新的角色，但是密码和个人信息没有变更。</val>
+		<val>成功添加分销商。提示：电子邮件是%email% 的用户已经存在于 英华智能云平台 - 标准版中。分配了新的角色，但是密码和个人信息没有变更。</val>
 	</string>
 	<string>
 		<id>reseller_already_exists</id>
@@ -45191,7 +45191,7 @@ poll payment statuses)</c>
 	<string>
 		<id>reseller_cc_title_uc</id>
 		<c>Web tool Name</c>
-		<val>Parallels Business Automation - 分销商控制中心</val>
+		<val>英华智能云平台 - 分销商控制中心</val>
 	</string>
 	<string>
 		<id>reseller_cc_uc</id>
@@ -45385,7 +45385,7 @@ poll payment statuses)</c>
 	<string>
 		<id>resellers_hspc_uc</id>
 		<c>Page title</c>
-		<val>分销商 - Parallels Business Automation - Standard</val>
+		<val>分销商 - 英华智能云平台 - 标准版</val>
 	</string>
 	<string>
 		<id>resellers_on_hold_uc</id>
@@ -45954,7 +45954,7 @@ poll payment statuses)</c>
 	<string>
 		<id>rsg_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard分销商向导</val>
+		<val>英华智能云平台 - 标准版分销商向导</val>
 	</string>
 	<string>
 		<id>rt_customer_id</id>
@@ -46004,7 +46004,7 @@ poll payment statuses)</c>
 	<string>
 		<id>run_out_hspc_licenses</id>
 		<c>Dashbord links</c>
-		<val>应用程序超出Parallels Business Automation - Standard许可证限制。</val>
+		<val>应用程序超出英华智能云平台 - 标准版许可证限制。</val>
 	</string>
 	<string>
 		<id>run_script_uc</id>
@@ -47206,7 +47206,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sb_publish_screen_notes</id>
 		<c>SB|Nodes|Config</c>
-		<val>这条信息是Parallels Business Automation - Standard系统为每个Parallels Plesk Sitebuilder节点自动生成的。它将显示在Parallels Plesk Sitebuilder创建站点中的最后一步“发布”界面上。这条消息会告诉客户在何处购买与其Parallels Plesk Sitebuilder站点相容的主机，以便在Internet上真正托管站点。当您编辑和保存文本，或同步Parallels Plesk Sitebuilder节点时，这条信息会被自动分配到Parallels Plesk Sitebuilder节点上。</val>
+		<val>这条信息是英华智能云平台 - 标准版系统为每个Parallels Plesk Sitebuilder节点自动生成的。它将显示在Parallels Plesk Sitebuilder创建站点中的最后一步“发布”界面上。这条消息会告诉客户在何处购买与其Parallels Plesk Sitebuilder站点相容的主机，以便在Internet上真正托管站点。当您编辑和保存文本，或同步Parallels Plesk Sitebuilder节点时，这条信息会被自动分配到Parallels Plesk Sitebuilder节点上。</val>
 	</string>
 	<string>
 		<id>sb_publish_screen_tmpl</id>
@@ -47356,7 +47356,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sb_site_not_found</id>
 		<c>CP|Add Sitebuilder Site||Publish Sitebuilder Site</c>
-		<val>代码为#%sb_sid%的Parallels Plesk Sitebuilder站点尚未在Parallels Business Automation - Standard中注册。</val>
+		<val>代码为#%sb_sid%的Parallels Plesk Sitebuilder站点尚未在英华智能云平台 - 标准版中注册。</val>
 	</string>
 	<string>
 		<id>sb_site_not_trial</id>
@@ -47501,7 +47501,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sb_sync_plan_name</id>
 		<c>Top|Service Director|Sitebuilder Manager|Nodes</c>
-		<val>此方案是名为%plan_name%的Parallels Business Automation - Standard方案的副本。请不要修改或删除此方案。</val>
+		<val>此方案是名为%plan_name%的英华智能云平台 - 标准版方案的副本。请不要修改或删除此方案。</val>
 	</string>
 	<string>
 		<id>sb_sync_plan_ok</id>
@@ -47711,12 +47711,12 @@ poll payment statuses)</c>
 	<string>
 		<id>sbg_doc_explained</id>
 		<c>Documentation page</c>
-		<val>下边的文档是介绍了基于Parallels Business Automation - Standard控制面板，客户可完成的操作。Plesk站点管理的说明不包含在本文档中，请参考另外的文档。</val>
+		<val>下边的文档是介绍了基于英华智能云平台 - 标准版控制面板，客户可完成的操作。Plesk站点管理的说明不包含在本文档中，请参考另外的文档。</val>
 	</string>
 	<string>
 		<id>sbg_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard 订户指南</val>
+		<val>英华智能云平台 - 标准版 订阅者指南</val>
 	</string>
 	<string>
 		<id>sc_account_manager</id>
@@ -47838,7 +47838,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sc_manage_licenses</id>
 		<c>security category name</c>
-		<val>管理Parallels Business Automation - Standard许可证</val>
+		<val>管理英华智能云平台 - 标准版许可证</val>
 	</string>
 	<string>
 		<id>sc_manage_order_processing</id>
@@ -48823,7 +48823,7 @@ poll payment statuses)</c>
 	<string>
 		<id>send_auth_code_failed</id>
 		<c>DM | Send Auth Code failed</c>
-		<val>发送授权代码失败。请参阅 Parallels Business Automation - Standard 日志文件了解更多详细信息。</val>
+		<val>发送授权代码失败。请参阅 英华智能云平台 - 标准版 日志文件了解更多详细信息。</val>
 	</string>
 	<string>
 		<id>send_auth_code_ok</id>
@@ -49906,22 +49906,22 @@ poll payment statuses)</c>
 	<string>
 		<id>skip_assign_dns_host_dom_to_subscr_explained</id>
 		<c>Warning message</c>
-		<val>除非将域名分配给一个主机站点，否则Parallels Business Automation - Standard将无法负责DNS域名解析，设置域名模板等操作。</val>
+		<val>除非将域名分配给一个主机站点，否则英华智能云平台 - 标准版将无法负责DNS域名解析，设置域名模板等操作。</val>
 	</string>
 	<string>
 		<id>skip_assign_dns_host_dom_to_subscr_explained2</id>
 		<c>Warning message</c>
-		<val>本账户目前没有分配任何主机业务。除非注册一个新域名或转移现有域名，否则Parallels Business Automation - Standard无法管理这个域名的DNS解析记录。</val>
+		<val>本账户目前没有分配任何主机业务。除非注册一个新域名或转移现有域名，否则英华智能云平台 - 标准版无法管理这个域名的DNS解析记录。</val>
 	</string>
 	<string>
 		<id>skip_assign_dom_reg_dom_to_subscr_explained</id>
 		<c>Warning message</c>
-		<val>除非注册一个新域名或者将域名完成转移并分配给站点，否则Parallels Business Automation - Standard不能自动管理这个域名的DNS解析记录。</val>
+		<val>除非注册一个新域名或者将域名完成转移并分配给站点，否则英华智能云平台 - 标准版不能自动管理这个域名的DNS解析记录。</val>
 	</string>
 	<string>
 		<id>skip_assign_dom_reg_dom_to_subscr_explained2</id>
 		<c>Warning message</c>
-		<val>本账户目前没有分配任何主机业务。除非注册一个新域名或转移现有域名，否则Parallels Business Automation - Standard无法管理这个域名的DNS解析记录。</val>
+		<val>本账户目前没有分配任何主机业务。除非注册一个新域名或转移现有域名，否则英华智能云平台 - 标准版无法管理这个域名的DNS解析记录。</val>
 	</string>
 	<string>
 		<id>skip_errors</id>
@@ -53681,7 +53681,7 @@ poll payment statuses)</c>
 	<string>
 		<id>switch_to_dnshosting_quest</id>
 		<c>DM|Domain General|Switch domain button question</c>
-		<val>域名解析Zone文件将被创建。Parallels Business Automation - Standard域名解析服务器即将开始处理这些域的解析请求。您确定要将DNS模式从域名跳转切换到子域名解析吗？</val>
+		<val>域名解析Zone文件将被创建。英华智能云平台 - 标准版域名解析服务器即将开始处理这些域的解析请求。您确定要将DNS模式从域名跳转切换到子域名解析吗？</val>
 	</string>
 	<string>
 		<id>switch_to_dpointer</id>
@@ -53691,7 +53691,7 @@ poll payment statuses)</c>
 	<string>
 		<id>switch_to_dpointer_quest</id>
 		<c>DM|Domain General|Switch domain button question</c>
-		<val>域名解析将被删除；Parallels Business Automation - Standard的域名解析将不在对这个域名做解析。您确定要转换将DNS域名解析服务切换到网站跳转吗？</val>
+		<val>域名解析将被删除；英华智能云平台 - 标准版的域名解析将不在对这个域名做解析。您确定要转换将DNS域名解析服务切换到网站跳转吗？</val>
 	</string>
 	<string>
 		<id>switch_uc</id>
@@ -55172,7 +55172,7 @@ poll payment statuses)</c>
 	<string>
 		<id>time_zone_is_not_supported</id>
 		<c>Login screen message</c>
-		<val>Parallels Business Automation - Standard不支持当前系统时区</val>
+		<val>英华智能云平台 - 标准版不支持当前系统时区</val>
 	</string>
 	<string>
 		<id>time_zone_uc</id>
@@ -55252,7 +55252,7 @@ poll payment statuses)</c>
 	<string>
 		<id>tmpl_conf_file_tmpl_missing</id>
 		<c>Application Director:  Error message</c>
-		<val>模板的配置文件丢失或损毁。请参照Parallels Business Automation - Standard日志文件获得更多信息。</val>
+		<val>模板的配置文件丢失或损毁。请参照英华智能云平台 - 标准版日志文件获得更多信息。</val>
 	</string>
 	<string>
 		<id>tmpl_cur_version</id>
@@ -55262,7 +55262,7 @@ poll payment statuses)</c>
 	<string>
 		<id>tmpl_err_failed_create_update_order_gen</id>
 		<c>PCC | VPS Container management | Install Applications | Error message</c>
-		<val>创建更新订单失败。请参照Parallels Business Automation - Standard日志文件获取更多详细信息。</val>
+		<val>创建更新订单失败。请参照英华智能云平台 - 标准版日志文件获取更多详细信息。</val>
 	</string>
 	<string>
 		<id>tmpl_err_inst_ve_state_changed</id>
@@ -55287,7 +55287,7 @@ poll payment statuses)</c>
 	<string>
 		<id>tmpl_howto</id>
 		<c>PCC|Support|Documentation</c>
-		<val>Parallels Business Automation - Standard模板创建指南</val>
+		<val>英华智能云平台 - 标准版模板创建指南</val>
 	</string>
 	<string>
 		<id>tmpl_howto_explained</id>
@@ -55317,12 +55317,12 @@ poll payment statuses)</c>
 	<string>
 		<id>tmpl_isnot_app</id>
 		<c>Application Director:  Warning message</c>
-		<val>您尝试安装的模板不是应用程序模板，您可以继续单击%install%按钮来进行安装或单击%remove%按钮将它从Parallels Business Automation - Standard中删除。如果您选择了前者,那么这个模板将会作为OS模板安装。</val>
+		<val>您尝试安装的模板不是应用程序模板，您可以继续单击%install%按钮来进行安装或单击%remove%按钮将它从英华智能云平台 - 标准版中删除。如果您选择了前者,那么这个模板将会作为OS模板安装。</val>
 	</string>
 	<string>
 		<id>tmpl_isnot_os</id>
 		<c>Application Director:  Warning message</c>
-		<val>您尝试安装的模板不是OS模板。您可以继续单击%install%按钮来进行安装或单击%remove%按钮将它从Parallels Business Automation - Standard中删除。如果您选择了前者,那么这个模板将会作为应用程序模板安装。</val>
+		<val>您尝试安装的模板不是OS模板。您可以继续单击%install%按钮来进行安装或单击%remove%按钮将它从英华智能云平台 - 标准版中删除。如果您选择了前者,那么这个模板将会作为应用程序模板安装。</val>
 	</string>
 	<string>
 		<id>tmpl_new_version</id>
@@ -55347,7 +55347,7 @@ poll payment statuses)</c>
 	<string>
 		<id>tmpl_post_install_failed</id>
 		<c>Application Director | Error message</c>
-		<val>邮箱安装失败。请参考Parallels Business Automation - Standard日志文件获得更多信息。</val>
+		<val>邮箱安装失败。请参考英华智能云平台 - 标准版日志文件获得更多信息。</val>
 	</string>
 	<string>
 		<id>tmpl_shld_4_deinst_from_mn</id>
@@ -55402,7 +55402,7 @@ poll payment statuses)</c>
 	<string>
 		<id>tmplg_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard模板创建指南</val>
+		<val>英华智能云平台 - 标准版模板创建指南</val>
 	</string>
 	<string>
 		<id>tmpls</id>
@@ -55556,7 +55556,7 @@ poll payment statuses)</c>
 	<string>
 		<id>to_order_hspc_license</id>
 		<c>used by License Manager</c>
-		<val>要订购 Parallels Business Automation - Standard 许可证，请继续 <a href="http://%node_url%" target="lic_order"> %node_url%</a>。<br/>此管理节点的硬件 ID 是 %hw_id%</val>
+		<val>要订购 英华智能云平台 - 标准版 许可证，请继续 <a href="http://%node_url%" target="lic_order"> %node_url%</a>。<br/>此管理节点的硬件 ID 是 %hw_id%</val>
 	</string>
 	<string>
 		<id>to_order_vz_license</id>
@@ -56407,7 +56407,7 @@ poll payment statuses)</c>
 	<string>
 		<id>trans_doc_explained</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard Translation翻译指南。该文档通过添加新的语言包提供Parallels Business Automation - Standard Translation界面翻译的指南。该向导专为主机服务提供商管理员而设计。</val>
+		<val>英华智能云平台 - 标准版 翻译指南。该文档通过添加新的语言包提供系统界面翻译的指南。该向导专为主机服务提供商管理员而设计。</val>
 	</string>
 	<string>
 		<id>trans_doc_info_uc</id>
@@ -56417,7 +56417,7 @@ poll payment statuses)</c>
 	<string>
 		<id>trans_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard翻译指南。</val>
+		<val>英华智能云平台 - 标准版翻译指南。</val>
 	</string>
 	<string>
 		<id>trans_dom_info_uc</id>
@@ -56562,7 +56562,7 @@ poll payment statuses)</c>
 	<string>
 		<id>transfer_verify</id>
 		<c>Store text</c>
-		<val>请核实域名确实在您的分销商账户下注册，并可以通过Parallels Business Automation - Standard续费。</val>
+		<val>请核实域名确实在您的分销商账户下注册，并可以通过英华智能云平台 - 标准版续费。</val>
 	</string>
 	<string>
 		<id>transferring</id>
@@ -56731,12 +56731,12 @@ poll payment statuses)</c>
 	<string>
 		<id>ts_is_external_no</id>
 		<c>Support Manager | Settings | General</c>
-		<val>Parallels Business Automation - Standard问题工单</val>
+		<val>英华智能云平台 - 标准版问题工单</val>
 	</string>
 	<string>
 		<id>ts_is_external_no_desc</id>
 		<c>Support Manager | Settings | General</c>
-		<val>使用Parallels Business Automation - Standard内置的问题工单模块。</val>
+		<val>使用英华智能云平台 - 标准版内置的问题工单模块。</val>
 	</string>
 	<string>
 		<id>ts_is_external_yes</id>
@@ -56821,7 +56821,7 @@ poll payment statuses)</c>
 	<string>
 		<id>tts_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard工单系统指南</val>
+		<val>英华智能云平台 - 标准版工单系统指南</val>
 	</string>
 	<string>
 		<id>tts_uc</id>
@@ -56989,7 +56989,7 @@ poll payment statuses)</c>
 	<string>
 		<id>u2d_turnoff_warning</id>
 		<c>PCC|UP|Error Message</c>
-		<val>警告：您将禁用更新服务。一旦这个选项被禁用，Parallels Business Automation - Standard将不能检查重要的软件更新，这可能对系统的稳定性和安全性有危害。您确定您想禁用检查更新。</val>
+		<val>警告：您将禁用更新服务。一旦这个选项被禁用，英华智能云平台 - 标准版将不能检查重要的软件更新，这可能对系统的稳定性和安全性有危害。您确定您想禁用检查更新。</val>
 	</string>
 	<string>
 		<id>u2dc_check_ok</id>
@@ -57335,12 +57335,12 @@ poll payment statuses)</c>
 	<string>
 		<id>unable_to_set_traffic_accounting_rules</id>
 		<c>VZtools | Error message</c>
-		<val>不启用设置传输财务规则。请查看Parallels Business Automation - Standard日志文件获得更多信息。</val>
+		<val>不启用设置传输财务规则。请查看英华智能云平台 - 标准版日志文件获得更多信息。</val>
 	</string>
 	<string>
 		<id>unable_to_set_traffic_rate_rules</id>
 		<c>VZtools | Error message</c>
-		<val>无法设置传输率规则，请查看Parallels Business Automation - Standard日志文件获得更多信息。</val>
+		<val>无法设置传输率规则，请查看英华智能云平台 - 标准版日志文件获得更多信息。</val>
 	</string>
 	<string>
 		<id>unable_to_upload_file</id>
@@ -57450,7 +57450,7 @@ poll payment statuses)</c>
 	<string>
 		<id>unexpected_err_changing_ve_id_please_look_hspc_log</id>
 		<c>VZtools | Error message</c>
-		<val>更改CTID时发生意外错误。有关详细信息，请查看Parallels Business Automation - Standard日志文件。</val>
+		<val>更改CTID时发生意外错误。有关详细信息，请查看英华智能云平台 - 标准版日志文件。</val>
 	</string>
 	<string>
 		<id>unexpected_error</id>
@@ -57789,7 +57789,7 @@ poll payment statuses)</c>
 	<string>
 		<id>up_sm_taskman</id>
 		<c>ServiceMon|Task Manager</c>
-		<val>Parallels Business Automation - Standard任务管理器</val>
+		<val>英华智能云平台 - 标准版任务管理器</val>
 	</string>
 	<string>
 		<id>up_sm_title</id>
@@ -57933,7 +57933,7 @@ poll payment statuses)</c>
 	<string>
 		<id>update_hspc_license_uc</id>
 		<c>Used in license manager</c>
-		<val>更新 Parallels Business Automation - Standard 许可证</val>
+		<val>更新 英华智能云平台 - 标准版 许可证</val>
 	</string>
 	<string>
 		<id>update_lic_from_server</id>
@@ -58618,7 +58618,7 @@ poll payment statuses)</c>
 	<string>
 		<id>use_ip_for_hiding</id>
 		<c>Reseller Hiding|Use existing IP Button text</c>
-		<val>已使用其中一个在Parallels Business Automation - Standard服务器中可用的IP</val>
+		<val>已使用其中一个在英华智能云平台 - 标准版服务器中可用的IP</val>
 	</string>
 	<string>
 		<id>use_manual_passwd</id>
@@ -59029,12 +59029,12 @@ poll payment statuses)</c>
 	<string>
 		<id>usg_doc_explained</id>
 		<c>Documentation page</c>
-		<val>此文档适用于订户的终端用户。它描述了用户在HParallels Business Automation - Standard我的控制面板上可以执行的任务。</val>
+		<val>此文档适用于订户的终端用户。它描述了用户在H英华智能云平台 - 标准版我的控制面板上可以执行的任务。</val>
 	</string>
 	<string>
 		<id>usg_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard用户指南</val>
+		<val>英华智能云平台 - 标准版用户指南</val>
 	</string>
 	<string>
 		<id>using_dflt_domain</id>
@@ -59583,7 +59583,7 @@ poll payment statuses)</c>
 	<string>
 		<id>ve_uses_ip_not_registered</id>
 		<c>IP-related problem in Conflicts Resolver</c>
-		<val>使用该IP地址的容器未在Parallels Business Automation - Standard中注册。</val>
+		<val>使用该IP地址的容器未在英华智能云平台 - 标准版中注册。</val>
 	</string>
 	<string>
 		<id>ve_was_reassigned_ok</id>
@@ -59653,7 +59653,7 @@ poll payment statuses)</c>
 	<string>
 		<id>veid_should_changed_explained</id>
 		<c>VPS Container Resolver message</c>
-		<val>容器 # %ve_id%已存在于Parallels Business Automation - Standard数据库中。若要解决冲突，冲突的容器 %ve_hostname% ID将会在硬件节点上进行更改。请按下“下一步”继续进行操作。</val>
+		<val>容器 # %ve_id%已存在于英华智能云平台 - 标准版数据库中。若要解决冲突，冲突的容器 %ve_hostname% ID将会在硬件节点上进行更改。请按下“下一步”继续进行操作。</val>
 	</string>
 	<string>
 		<id>vem_2hw_sel_not_support</id>
@@ -60212,7 +60212,7 @@ poll payment statuses)</c>
 	<string>
 		<id>warn_applications_out_of_range</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>警告：一些应用程序在所选的主机方案中无法启用。这可能会引起在Parallels Business Automation - Standard里的业务注册或者初始与结果的业务参数不匹配。</val>
+		<val>警告：一些应用程序在所选的主机方案中无法启用。这可能会引起在英华智能云平台 - 标准版里的业务注册或者初始与结果的业务参数不匹配。</val>
 	</string>
 	<string>
 		<id>warn_change_sytem_user</id>
@@ -60257,12 +60257,12 @@ poll payment statuses)</c>
 	<string>
 		<id>warn_os_tmpl_reg_new_node</id>
 		<c>New HW node | warning</c>
-		<val>如果正在注册的节点有比PBAs更新的操作系统模板版本，并且有一些容器基于这些更新版本 -- 它们将无法使用。如果属于此类情况，请取消注册，然后先将这些操作系统模板安装到Parallels Business Automation - Standard中。</val>
+		<val>如果正在注册的节点有比PBAs更新的操作系统模板版本，并且有一些容器基于这些更新版本 -- 它们将无法使用。如果属于此类情况，请取消注册，然后先将这些操作系统模板安装到英华智能云平台 - 标准版中。</val>
 	</string>
 	<string>
 		<id>warn_permissions_out_of_range</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>警告：一些权限和您选择的主机方案的允许范围不一致。这会引起在Parallels Business Automation - Standard注册业务或最初的和结果业务参数不匹配的问题。</val>
+		<val>警告：一些权限和您选择的主机方案的允许范围不一致。这会引起在英华智能云平台 - 标准版注册业务或最初的和结果业务参数不匹配的问题。</val>
 	</string>
 	<string>
 		<id>warn_rack_switch_different_dc</id>
@@ -60272,7 +60272,7 @@ poll payment statuses)</c>
 	<string>
 		<id>warn_resources_out_of_range</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>警告：一些资源与您选择的主机方案允许的范围不符合。这会引起在Parallels Business Automation - Standard里业务注册问题或造成初始和结果参数不匹配。</val>
+		<val>警告：一些资源与您选择的主机方案允许的范围不符合。这会引起在英华智能云平台 - 标准版里业务注册问题或造成初始和结果参数不匹配。</val>
 	</string>
 	<string>
 		<id>warn_servers_assigned_to_rack_differ_dc</id>
@@ -60487,7 +60487,7 @@ poll payment statuses)</c>
 	<string>
 		<id>webcc_down_phrase1</id>
 		<c>WebCC | Download | Text</c>
-		<val>Parallels Business Automation - Standard控制中心(PBA CC)是GCI客户应用程序。它提供对硬件节点和容器的全面管理和控制。</val>
+		<val>英华智能云平台 - 标准版控制中心是GCI客户应用程序。它提供对硬件节点和容器的全面管理和控制。</val>
 		<g>webcc_down</g>
 	</string>
 	<string>
@@ -60499,7 +60499,7 @@ poll payment statuses)</c>
 	<string>
 		<id>webcc_down_phrase6</id>
 		<c>WebCC | Download | Text</c>
-		<val>在命名空间树形结构中打开Parallels Business Automation - Standard IDC位置菜单，并选择新的IDC位置菜单项目。</val>
+		<val>在命名空间树形结构中打开英华智能云平台 - 标准版 IDC位置菜单，并选择新的IDC位置菜单项目。</val>
 		<g>webcc_down</g>
 	</string>
 	<string>
@@ -61352,7 +61352,7 @@ poll payment statuses)</c>
 	<string>
 		<id>welcome_hspc</id>
 		<c>PBAs-root | Front page | Title</c>
-		<val>欢迎使用Parallels Business Automation - Standard</val>
+		<val>欢迎使用英华智能云平台 - 标准版</val>
 	</string>
 	<string>
 		<id>welcome_person_company</id>
@@ -61362,7 +61362,7 @@ poll payment statuses)</c>
 	<string>
 		<id>welcome_to_hspc_initial</id>
 		<c>Initial Setup | Welcome</c>
-		<val>欢迎使用 Parallels Business Automation - Standard  初始安装向导！<p/>Parallels Business Automation - Standard  提供许多有助于主机业务取得成功和盈利的功能。但是，其中存在一些基本的综合设置，这些设置构成 Parallels Business Automation - Standard 提供商控制中心的工作背景。<p/>您可以遵循此分步安装向导配置初始设置。退出此向导之后，在正常工作过程中，可更改其中的任何设置。向导的主要目标是向您介绍 Parallels Business Automation - Standard 的基础结构，同时帮助您立即开始正确地配置提供商控制中心。请单击“下一步”按钮以继续。</val>
+		<val>欢迎使用 英华智能云平台 - 标准版  初始安装向导！<p/>英华智能云平台 - 标准版  提供许多有助于主机业务取得成功和盈利的功能。但是，其中存在一些基本的综合设置，这些设置构成 英华智能云平台 - 标准版 提供商控制中心的工作背景。<p/>您可以遵循此分步安装向导配置初始设置。退出此向导之后，在正常工作过程中，可更改其中的任何设置。向导的主要目标是向您介绍 英华智能云平台 - 标准版 的基础结构，同时帮助您立即开始正确地配置提供商控制中心。请单击“下一步”按钮以继续。</val>
 	</string>
 	<string>
 		<id>what_can_uc</id>
@@ -61377,12 +61377,12 @@ poll payment statuses)</c>
 	<string>
 		<id>whats_new_explained</id>
 		<c>cc | documentation</c>
-		<val>快速查看添加到Parallels Business Automation - Standard 中的新功能。</val>
+		<val>快速查看添加到英华智能云平台 - 标准版 中的新功能。</val>
 	</string>
 	<string>
 		<id>whats_new_in_hspc</id>
 		<c>cc | documentation</c>
-		<val>Parallels Business Automation - Standard 的新功能</val>
+		<val>英华智能云平台 - 标准版 的新功能</val>
 	</string>
 	<string>
 		<id>when_op</id>
@@ -61552,12 +61552,12 @@ poll payment statuses)</c>
 	<string>
 		<id>wnew_doc_explained</id>
 		<c>Documentation page</c>
-		<val>快速查看添加到Parallels Business Automation - Standard 中的新功能。</val>
+		<val>快速查看添加到英华智能云平台 - 标准版 中的新功能。</val>
 	</string>
 	<string>
 		<id>wnew_doc_title</id>
 		<c>Documentation page</c>
-		<val>Parallels Business Automation - Standard 的新功能</val>
+		<val>英华智能云平台 - 标准版 的新功能</val>
 	</string>
 	<string>
 		<id>wp_incorrect_info_entered</id>
@@ -62281,7 +62281,7 @@ poll payment statuses)</c>
 	<string>
 		<id>youve_run_latest_version</id>
 		<c>Up2date manager.</c>
-		<val>您所拥有的Parallels Business Automation - Standard版本为最新版本。</val>
+		<val>您所拥有的英华智能云平台 - 标准版版本为最新版本。</val>
 	</string>
 	<string>
 		<id>zb_order</id>
