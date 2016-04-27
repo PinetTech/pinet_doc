@@ -1133,7 +1133,7 @@
 	<string>
 		<id>ad_err_vza_internal</id>
 		<c>Application management | VZAgent internal error</c>
-		<val>Parallels VPS Containers代理内部错误。有关详细信息，请查看vzagent日志文件。</val>
+		<val>英华VPS虚拟化平台代理内部错误。有关详细信息，请查看vzagent日志文件。</val>
 	</string>
 	<string>
 		<id>ad_forcedown_uc</id>
@@ -1168,12 +1168,12 @@
 	<string>
 		<id>ad_setup_auto_reg_on_sync</id>
 		<c>Application Director | Setup | Option</c>
-		<val>自动注册Parallels VPS Containers OS/应用程序模板</val>
+		<val>自动注册英华VPS虚拟化平台 OS/应用程序模板</val>
 	</string>
 	<string>
 		<id>ad_setup_auto_reg_on_sync_desc</id>
 		<c>Application Director | Setup | Option description</c>
-		<val>当您从硬件节点处获取Parallels VPS Containers OS/应用程序模板时，此选项控制它们的自动注册。如果启用此选项，则所有来自硬件节点的模板都将在英华智能云平台 - 标准版中注册。如果禁用此选项，则只会更新现有模板的同步状态。您可以通过相应的硬件配置屏幕随时开始从硬件节点处获取模板。</val>
+		<val>当您从硬件节点处获取英华VPS虚拟化平台 OS/应用程序模板时，此选项控制它们的自动注册。如果启用此选项，则所有来自硬件节点的模板都将在英华智能云平台 - 标准版中注册。如果禁用此选项，则只会更新现有模板的同步状态。您可以通过相应的硬件配置屏幕随时开始从硬件节点处获取模板。</val>
 	</string>
 	<string>
 		<id>ad_setup_title</id>
@@ -3007,12 +3007,12 @@
 	<string>
 		<id>allow_paid_ves_on_other_hw_nodes_if_listed_ones_are_overcommited_or_unavailable</id>
 		<c>text from Setup page in Infrastructure Manager</c>
-		<val>如果下列的硬件节点已经过载或者不可用，那么允许将Plesk站点创建到其他服务器上。</val>
+		<val>如果下列的硬件节点已经过载或者不可用，那么允许将智能云主机管理站点创建到其他服务器上。</val>
 	</string>
 	<string>
 		<id>allow_paid_virtual_environments_uc</id>
 		<c>text from Setup page in Infrastructure Manager</c>
-		<val>允许非试用的Plesk网站</val>
+		<val>允许非试用的智能云主机管理网站</val>
 	</string>
 	<string>
 		<id>allow_paid_webhosts_on_other_hw_nodes_if_listed_ones_are_overcommited_or_unavailable</id>
@@ -4064,32 +4064,32 @@
 	<string>
 		<id>assign_pc_automatically_to_less_loaded_hwn</id>
 		<c>Form field label</c>
-		<val>自动分配Plesk客户至一个较少负载的硬件节点。</val>
+		<val>自动分配智能云主机管理客户至一个较少负载的硬件节点。</val>
 	</string>
 	<string>
 		<id>assign_pc_manualy_to_hwn</id>
 		<c>Form filed label</c>
-		<val>向硬件节点手动分配Plesk客户</val>
+		<val>向硬件节点手动分配智能云主机管理客户</val>
 	</string>
 	<string>
 		<id>assign_pc_to_subscr</id>
 		<c>webhost conflict resolver</c>
-		<val>向现有订阅分配 plesk 客户端</val>
+		<val>向现有订阅分配 智能云主机管理 客户端</val>
 	</string>
 	<string>
 		<id>assign_pd_automatically_to_less_loaded_hwn</id>
 		<c>Form field label</c>
-		<val>自动分配Plesk网站到负载较低的硬件节点</val>
+		<val>自动分配智能云主机管理网站到负载较低的硬件节点</val>
 	</string>
 	<string>
 		<id>assign_pd_manualy_to_hwn</id>
 		<c>Form filed label</c>
-		<val>向硬件节点手动分配Plesk网站</val>
+		<val>向硬件节点手动分配智能云主机管理网站</val>
 	</string>
 	<string>
 		<id>assign_pd_to_subscr</id>
 		<c>webhost conflict resolver</c>
-		<val>将Plesk网站分配给一个已经存在的业务</val>
+		<val>将智能云主机管理网站分配给一个已经存在的业务</val>
 	</string>
 	<string>
 		<id>assign_roles_uc</id>
@@ -6212,7 +6212,7 @@
 	<string>
 		<id>cannot_add_client_on_webhost</id>
 		<c>BM | webhost</c>
-		<val>无法在Plesk上添加客户：%error%</val>
+		<val>无法在智能云主机管理上添加客户：%error%</val>
 	</string>
 	<string>
 		<id>cannot_add_more_ip_addrs_the_max_num_exceeded</id>
@@ -6377,7 +6377,7 @@
 	<string>
 		<id>cannot_fetch_system_information_from_webhost</id>
 		<c>LM|error</c>
-		<val>无法从Plesk节点获取系统信息</val>
+		<val>无法从智能云主机管理节点获取系统信息</val>
 	</string>
 	<string>
 		<id>cannot_find_any_backup_file_for_ve_id</id>
@@ -6392,12 +6392,12 @@
 	<string>
 		<id>cannot_find_ve_id_private_area_code</id>
 		<c>CC|Backup Action error string</c>
-		<val>无法在数据库中找到Plesk节点#%id%。</val>
+		<val>无法在数据库中找到智能云主机管理节点#%id%。</val>
 	</string>
 	<string>
 		<id>cannot_find_webhost_node_in_db</id>
 		<c>LM|error</c>
-		<val>无法在数据库中找到Plesk节点#%id%或无法连接。</val>
+		<val>无法在数据库中找到智能云主机管理节点#%id%或无法连接。</val>
 	</string>
 	<string>
 		<id>cannot_find_webhost_node_in_db_or_failed_connect</id>
@@ -6417,7 +6417,7 @@
 	<string>
 		<id>cannot_inst_license_on_webhost_ver_lower</id>
 		<c>License manager error message</c>
-		<val>无法在硬件节点#%hw_id% %hostname%上安装Plesk许可。安装在这台服务器上的Plesk软件不支持远程许可安装。请手动在该服务器上安装Plesk许可。</val>
+		<val>无法在硬件节点#%hw_id% %hostname%上安装智能云主机管理许可。安装在这台服务器上的智能云主机管理软件不支持远程许可安装。请手动在该服务器上安装智能云主机管理许可。</val>
 	</string>
 	<string>
 		<id>cannot_install_license_on_the_node</id>
@@ -6556,7 +6556,7 @@
 	<string>
 		<id>cant_add_domain_for_webhost_account</id>
 		<c>BM | webhost</c>
-		<val>无法为Plesk账户添加网站"%hostname%": %error%</val>
+		<val>无法为智能云主机管理账户添加网站"%hostname%": %error%</val>
 	</string>
 	<string>
 		<id>cant_add_domain_to_subscr</id>
@@ -6566,12 +6566,12 @@
 	<string>
 		<id>cant_add_ip_address_to_webhost_client_pool</id>
 		<c>BM | webhost</c>
-		<val>无法在Plesk客户地址池中添加IP地址：%error%</val>
+		<val>无法在智能云主机管理客户地址池中添加IP地址：%error%</val>
 	</string>
 	<string>
 		<id>cant_add_ip_address_to_webhost_server_ip_pool</id>
 		<c>BM | webhost</c>
-		<val>无法在Plesk服务器IP地址池中添加IP地址'%ip%'：%error%</val>
+		<val>无法在智能云主机管理服务器IP地址池中添加IP地址'%ip%'：%error%</val>
 	</string>
 	<string>
 		<id>cant_add_members_into_group</id>
@@ -6681,7 +6681,7 @@
 	<string>
 		<id>cant_connect_to_ps</id>
 		<c>Parallels Server</c>
-		<val>无法连接Plesk节点</val>
+		<val>无法连接智能云主机管理节点</val>
 	</string>
 	<string>
 		<id>cant_connect_to_task_managing_engine</id>
@@ -6891,7 +6891,7 @@
 	<string>
 		<id>cant_delete_rack</id>
 		<c>Rack message</c>
-		<val>无法删除ID为#%pd_id%的Plesk网站'%hostname%：%error%。</val>
+		<val>无法删除ID为#%pd_id%的智能云主机管理网站'%hostname%：%error%。</val>
 	</string>
 	<string>
 		<id>cant_delete_switch</id>
@@ -7001,7 +7001,7 @@
 	<string>
 		<id>cant_find_hw_node_to_provision_or_webhostgate_cant_be_init</id>
 		<c>BM | webhost</c>
-		<val>无法找到要开通的硬件节点，或PleskGate无法初始化</val>
+		<val>无法找到要开通的硬件节点，或智能云主机管理网关无法初始化</val>
 	</string>
 	<string>
 		<id>cant_find_id_of_newly_added_client_in_response_packet</id>
@@ -7110,12 +7110,12 @@
 	<string>
 		<id>cant_find_webhost_gate_for_hw_node</id>
 		<c>BM | webhost</c>
-		<val>无法找到硬件节点#%hw_id%的Plesk网关</val>
+		<val>无法找到硬件节点#%hw_id%的智能云主机管理网关</val>
 	</string>
 	<string>
 		<id>cant_find_webhost_hw_node_or_failed_to_connect_to_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>无法找到Plesk硬件节点，或无法连接到Plesk节点。</val>
+		<val>无法找到智能云主机管理硬件节点，或无法连接到智能云主机管理节点。</val>
 	</string>
 	<string>
 		<id>cant_get_cert_content</id>
@@ -7125,7 +7125,7 @@
 	<string>
 		<id>cant_get_components_list_from_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>无法从Plesk节点获得组件列表：%error%</val>
+		<val>无法从智能云主机管理节点获得组件列表：%error%</val>
 	</string>
 	<string>
 		<id>cant_get_dirlist</id>
@@ -7145,7 +7145,7 @@
 	<string>
 		<id>cant_get_ips_list_from_webhost_server</id>
 		<c>BM | webhost</c>
-		<val>无法从Plesk服务器处获得IP列表</val>
+		<val>无法从智能云主机管理服务器处获得IP列表</val>
 	</string>
 	<string>
 		<id>cant_get_request_content</id>
@@ -7160,7 +7160,7 @@
 	<string>
 		<id>cant_get_webhost_res_usage</id>
 		<c>BM | webhost</c>
-		<val>无法获得plesk res_usage：%error%</val>
+		<val>无法获得虚拟主机 res_usage：%error%</val>
 	</string>
 	<string>
 		<id>cant_hold_prov</id>
@@ -7175,7 +7175,7 @@
 	<string>
 		<id>cant_init_webhost_gate_for_hn_id</id>
 		<c>BM | webhost</c>
-		<val>无法为id #%hw_id%初始化plesk网关！</val>
+		<val>无法为id #%hw_id%初始化智能云主机管理网关！</val>
 	</string>
 	<string>
 		<id>cant_install_license</id>
@@ -7239,12 +7239,12 @@
 	<string>
 		<id>cant_parse_webhost_input1</id>
 		<c>HN webhost message</c>
-		<val>无法分析来自Plesk节点的输入。</val>
+		<val>无法分析来自智能云主机管理节点的输入。</val>
 	</string>
 	<string>
 		<id>cant_parse_webhost_input2</id>
 		<c>HN webhost message</c>
-		<val>无法分析来自Plesk节点的输入。检测到HTML文本而不是XML文本。可能是键入了错误的Plesk代理URL。</val>
+		<val>无法分析来自智能云主机管理节点的输入。检测到HTML文本而不是XML文本。可能是键入了错误的智能云主机管理代理URL。</val>
 	</string>
 	<string>
 		<id>cant_process_payment</id>
@@ -7284,7 +7284,7 @@
 	<string>
 		<id>cant_register_vps_webhost_node</id>
 		<c>OD|Infrastructure Manager|Error message</c>
-		<val>无法注册容器作为Plesk硬件节点：%error%。</val>
+		<val>无法注册容器作为智能云主机管理硬件节点：%error%。</val>
 	</string>
 	<string>
 		<id>cant_release_ip_from_VPS_hn</id>
@@ -7354,17 +7354,17 @@
 	<string>
 		<id>cant_set_settings_of_pdomain_to_webhost</id>
 		<c>BM | webhost</c>
-		<val>无法向Plesk提供网站"%hostname%"设置: %error%</val>
+		<val>无法向智能云主机管理提供网站"%hostname%"设置: %error%</val>
 	</string>
 	<string>
 		<id>cant_set_status_on_webhost_client_with_pc_id</id>
 		<c>BM | webhost</c>
-		<val>无法设置id为#%pc_id%的plesk客户状态！</val>
+		<val>无法设置id为#%pc_id%的智能云主机管理客户状态！</val>
 	</string>
 	<string>
 		<id>cant_set_status_on_webhost_domain_with_pd_id</id>
 		<c>BM | webhost</c>
-		<val>无法设置pd_id为#%pd_id%的plesk网站状态！</val>
+		<val>无法设置pd_id为#%pd_id%的智能云主机管理网站状态！</val>
 	</string>
 	<string>
 		<id>cant_switch_2acc_deleted</id>
@@ -9734,7 +9734,7 @@ once payment will be received</c>
 	<string>
 		<id>could_not_con_to_pl_server</id>
 		<c>Error message appears when webhost server is not accessible.</c>
-		<val>无法连接到Plesk分销商或回复是空的。</val>
+		<val>无法连接到智能云主机管理分销商或回复是空的。</val>
 	</string>
 	<string>
 		<id>could_not_copy_file_error</id>
@@ -9754,12 +9754,12 @@ once payment will be received</c>
 	<string>
 		<id>could_not_delete_pc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>无法删除plesk客户： %error%</val>
+		<val>无法删除智能云主机管理客户： %error%</val>
 	</string>
 	<string>
 		<id>could_not_delete_pd</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>无法删除Plesk网站: %error%</val>
+		<val>无法删除智能云主机管理网站: %error%</val>
 	</string>
 	<string>
 		<id>could_not_delete_temporary_backup_directory</id>
@@ -9874,7 +9874,7 @@ once payment will be received</c>
 	<string>
 		<id>could_not_get_webhost_client_settings_for_</id>
 		<c>BM | webhost</c>
-		<val>无法在硬件节点#%hn_id%上获取#%account_no%的plesk客户设置或是无法创建：%error%</val>
+		<val>无法在硬件节点#%hn_id%上获取#%account_no%的智能云主机管理客户设置或是无法创建：%error%</val>
 	</string>
 	<string>
 		<id>could_not_load_domains_usage</id>
@@ -10843,7 +10843,7 @@ once payment will be received</c>
 	<string>
 		<id>cp_webhost_login_error</id>
 		<c>CP | System | webhost</c>
-		<val>无法登录你的Parallels Panel用之前保存的密码。 <a href="%url%">点击这里</a>重置密码。</val>
+		<val>无法使用之前保存的密码登录系统。 <a href="%url%">点击这里</a>重置密码。</val>
 	</string>
 	<string>
 		<id>cp_webhost_shared_lc</id>
@@ -12774,7 +12774,7 @@ once payment will be received</c>
 	<string>
 		<id>delete_client_from_webhost</id>
 		<c>BM | webhost</c>
-		<val>从Plesk删除客户“%clientname%”</val>
+		<val>从智能云主机管理删除客户“%clientname%”</val>
 	</string>
 	<string>
 		<id>delete_cust</id>
@@ -12784,7 +12784,7 @@ once payment will be received</c>
 	<string>
 		<id>delete_domain_from_webhost</id>
 		<c>BM | webhost</c>
-		<val>从Plesk中删除网站"%hostname%”</val>
+		<val>从智能云主机管理中删除网站"%hostname%”</val>
 	</string>
 	<string>
 		<id>delete_err</id>
@@ -12834,12 +12834,12 @@ once payment will be received</c>
 	<string>
 		<id>delete_pc_from_hn</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>从硬件节点删除plesk客户</val>
+		<val>从硬件节点删除智能云主机管理客户</val>
 	</string>
 	<string>
 		<id>delete_pd_from_hn</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>从硬件节点删除Plesk网站</val>
+		<val>从硬件节点删除智能云主机管理网站</val>
 	</string>
 	<string>
 		<id>delete_queue</id>
@@ -13867,7 +13867,7 @@ once payment will be received</c>
 	<string>
 		<id>dm_dns_records_imported_from_webhost</id>
 		<c>PCC | Domain Manager| DNS Records Suppliers | Error Message</c>
-		<val>该DNS记录从Plesk节点#%node_id%导入</val>
+		<val>该DNS记录从智能云主机管理节点#%node_id%导入</val>
 	</string>
 	<string>
 		<id>dm_dns_records_produced_descr</id>
@@ -15017,12 +15017,12 @@ once payment will be received</c>
 	<string>
 		<id>dm_tmpl_type_regular_vps_uc</id>
 		<c>PCC | Domain Manager| DNS Template</c>
-		<val>Plesk客户</val>
+		<val>智能云主机管理客户</val>
 	</string>
 	<string>
 		<id>dm_tmpl_type_vm_generic</id>
 		<c>DNS template type</c>
-		<val>Plesk网站</val>
+		<val>智能云主机管理网站</val>
 	</string>
 	<string>
 		<id>dm_tmpl_type_webhost_client_uc</id>
@@ -16485,7 +16485,7 @@ once payment will be received</c>
 	<string>
 		<id>domain_was_added_to_webhost_successfully_</id>
 		<c>BM | webhost</c>
-		<val>Plesk站点添加成功 (#%new_plesk_domain_id%. 但主机设置失败: %error%</val>
+		<val>智能云主机管理站点添加成功 (#%new_plesk_domain_id%. 但主机设置失败: %error%</val>
 	</string>
 	<string>
 		<id>domain_was_not_found_for_hostname</id>
@@ -18061,12 +18061,12 @@ string</c>
 	<string>
 		<id>error_cleaning_ip_from_client_ip_pool_on_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>在Plesk节点上从客户IP池中清除IP地址时出错</val>
+		<val>在智能云主机管理节点上从客户IP池中清除IP地址时出错</val>
 	</string>
 	<string>
 		<id>error_cleaning_ip_from_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>从Plesk节点清除IP时出错</val>
+		<val>从智能云主机管理节点清除IP时出错</val>
 	</string>
 	<string>
 		<id>error_code</id>
@@ -18126,7 +18126,7 @@ string</c>
 	<string>
 		<id>error_occured_during_assigning_ip_to_vz_hn</id>
 		<c>BM | webhost</c>
-		<val>为plesk客户分配IP时出错：%error%。</val>
+		<val>为智能云主机管理客户分配IP时出错：%error%。</val>
 	</string>
 	<string>
 		<id>error_occured_during_assigning_ip_to_webhost_client</id>
@@ -18136,22 +18136,22 @@ string</c>
 	<string>
 		<id>error_occured_while_adding_client_on_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>在Plesk节点上添加客户时出错：%error%。</val>
+		<val>在智能云主机管理节点上添加客户时出错：%error%。</val>
 	</string>
 	<string>
 		<id>error_occured_while_deleting_client_from_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>从Plesk节点删除客户时出错：%error%</val>
+		<val>从智能云主机管理节点删除客户时出错：%error%</val>
 	</string>
 	<string>
 		<id>error_occured_while_deleting_domain_from_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>从Plesk节点上删除站点时候出错:%error%</val>
+		<val>从智能云主机管理节点上删除站点时候出错:%error%</val>
 	</string>
 	<string>
 		<id>error_occured_while_fetching_components_list_</id>
 		<c>BM | webhost</c>
-		<val>从Plesk节点上获取组件列表和网络设置时出错：%error%。</val>
+		<val>从智能云主机管理节点上获取组件列表和网络设置时出错：%error%。</val>
 	</string>
 	<string>
 		<id>error_occured_while_saving_client_id_or_hw_id_reference</id>
@@ -18161,32 +18161,32 @@ string</c>
 	<string>
 		<id>error_occured_while_setting_ip_as_shared_</id>
 		<c>Infastructure Manager | Register new webhost in VPS Container</c>
-		<val>在plesk上将IP地址设置为共享时出错：%error%。</val>
+		<val>在智能云主机管理上将IP地址设置为共享时出错：%error%。</val>
 	</string>
 	<string>
 		<id>error_occured_while_setting_ipv6_as_shared_</id>
 		<c>Infastructure Manager | Register new webhost in VPS Container</c>
-		<val>在 plesk 上将默认 IPv6 地址“%ip_address_v6%”设为共享时出现错误：%error%。</val>
+		<val>在 智能云主机管理 上将默认 IPv6 地址“%ip_address_v6%”设为共享时出现错误：%error%。</val>
 	</string>
 	<string>
 		<id>error_occured_while_updating_client_on_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>更新Plesk节点上的客户时出错：%error%</val>
+		<val>更新智能云主机管理节点上的客户时出错：%error%</val>
 	</string>
 	<string>
 		<id>error_occurred_during_pc_subscription_sync</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>plesk客户业务同步期间发生错误：%error%。</val>
+		<val>智能云主机管理客户业务同步期间发生错误：%error%。</val>
 	</string>
 	<string>
 		<id>error_occurred_during_pd_subscription_sync</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk网站业务同步时发生错误: %error%。</val>
+		<val>智能云主机管理网站业务同步时发生错误: %error%。</val>
 	</string>
 	<string>
 		<id>error_occurred_while_getting_data_from_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>从plesk节点上获取数据时出错(错误码=%error_code%)。</val>
+		<val>从智能云主机管理节点上获取数据时出错(错误码=%error_code%)。</val>
 	</string>
 	<string>
 		<id>error_passwd_reset</id>
@@ -18261,12 +18261,12 @@ string</c>
 	<string>
 		<id>error_while_check_pc_existence</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>尝试检查Plesk客户是否存在于硬件节点#%hw_id%上时发生错误：%error%。</val>
+		<val>尝试检查智能云主机管理客户是否存在于硬件节点#%hw_id%上时发生错误：%error%。</val>
 	</string>
 	<string>
 		<id>error_while_check_pd_existence</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>尝试检查Plesk网站是否存在于硬件节点#%hw_id%上时发生错误: %error%。</val>
+		<val>尝试检查智能云主机管理网站是否存在于硬件节点#%hw_id%上时发生错误: %error%。</val>
 	</string>
 	<string>
 		<id>error_while_checking_domains</id>
@@ -18281,12 +18281,12 @@ string</c>
 	<string>
 		<id>error_while_pc_subscription_sync</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>尝试结束Plesk客户业务时发生错误：%error%。</val>
+		<val>尝试结束智能云主机管理客户业务时发生错误：%error%。</val>
 	</string>
 	<string>
 		<id>error_while_pd_subscription_sync</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>尝试结束Plesk网站业务时发生错误：%error%。</val>
+		<val>尝试结束智能云主机管理网站业务时发生错误：%error%。</val>
 	</string>
 	<string>
 		<id>error_while_updating_ve_parameters</id>
@@ -18416,12 +18416,12 @@ string</c>
 	<string>
 		<id>ev_action_operate_pc</id>
 		<c>EV| Action type name</c>
-		<val>Plesk客户业务的操作</val>
+		<val>智能云主机管理客户业务的操作</val>
 	</string>
 	<string>
 		<id>ev_action_operate_pd</id>
 		<c>EV| Action type name</c>
-		<val>Plesk网站业务的操作</val>
+		<val>智能云主机管理网站业务的操作</val>
 	</string>
 	<string>
 		<id>ev_action_operate_subscr</id>
@@ -19656,7 +19656,7 @@ string</c>
 	<string>
 		<id>ev_ph_is_webhost_vps</id>
 		<c>Event manager|Settings|Action setup|Place holder explanation</c>
-		<val>如果容器中已安装 Parallels Plesk，则返回 TRUE</val>
+		<val>如果容器中已安装英华智能云主机管理，则返回 TRUE</val>
 	</string>
 	<string>
 		<id>ev_ph_mn_key_num</id>
@@ -20531,12 +20531,12 @@ string</c>
 	<string>
 		<id>ev_ph_psa_password</id>
 		<c>Event manager | PPP password</c>
-		<val>Parallels Plesk Panel在VPS中的密码</val>
+		<val>英华智能云主机管理面板在VPS中的密码</val>
 	</string>
 	<string>
 		<id>ev_ph_psa_password_chg_url</id>
 		<c>Event manager|Settings|Action setup|Place holder explanation</c>
-		<val>用于更改 plesk 密码的 URL</val>
+		<val>用于更改 智能云主机管理 密码的 URL</val>
 	</string>
 	<string>
 		<id>ev_ph_registrant_email</id>
@@ -22177,7 +22177,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_get_domains_data</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>从硬件节点#%hw_id%获取Plesk客户#%client_id%的站点失败，错误信息为:%error%.</val>
+		<val>从硬件节点#%hw_id%获取智能云主机管理客户#%client_id%的站点失败，错误信息为:%error%.</val>
 	</string>
 	<string>
 		<id>failed_get_ip_address_of_ve</id>
@@ -22197,17 +22197,17 @@ general info|Error message</c>
 	<string>
 		<id>failed_get_pc_data_by_domain</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>从硬件节点#%hw_id%获取拥有plesk网站#%domain_id%的plesk客户信息失败: %error%。</val>
+		<val>从硬件节点#%hw_id%获取拥有智能云主机管理网站#%domain_id%的智能云主机管理客户信息失败: %error%。</val>
 	</string>
 	<string>
 		<id>failed_get_pc_data_from_hn</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>从硬件节点#%hw_id%得到plesk客户的数据#%client_id%失败： %error%。</val>
+		<val>从硬件节点#%hw_id%得到智能云主机管理客户的数据#%client_id%失败： %error%。</val>
 	</string>
 	<string>
 		<id>failed_get_pd_data_from_hn</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>从硬件节点#%hw_id%获取Plesk站点#%domain_id% 失败，错误信息为:%error%.</val>
+		<val>从硬件节点#%hw_id%获取智能云主机管理站点#%domain_id% 失败，错误信息为:%error%.</val>
 	</string>
 	<string>
 		<id>failed_get_pf_usrs_info_from_remote_srvr</id>
@@ -22372,7 +22372,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_to_add_ip_address_to_webhost_server_ippool</id>
 		<c>BM | webhost</c>
-		<val>添加IP地址到Plesk服务器IPPool失败：%error%</val>
+		<val>添加IP地址到智能云主机管理服务器IPPool失败：%error%</val>
 	</string>
 	<string>
 		<id>failed_to_add_mysql_administrative_user</id>
@@ -22457,7 +22457,7 @@ general info|Error message</c>
 	<string>
 		<id>failed_to_create_account_on_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>在Plesk节点上创建账户失败：%error%</val>
+		<val>在智能云主机管理节点上创建账户失败：%error%</val>
 	</string>
 	<string>
 		<id>failed_to_create_temporary_directory</id>
@@ -24817,7 +24817,7 @@ element</c>
 	<string>
 		<id>hn_setup_uninstall_vzpp</id>
 		<c>HN Setup message</c>
-		<val>请从安装此Parallels Plesk服务器的容器中卸载英华智能云控制面板 应用程序(禁用离线管理)。</val>
+		<val>请从安装此英华智能云主机管理服务器的容器中卸载英华智能云控制面板 应用程序(禁用离线管理)。</val>
 	</string>
 	<string>
 		<id>hn_unregistered_ok</id>
@@ -24837,7 +24837,7 @@ element</c>
 	<string>
 		<id>hn_with_webhost_instld</id>
 		<c>Title of webhost HN section on first screen in Add HN wizard</c>
-		<val>与Plesk一同安装的节点</val>
+		<val>与智能云主机管理一同安装的节点</val>
 	</string>
 	<string>
 		<id>hns_hspc_uc</id>
@@ -24852,12 +24852,12 @@ element</c>
 	<string>
 		<id>hold_webhost_client</id>
 		<c>EV| Action name</c>
-		<val>将Plesk站点设置为暂停</val>
+		<val>将智能云主机管理站点设置为暂停</val>
 	</string>
 	<string>
 		<id>hold_webhost_domain</id>
 		<c>EV| Action name</c>
-		<val>将Plesk域设置为暂停</val>
+		<val>将智能云主机管理域设置为暂停</val>
 	</string>
 	<string>
 		<id>holder_uc</id>
@@ -25011,7 +25011,7 @@ element</c>
 	<string>
 		<id>hosting_plans_help</id>
 		<c>Initial Setup | Billing | Hosting Plans</c>
-		<val>您准备提供的服务类型（容器、Plesk 域名、其他等）。<br/>您可以在此处选择要在提供商控制中心中创建的主机方案类型。选中方案类型名称旁边的复选框即可进行选择。此外，您可以为选定的主机方案类型键入新的名称。这些名称将显示在主机方案创建向导的开头部分。您可以在以后更改方案类型名称。</val>
+		<val>您准备提供的服务类型（容器、智能云主机管理 域名、其他等）。<br/>您可以在此处选择要在提供商控制中心中创建的主机方案类型。选中方案类型名称旁边的复选框即可进行选择。此外，您可以为选定的主机方案类型键入新的名称。这些名称将显示在主机方案创建向导的开头部分。您可以在以后更改方案类型名称。</val>
 	</string>
 	<string>
 		<id>hosting_provider</id>
@@ -25221,7 +25221,7 @@ element</c>
 	<string>
 		<id>hp_curr_type_could_be_purchased_by_reseller</id>
 		<c>Store|Message</c>
-		<val>拥有特殊分销商账户的提供商合作伙伴可以购买当前类型的主机方案。如果您不想拥有分销商账户，请联系相关提供商。您设置分销商账户之后，欢迎您返回商店注册“Plesk虚拟节点”主机方案。</val>
+		<val>拥有特殊分销商账户的提供商合作伙伴可以购买当前类型的主机方案。如果您不想拥有分销商账户，请联系相关提供商。您设置分销商账户之后，欢迎您返回商店注册“智能云主机管理虚拟节点”主机方案。</val>
 	</string>
 	<string>
 		<id>hp_details_uc</id>
@@ -25360,7 +25360,7 @@ element</c>
 	<string>
 		<id>hp_spec_type_could_be_purchased_by_reseller</id>
 		<c>Store|Message</c>
-		<val>拥有特殊分销商账户的提供商合作伙伴可以购买'%type_name%'类型的主机方案。如果您不想拥有分销商账户，请联系相关提供商。您设置分销商账户之后，欢迎您返回商店注册“Plesk虚拟节点”主机方案。</val>
+		<val>拥有特殊分销商账户的提供商合作伙伴可以购买'%type_name%'类型的主机方案。如果您不想拥有分销商账户，请联系相关提供商。您设置分销商账户之后，欢迎您返回商店注册“智能云主机管理虚拟节点”主机方案。</val>
 	</string>
 	<string>
 		<id>hp_ssl_no_products_available</id>
@@ -25756,7 +25756,7 @@ element</c>
 	<string>
 		<id>hspc_mt_billing_order_sb_site_uc</id>
 		<c>Class type name</c>
-		<val>创建SiteBuilder站点的订单</val>
+		<val>创建建站助手站点的订单</val>
 	</string>
 	<string>
 		<id>hspc_mt_billing_order_ssl_uc</id>
@@ -25771,7 +25771,7 @@ element</c>
 	<string>
 		<id>hspc_mt_billing_order_ve_uc</id>
 		<c>Class name</c>
-		<val>Plesk虚拟节点主机订单</val>
+		<val>智能云主机管理虚拟节点主机订单</val>
 	</string>
 	<string>
 		<id>hspc_mt_billing_order_ve_webhostserver_uc</id>
@@ -25816,7 +25816,7 @@ element</c>
 	<string>
 		<id>hspc_mt_billing_subscr_ve_webhostserver_uc</id>
 		<c>Class type name</c>
-		<val>Plesk虚拟节点业务</val>
+		<val>智能云主机管理虚拟节点业务</val>
 	</string>
 	<string>
 		<id>hspc_mt_billing_subscription_base_uc</id>
@@ -25881,7 +25881,7 @@ element</c>
 	<string>
 		<id>hspc_mt_bm_hp_hw_webhost_uc</id>
 		<c>HSPC::MT::BM::HP object name</c>
-		<val>Plesk独立节点主机方案</val>
+		<val>智能云主机管理独立节点主机方案</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_hp_misc_uc</id>
@@ -25901,47 +25901,47 @@ element</c>
 	<string>
 		<id>hspc_mt_bm_hp_ve_webhost_uc</id>
 		<c>HSPC::MT::BM::HP object name</c>
-		<val>Plesk虚拟节点主机方案</val>
+		<val>智能云主机管理虚拟节点主机方案</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_hp_webhost_client_uc</id>
 		<c>HSPC::MT::BM::HP object name</c>
-		<val>Plesk客户主机方案</val>
+		<val>智能云主机管理客户主机方案</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_hp_webhost_shared_uc</id>
 		<c>HSPC::MT::BM::HP object name</c>
-		<val>Plesk网站主机方案</val>
+		<val>智能云主机管理网站主机方案</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_order_webhostclient_uc</id>
 		<c>Class name</c>
-		<val>Plesk客户主机订单</val>
+		<val>智能云主机管理客户主机订单</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_order_webhostdomain_uc</id>
 		<c>Class name</c>
-		<val>Plesk站点的订单</val>
+		<val>智能云主机管理站点的订单</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_order_webhostserver_uc</id>
 		<c>Class name</c>
-		<val>Plesk独立节点主机订单</val>
+		<val>智能云主机管理独立节点主机订单</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_subscription_webhostclientsubscription_uc</id>
 		<c>Class type name</c>
-		<val>Plesk客户业务</val>
+		<val>智能云主机管理客户业务</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_subscription_webhostdomainsubscription_uc</id>
 		<c>Class type name</c>
-		<val>Plesk网站业务</val>
+		<val>智能云主机管理网站业务</val>
 	</string>
 	<string>
 		<id>hspc_mt_bm_subscription_webhostserversubscription_uc</id>
 		<c>Class type name</c>
-		<val>Plesk独立节点业务</val>
+		<val>智能云主机管理独立节点业务</val>
 	</string>
 	<string>
 		<id>hspc_mt_ccp_translog_uc</id>
@@ -26041,7 +26041,7 @@ element</c>
 	<string>
 		<id>hspc_mt_lm_webhost_uc</id>
 		<c>Class type name</c>
-		<val>Plesk许可证</val>
+		<val>智能云主机管理许可证</val>
 	</string>
 	<string>
 		<id>hspc_mt_mg_server_uc</id>
@@ -26544,7 +26544,7 @@ element</c>
 	<string>
 		<id>hwnode_with_vz</id>
 		<c>New HW node</c>
-		<val>与Parallels VPS Containers一同安装的节点</val>
+		<val>与英华VPS虚拟化平台一同安装的节点</val>
 	</string>
 	<string>
 		<id>i_accept_all_the_terms</id>
@@ -26688,7 +26688,7 @@ element</c>
 	<string>
 		<id>im_alloc_type_webhost_title</id>
 		<c>IM | IP pool setup | Form field title</c>
-		<val>Plesk客户和站点使用的IP地址</val>
+		<val>智能云主机管理客户和站点使用的IP地址</val>
 	</string>
 	<string>
 		<id>im_confirm_release_ip</id>
@@ -26954,7 +26954,7 @@ element</c>
 	<string>
 		<id>import_schema_error</id>
 		<c>Import-Export Manager | Import</c>
-		<val>从Plesk节点导入PRT记录</val>
+		<val>从智能云主机管理节点导入PRT记录</val>
 	</string>
 	<string>
 		<id>import_subscr_obsolete</id>
@@ -27466,7 +27466,7 @@ element</c>
 	<string>
 		<id>install_ssl_cert</id>
 		<c>CP|Secure Website string</c>
-		<val>安装Parallels Plesk Control Panel许可证</val>
+		<val>安装英华智能云主机管理控制面板许可证</val>
 	</string>
 	<string>
 		<id>install_ssl_cert_resieved</id>
@@ -27481,7 +27481,7 @@ element</c>
 	<string>
 		<id>install_webhost_lic</id>
 		<c>System Director | License Manager</c>
-		<val>安装Parallels VPS Containers许可证</val>
+		<val>安装英华VPS虚拟化平台许可证</val>
 	</string>
 	<string>
 		<id>installation_new_cert</id>
@@ -28552,7 +28552,7 @@ element</c>
 	<string>
 		<id>ip_on_client_but_cant_be_leased</id>
 		<c>BM | webhost</c>
-		<val>Plesk客户端中找到IP地址%ip_addr%，但无法在PBAs中租借它。请确保此IP属于Plesk的IP池，且其他系统无法租借。</val>
+		<val>智能云主机管理客户端中找到IP地址%ip_addr%，但无法在PBAs中租借它。请确保此IP属于智能云主机管理的IP池，且其他系统无法租借。</val>
 	</string>
 	<string>
 		<id>ip_pool</id>
@@ -28632,12 +28632,12 @@ element</c>
 	<string>
 		<id>ip_pool_webhost</id>
 		<c>Initial Setup | Data Center</c>
-		<val>Plesk网站服务所使用的IP地址</val>
+		<val>智能云主机管理网站服务所使用的IP地址</val>
 	</string>
 	<string>
 		<id>ip_pool_webhost_help</id>
 		<c>Initial Setup | Data Center | IP Pool for webhost Domain Hosting</c>
-		<val>请输入分配给Plesk站点的IP地址池参数</val>
+		<val>请输入分配给智能云主机管理站点的IP地址池参数</val>
 	</string>
 	<string>
 		<id>ip_pools_uc</id>
@@ -28789,7 +28789,7 @@ element</c>
 	<string>
 		<id>ipv6_used_cannot_delete</id>
 		<c>OM|webhost Node|Edit</c>
-		<val>IPv6 地址“%ip%”已在以下 Plesk 域名中使用：%domains%。请首先重新配置这些域。</val>
+		<val>IPv6 地址“%ip%”已在以下 智能云主机管理 域名中使用：%domains%。请首先重新配置这些域。</val>
 	</string>
 	<string>
 		<id>is_auto_update_allowed</id>
@@ -29651,7 +29651,7 @@ element</c>
 	<string>
 		<id>license_data_for_webhost_not_found</id>
 		<c>LM|error</c>
-		<val>未找到 plesk 节点 #%id% 的许可证数据</val>
+		<val>未找到 智能云主机管理 节点 #%id% 的许可证数据</val>
 	</string>
 	<string>
 		<id>license_details_uc</id>
@@ -29755,7 +29755,7 @@ element</c>
 	<string>
 		<id>licensed_webhost_domains</id>
 		<c>System Director | License Manager | webhost licenses</c>
-		<val>许可的 Plesk 域名</val>
+		<val>许可的 智能云主机管理 域名</val>
 	</string>
 	<string>
 		<id>licinfo_upd_cancel</id>
@@ -30080,7 +30080,7 @@ element</c>
 	<string>
 		<id>lm_webhost_valid_for_vz</id>
 		<c>Configuration Director|License Manager|webhost Licenses</c>
-		<val>仅对的Parallels VPS集装箱</val>
+		<val>仅对英华VPS虚拟化平台有效</val>
 	</string>
 	<string>
 		<id>lmwebhost_new_lic_uc</id>
@@ -30309,7 +30309,7 @@ element</c>
 	<string>
 		<id>login_to_poa_admin_cp</id>
 		<c>POA manager</c>
-		<val>登录Parallels Plesk Control Panel</val>
+		<val>登录智能云主机管理控制面板</val>
 	</string>
 	<string>
 		<id>login_to_poa_cp</id>
@@ -33921,12 +33921,12 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>new_pd_create_subdomain</id>
 		<c>PCC|SD|PM|Domains|Add new webhost domain</c>
-		<val>使用子域名或者已经注册过的域名创建Plesk站点</val>
+		<val>使用子域名或者已经注册过的域名创建智能云主机管理站点</val>
 	</string>
 	<string>
 		<id>new_pd_has_existing_name</id>
 		<c>Add webhost domain, Error message</c>
-		<val>无法创建Plesk站点。节点#%hw_id%上有同名的Plesk站点</val>
+		<val>无法创建智能云主机管理站点。节点#%hw_id%上有同名的智能云主机管理站点</val>
 	</string>
 	<string>
 		<id>new_pd_has_no_domain</id>
@@ -34081,7 +34081,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>new_sb_plan</id>
 		<c>SB|Plans</c>
-		<val>新的Parallels的虚拟主机建站计划</val>
+		<val>新建英华虚拟主机建站计划</val>
 	</string>
 	<string>
 		<id>new_settings</id>
@@ -34649,7 +34649,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_domains_were_found_at_hn</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>当前选中的Plesk客户在硬件节点上没有拥有任何站点</val>
+		<val>当前选中的智能云主机管理客户在硬件节点上没有拥有任何站点</val>
 	</string>
 	<string>
 		<id>no_domreg_hp</id>
@@ -34728,7 +34728,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>no_free_ips_found_for_webhost</id>
 		<c>BM | webhost</c>
-		<val>未找到可用于Plesk的空闲IP</val>
+		<val>未找到可用于智能云主机管理的空闲IP</val>
 	</string>
 	<string>
 		<id>no_frontpage_users_found</id>
@@ -35555,7 +35555,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>none_on_webhost</id>
 		<c>Conflict message in list</c>
-		<val>Plesk上缺失的</val>
+		<val>智能云主机管理上缺失的</val>
 	</string>
 	<string>
 		<id>nonovd_uc</id>
@@ -35834,7 +35834,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>not_registered_pd_uc</id>
 		<c>webhost conflict: webhost domain not registered in PBAs</c>
-		<val>Plesk站点未注册。</val>
+		<val>智能云主机管理站点未注册。</val>
 	</string>
 	<string>
 		<id>not_registered_ve</id>
@@ -36430,7 +36430,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>num_customers_with_domains_were_found_at_hn</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>已找到 %cust_count% 名客户以及属于选定 Plesk 客户端的 %cust_dom_count% 域名。</val>
+		<val>已找到 %cust_count% 名客户以及属于选定 智能云主机管理 客户端的 %cust_dom_count% 域名。</val>
 	</string>
 	<string>
 		<id>num_databases_found</id>
@@ -36440,7 +36440,7 @@ Manager|Accounts|Account|Contacts|Edit|Part of error message</c>
 	<string>
 		<id>num_domains_were_found_at_hn</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>当前选中的Plesk客户在硬件节点上拥有%num%个站点</val>
+		<val>当前选中的智能云主机管理客户在硬件节点上拥有%num%个站点</val>
 	</string>
 	<string>
 		<id>num_doms_scheduled_for_op</id>
@@ -36773,12 +36773,12 @@ of decimal places</c>
 	<string>
 		<id>offline_pc_uc</id>
 		<c>Dashboard items</c>
-		<val>离线Plesk客户</val>
+		<val>离线智能云主机管理客户</val>
 	</string>
 	<string>
 		<id>offline_pd_uc</id>
 		<c>Dashboard items</c>
-		<val>离线的Plesk网站</val>
+		<val>离线的智能云主机管理网站</val>
 	</string>
 	<string>
 		<id>offline_pmnt_descr</id>
@@ -36937,12 +36937,12 @@ of decimal places</c>
 	<string>
 		<id>onhold_pc_uc</id>
 		<c>Dashboard items</c>
-		<val>Plesk客户暂停</val>
+		<val>智能云主机管理客户暂停</val>
 	</string>
 	<string>
 		<id>onhold_pd_uc</id>
 		<c>Dashboard items</c>
-		<val>Plesk站点暂停</val>
+		<val>智能云主机管理站点暂停</val>
 	</string>
 	<string>
 		<id>onhold_uc</id>
@@ -37005,12 +37005,12 @@ of decimal places</c>
 	<string>
 		<id>only_active_pc_can_be_registered</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>仅有活动的Plesk客户可以在英华智能云平台 - 标准版中注册。</val>
+		<val>仅有活动的智能云主机管理客户可以在英华智能云平台 - 标准版中注册。</val>
 	</string>
 	<string>
 		<id>only_active_pd_can_be_registered</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>仅有活动的Plesk站点可以在英华智能云平台 - 标准版中注册 。</val>
+		<val>仅有活动的智能云主机管理站点可以在英华智能云平台 - 标准版中注册 。</val>
 	</string>
 	<string>
 		<id>only_allowed_to_manage_box</id>
@@ -37059,7 +37059,7 @@ of decimal places</c>
 	<string>
 		<id>only_valid_hspc_tmpls_could_be_installed_ltxt</id>
 		<c>Application Director:  Note</c>
-		<val>仅可以安装有效的Parallels VPS Containers for Linux (.rpm)或Parallels VPS Containers for Windows (.efd)模板。由软件服务商提供的原始RPM不能作为模板安装。</val>
+		<val>仅可以安装有效的英华VPS虚拟化平台 for Linux (.rpm)或英华VPS虚拟化平台 for Windows (.efd)模板。由软件服务商提供的原始RPM不能作为模板安装。</val>
 	</string>
 	<string>
 		<id>onlyone_category</id>
@@ -37380,12 +37380,12 @@ of decimal places</c>
 	<string>
 		<id>order_create_pc_desc</id>
 		<c>Order description on create webhost Client</c>
-		<val>创建Plesk客户订单。</val>
+		<val>创建智能云主机管理客户订单。</val>
 	</string>
 	<string>
 		<id>order_create_pd_desc</id>
 		<c>Order description on create webhost Domain</c>
-		<val>创建Plesk站点的订单。</val>
+		<val>创建智能云主机管理站点的订单。</val>
 	</string>
 	<string>
 		<id>order_create_poa_desc</id>
@@ -37395,7 +37395,7 @@ of decimal places</c>
 	<string>
 		<id>order_create_ps_desc</id>
 		<c>Order description on create webhost server</c>
-		<val>创建Plesk服务器订单。</val>
+		<val>创建智能云主机管理服务器订单。</val>
 	</string>
 	<string>
 		<id>order_create_ssl_desc</id>
@@ -37440,12 +37440,12 @@ of decimal places</c>
 	<string>
 		<id>order_for_pc_saved_ok</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户业务订单已成功保存</val>
+		<val>智能云主机管理客户业务订单已成功保存</val>
 	</string>
 	<string>
 		<id>order_for_pd_saved_ok</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk站点的业务订单已保存成功</val>
+		<val>智能云主机管理站点的业务订单已保存成功</val>
 	</string>
 	<string>
 		<id>order_generated_ok</id>
@@ -37460,7 +37460,7 @@ of decimal places</c>
 	<string>
 		<id>order_import_pc_desc</id>
 		<c>Order description on import of webhost Client</c>
-		<val>导入Plesk客户的订单。</val>
+		<val>导入智能云主机管理客户的订单。</val>
 	</string>
 	<string>
 		<id>order_is_busy</id>
@@ -37654,12 +37654,12 @@ of decimal places</c>
 	<string>
 		<id>order_update_pc_desc</id>
 		<c>Order description on update webhost Client parameters</c>
-		<val>更新Plesk客户参数订单。</val>
+		<val>更新智能云主机管理客户参数订单。</val>
 	</string>
 	<string>
 		<id>order_update_pd_desc</id>
 		<c>Order description on update webhost Domain parameters</c>
-		<val>创建现有Plesk站点参数的订单。</val>
+		<val>创建现有智能云主机管理站点参数的订单。</val>
 	</string>
 	<string>
 		<id>order_update_poa_desc</id>
@@ -37669,7 +37669,7 @@ of decimal places</c>
 	<string>
 		<id>order_update_ps_desc</id>
 		<c>Order description on update webhost server parameters</c>
-		<val>更新Plesk服务器参数订单。</val>
+		<val>更新智能云主机管理服务器参数订单。</val>
 	</string>
 	<string>
 		<id>order_update_vm_desc</id>
@@ -38332,7 +38332,7 @@ of decimal places</c>
 	<string>
 		<id>paid_virtual_environments_can_be_created_on</id>
 		<c>text from Setup page in Infrastructure Manager</c>
-		<val>非试用的Plesk站点可被创建在</val>
+		<val>非试用的智能云主机管理站点可被创建在</val>
 	</string>
 	<string>
 		<id>paid_webhosts_can_be_created_on</id>
@@ -39002,47 +39002,47 @@ of decimal places</c>
 	<string>
 		<id>pc_client_id</id>
 		<c>Column name in Infr.Manager-webhost Clients</c>
-		<val>Plesk客户ID</val>
+		<val>智能云主机管理客户ID</val>
 	</string>
 	<string>
 		<id>pc_clients_ve</id>
 		<c>Title in Infr. Manager</c>
-		<val>Plesk客户</val>
+		<val>智能云主机管理客户</val>
 	</string>
 	<string>
 		<id>pc_customer_belongs_reseller_cannot_resolve</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk 客户属于分销商账户 (%owner_name%)，不能在 英华智能云平台 - 标准版 中单独注册。首先解决分销商账户。</val>
+		<val>智能云主机管理 客户属于分销商账户 (%owner_name%)，不能在 英华智能云平台 - 标准版 中单独注册。首先解决分销商账户。</val>
 	</string>
 	<string>
 		<id>pc_customers_ve</id>
 		<c>Title in Infr. Manager</c>
-		<val>Plesk 客户</val>
+		<val>智能云主机管理 客户</val>
 	</string>
 	<string>
 		<id>pc_is_not_registered_hw</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户没被注册在硬件节点。</val>
+		<val>智能云主机管理客户没被注册在硬件节点。</val>
 	</string>
 	<string>
 		<id>pc_is_not_registered_in_hspc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户未在英华智能云平台 - 标准版中注册。</val>
+		<val>智能云主机管理客户未在英华智能云平台 - 标准版中注册。</val>
 	</string>
 	<string>
 		<id>pc_owning_current_domain</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户拥有当前站点</val>
+		<val>智能云主机管理客户拥有当前站点</val>
 	</string>
 	<string>
 		<id>pc_owning_pd_registred_in_hspc_already</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户说拥有的Plesk站点已被注册到英华智能云平台 - 标准版。</val>
+		<val>智能云主机管理客户说拥有的智能云主机管理站点已被注册到英华智能云平台 - 标准版。</val>
 	</string>
 	<string>
 		<id>pc_owns_pd_already_registered</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>在英华智能云平台 - 标准版中，选择拥有Plesk站点#%domain_id%的plesk客户</val>
+		<val>在英华智能云平台 - 标准版中，选择拥有智能云主机管理站点#%domain_id%的智能云主机管理客户</val>
 	</string>
 	<string>
 		<id>pc_perm_access_appcatalog</id>
@@ -39377,37 +39377,37 @@ of decimal places</c>
 	<string>
 		<id>pc_registered_already</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户已经被注册在硬件节点上。</val>
+		<val>智能云主机管理客户已经被注册在硬件节点上。</val>
 	</string>
 	<string>
 		<id>pc_registred_in_hspc_already</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户已经注册在英华智能云平台 - 标准版。</val>
+		<val>智能云主机管理客户已经注册在英华智能云平台 - 标准版。</val>
 	</string>
 	<string>
 		<id>pc_subscr_already_terminating</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户业务#%subscr_id%已在终止队列中。</val>
+		<val>智能云主机管理客户业务#%subscr_id%已在终止队列中。</val>
 	</string>
 	<string>
 		<id>pc_subscr_already_terminating</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户业务#%subscr_id%已在终止队列中。</val>
+		<val>智能云主机管理客户业务#%subscr_id%已在终止队列中。</val>
 	</string>
 	<string>
 		<id>pc_subscr_already_terminating</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户业务#%subscr_id%已在终止队列中。</val>
+		<val>智能云主机管理客户业务#%subscr_id%已在终止队列中。</val>
 	</string>
 	<string>
 		<id>pc_subscription_not_found</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>对应的plesk客户业务没找到。</val>
+		<val>对应的智能云主机管理客户业务没找到。</val>
 	</string>
 	<string>
 		<id>pc_was_not_found</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk客户#%client_id% 没有找到</val>
+		<val>智能云主机管理客户#%client_id% 没有找到</val>
 	</string>
 	<string>
 		<id>pc_webhost_clients</id>
@@ -39495,7 +39495,7 @@ of decimal places</c>
 	<string>
 		<id>pd_host_found_and_belongs_to_acc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk站点主机名'%host%'已在英华智能云平台 - 标准版中注册，并属于账户#%acc_id% '%acc_name%'。您只能以该用户身份来创建Plesk站点业务。</val>
+		<val>智能云主机管理站点主机名'%host%'已在英华智能云平台 - 标准版中注册，并属于账户#%acc_id% '%acc_name%'。您只能以该用户身份来创建智能云主机管理站点业务。</val>
 	</string>
 	<string>
 		<id>pd_hosting_type_frame_fwd</id>
@@ -39545,12 +39545,12 @@ of decimal places</c>
 	<string>
 		<id>pd_is_not_registered_hw</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk站点没有在硬件节点上注册。</val>
+		<val>智能云主机管理站点没有在硬件节点上注册。</val>
 	</string>
 	<string>
 		<id>pd_is_not_registered_in_hspc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk站点未在英华智能云平台 - 标准版中注册。</val>
+		<val>智能云主机管理站点未在英华智能云平台 - 标准版中注册。</val>
 	</string>
 	<string>
 		<id>pd_logrotate_compress</id>
@@ -39625,12 +39625,12 @@ of decimal places</c>
 	<string>
 		<id>pd_pdomain_ve</id>
 		<c>Title in Infr.Manager-&gt;webhost Domain section</c>
-		<val>Plesk站点</val>
+		<val>智能云主机管理站点</val>
 	</string>
 	<string>
 		<id>pd_pdomains_ve</id>
 		<c>Title in Infr.Manager-&gt;webhost Domain section</c>
-		<val>Plesk站点</val>
+		<val>智能云主机管理站点</val>
 	</string>
 	<string>
 		<id>pd_permissions</id>
@@ -39735,12 +39735,12 @@ of decimal places</c>
 	<string>
 		<id>pd_registered_already</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk站点已经在硬件节点上注册。</val>
+		<val>智能云主机管理站点已经在硬件节点上注册。</val>
 	</string>
 	<string>
 		<id>pd_registred_in_hspc_already</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk站点已在英华智能云平台 - 标准版中注册。</val>
+		<val>智能云主机管理站点已在英华智能云平台 - 标准版中注册。</val>
 	</string>
 	<string>
 		<id>pd_services_apps</id>
@@ -39793,7 +39793,7 @@ of decimal places</c>
 	<string>
 		<id>pd_was_not_found</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>Plesk站点#%domain_id%没有找到。</val>
+		<val>智能云主机管理站点#%domain_id%没有找到。</val>
 	</string>
 	<string>
 		<id>pd_webmail_atmail</id>
@@ -40241,7 +40241,7 @@ of decimal places</c>
 	<string>
 		<id>pg_bad_xml</id>
 		<c>webhost communication error message</c>
-		<val>从plesk节点收到的XML数据包无效</val>
+		<val>从智能云主机管理节点收到的XML数据包无效</val>
 	</string>
 	<string>
 		<id>pg_bg_color</id>
@@ -43363,22 +43363,22 @@ poll payment statuses)</c>
 	<string>
 		<id>register_pc_at_hw</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>在硬件节点上注册plesk客户</val>
+		<val>在硬件节点上注册智能云主机管理客户</val>
 	</string>
 	<string>
 		<id>register_pc_in_hspc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>在英华智能云平台 - 标准版中注册Plesk客户</val>
+		<val>在英华智能云平台 - 标准版中注册智能云主机管理客户</val>
 	</string>
 	<string>
 		<id>register_pd_at_hw</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>注册plesk硬件节点</val>
+		<val>注册智能云主机管理硬件节点</val>
 	</string>
 	<string>
 		<id>register_pd_in_hspc</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>在英华智能云平台 - 标准版中注册Plesk站点</val>
+		<val>在英华智能云平台 - 标准版中注册智能云主机管理站点</val>
 	</string>
 	<string>
 		<id>register_sb_node</id>
@@ -43423,7 +43423,7 @@ poll payment statuses)</c>
 	<string>
 		<id>register_webhost_node</id>
 		<c>OD|Infrastructure Manager|Error message</c>
-		<val>注册plesk硬件节点</val>
+		<val>注册智能云主机管理硬件节点</val>
 	</string>
 	<string>
 		<id>registered</id>
@@ -43458,7 +43458,7 @@ poll payment statuses)</c>
 	<string>
 		<id>registering_webhost_server_in</id>
 		<c>VPS Container status</c>
-		<val>正在注册Plesk服务器</val>
+		<val>正在注册智能云主机管理服务器</val>
 	</string>
 	<string>
 		<id>registrant_contact_uc</id>
@@ -43708,7 +43708,7 @@ poll payment statuses)</c>
 	<string>
 		<id>removed_pd_uc</id>
 		<c>webhost conflict: webhost domain exists in PBAs but absent in webhost</c>
-		<val>删除Plesk站点</val>
+		<val>删除智能云主机管理站点</val>
 	</string>
 	<string>
 		<id>removed_ve_uc</id>
@@ -44663,7 +44663,7 @@ poll payment statuses)</c>
 	<string>
 		<id>res_pc_maxsbsites_name</id>
 		<c>webhost resource name</c>
-		<val>使用 SiteBuilder 发布的站点的数量</val>
+		<val>使用建站助手发布的站点的数量</val>
 	</string>
 	<string>
 		<id>res_pc_maxtraf_name</id>
@@ -44833,7 +44833,7 @@ poll payment statuses)</c>
 	<string>
 		<id>res_pd_maxsbsites_name</id>
 		<c>webhost resource name</c>
-		<val>使用 SiteBuilder 发布的站点的数量</val>
+		<val>使用建站助手发布的站点的数量</val>
 	</string>
 	<string>
 		<id>res_pd_maxtraf_name</id>
@@ -45122,7 +45122,7 @@ poll payment statuses)</c>
 	<string>
 		<id>reschedule_webhost_upgrade_task</id>
 		<c>HN Status Action</c>
-		<val>重新安排 Plesk 升级</val>
+		<val>重新安排 智能云主机管理 升级</val>
 	</string>
 	<string>
 		<id>resell_cfg_del_failed</id>
@@ -45693,7 +45693,7 @@ poll payment statuses)</c>
 	</string>
 	<string>
 		<id>retype_root_passwd</id>
-		<val>重新输入Plesk管理员密码</val>
+		<val>重新输入智能云主机管理管理员密码</val>
 	</string>
 	<string>
 		<id>retype_root_pwd</id>
@@ -46837,7 +46837,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sb_node_saved_sync_sheduled</id>
 		<c>SB|Nodes|Edit</c>
-		<val>已成功保存Sitebuilder节点。计划对此节点进行同步。</val>
+		<val>已成功保存建站助手节点。计划对此节点进行同步。</val>
 	</string>
 	<string>
 		<id>sb_node_set_publish_params_error</id>
@@ -47166,12 +47166,12 @@ poll payment statuses)</c>
 	<string>
 		<id>sb_publish_params_webhost_gate_error_info</id>
 		<c>CP|Add Sitebuilder Site||Publish Sitebuilder Site</c>
-		<val>从节点#%hn_id%中检索Plesk站点#%pd_id%的信息时出错。</val>
+		<val>从节点#%hn_id%中检索智能云主机管理站点#%pd_id%的信息时出错。</val>
 	</string>
 	<string>
 		<id>sb_publish_params_webhost_gate_not_inited</id>
 		<c>CP|Add Sitebuilder Site||Publish Sitebuilder Site</c>
-		<val>节点#%hn_id%的Plesk网关尚未初始化。</val>
+		<val>节点#%hn_id%的智能云主机管理网关尚未初始化。</val>
 	</string>
 	<string>
 		<id>sb_publish_screen_banner</id>
@@ -47611,7 +47611,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sb_upgrade_message_change_sbplan</id>
 		<c>Upgrade Center Sitebuilder actions</c>
-		<val>警告！以下英华自助建站助手站点将升级到另一个Sitebuilder方案：%sites_change%。在此情况下您可能无法使用一些组件和模板，因为在新的英华自助建站助手方案中不存在。</val>
+		<val>警告！以下英华自助建站助手站点将升级到另一个建站助手方案：%sites_change%。在此情况下您可能无法使用一些组件和模板，因为在新的英华自助建站助手方案中不存在。</val>
 	</string>
 	<string>
 		<id>sb_upgrade_message_delete_sites</id>
@@ -47711,7 +47711,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sbg_doc_explained</id>
 		<c>Documentation page</c>
-		<val>下边的文档是介绍了基于英华智能云平台 - 标准版控制面板，客户可完成的操作。Plesk站点管理的说明不包含在本文档中，请参考另外的文档。</val>
+		<val>下边的文档是介绍了基于英华智能云平台 - 标准版控制面板，客户可完成的操作。智能云主机管理站点管理的说明不包含在本文档中，请参考另外的文档。</val>
 	</string>
 	<string>
 		<id>sbg_doc_title</id>
@@ -49836,7 +49836,7 @@ poll payment statuses)</c>
 	<string>
 		<id>siteapps_not_found_on_node</id>
 		<c>BM | webhost</c>
-		<val>Plesk错误。未在下列Plesk节点上找到站点应用程序：%siteapps%。</val>
+		<val>智能云主机管理错误。未在下列智能云主机管理节点上找到站点应用程序：%siteapps%。</val>
 	</string>
 	<string>
 		<id>sites</id>
@@ -50036,12 +50036,12 @@ poll payment statuses)</c>
 	<string>
 		<id>slm_disabled_status_title</id>
 		<c>SLM status title</c>
-		<val>SLM资源管理(禁用SLM配置硬件节点和重起Parallels VPS Containers)</val>
+		<val>SLM资源管理(禁用SLM配置硬件节点和重起英华VPS虚拟化平台)</val>
 	</string>
 	<string>
 		<id>slm_enabled_status_title</id>
 		<c>SLM status title</c>
-		<val>SLM资源管理(禁用SLM配置硬件节点和重起Parallels VPS Containers)</val>
+		<val>SLM资源管理(禁用SLM配置硬件节点和重起英华VPS虚拟化平台)</val>
 	</string>
 	<string>
 		<id>slm_mode_change_alert</id>
@@ -50191,7 +50191,7 @@ poll payment statuses)</c>
 	<string>
 		<id>sm_skin_customization_cancelled</id>
 		<c>Skin Management | Status message</c>
-		<val>Plesk 16x16图标</val>
+		<val>智能云主机管理 16x16图标</val>
 	</string>
 	<string>
 		<id>sm_skin_graphic</id>
@@ -51536,7 +51536,7 @@ poll payment statuses)</c>
 	<string>
 		<id>ssl_plugin_product_list</id>
 		<c>SSL Plugin product overview</c>
-		<val>Plesk</val>
+		<val>智能云主机管理</val>
 	</string>
 	<string>
 		<id>ssl_plugin_title</id>
@@ -52013,7 +52013,7 @@ poll payment statuses)</c>
 	</string>
 	<string>
 		<id>ssl_webhost</id>
-		<val>Plesk</val>
+		<val>智能云主机管理</val>
 	</string>
 	<string>
 		<id>ssl_weblogic</id>
@@ -53791,12 +53791,12 @@ poll payment statuses)</c>
 	<string>
 		<id>synchronize_ve_uc</id>
 		<c>Office|Billing|Synchronize VPS Container</c>
-		<val>同步Plesk客户</val>
+		<val>同步智能云主机管理客户</val>
 	</string>
 	<string>
 		<id>synchronize_webhost_client</id>
 		<c>Billing</c>
-		<val>同步Plesk站点</val>
+		<val>同步智能云主机管理站点</val>
 	</string>
 	<string>
 		<id>synchronize_webhost_domain</id>
@@ -54597,12 +54597,12 @@ poll payment statuses)</c>
 	<string>
 		<id>terminate_pc_subscription</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>终止相关plesk客户业务</val>
+		<val>终止相关智能云主机管理客户业务</val>
 	</string>
 	<string>
 		<id>terminate_pd_subscription</id>
 		<c>OD|Infrastructure Manager|webhost Conflict Resolver</c>
-		<val>终止Plesk站点业务</val>
+		<val>终止智能云主机管理站点业务</val>
 	</string>
 	<string>
 		<id>terminated_already</id>
@@ -54847,7 +54847,7 @@ poll payment statuses)</c>
 	<string>
 		<id>there_is_no_hw_node_to_create_ve</id>
 		<c>Status message</c>
-		<val>没有可用的硬件节点，无法创建Plesk站点。</val>
+		<val>没有可用的硬件节点，无法创建智能云主机管理站点。</val>
 	</string>
 	<string>
 		<id>there_is_no_hw_node_to_create_webhost_domain</id>
@@ -54857,12 +54857,12 @@ poll payment statuses)</c>
 	<string>
 		<id>there_is_pcve_on_this_hw_node</id>
 		<c>Error message on webhost HN delete</c>
-		<val>无法删除该硬件节点。有Plesk客户托管在此硬件节点上。您可以先转移Plesk客户到其他的硬件节点然后重试。</val>
+		<val>无法删除该硬件节点。有智能云主机管理客户托管在此硬件节点上。您可以先转移智能云主机管理客户到其他的硬件节点然后重试。</val>
 	</string>
 	<string>
 		<id>there_is_pdve_on_this_hw_node</id>
 		<c>Error message on webhost HN delete</c>
-		<val>无法删除硬件节点。当前有Plesk站点运行在此硬件节点上。您可以先转移Plesk站点到其他的硬件节点，然后重试。</val>
+		<val>无法删除硬件节点。当前有智能云主机管理站点运行在此硬件节点上。您可以先转移智能云主机管理站点到其他的硬件节点，然后重试。</val>
 	</string>
 	<string>
 		<id>there_is_poa_hp_on_this_hw_node</id>
@@ -55027,12 +55027,12 @@ poll payment statuses)</c>
 	<string>
 		<id>ti_pc_not_found</id>
 		<c>Import-Export Manager - traffic import</c>
-		<val>无法找到Plesk客户#%id%。</val>
+		<val>无法找到智能云主机管理客户#%id%。</val>
 	</string>
 	<string>
 		<id>ti_pd_not_found</id>
 		<c>Import-Export Manager - traffic import</c>
-		<val>未找到Plesk域名/网站#%id%。</val>
+		<val>未找到智能云主机管理域名/网站#%id%。</val>
 	</string>
 	<string>
 		<id>ti_ve_not_found</id>
@@ -55932,7 +55932,7 @@ poll payment statuses)</c>
 	<string>
 		<id>total_pa_uc</id>
 		<c>Dashboard</c>
-		<val>Plesk应用程序总数</val>
+		<val>智能云主机管理应用程序总数</val>
 	</string>
 	<string>
 		<id>total_payable_uc</id>
@@ -55942,12 +55942,12 @@ poll payment statuses)</c>
 	<string>
 		<id>total_pc_uc</id>
 		<c>Dashboard items</c>
-		<val>Plesk客户总数</val>
+		<val>智能云主机管理客户总数</val>
 	</string>
 	<string>
 		<id>total_pd_uc</id>
 		<c>Dashboard items</c>
-		<val>Plesk站点总数</val>
+		<val>智能云主机管理站点总数</val>
 	</string>
 	<string>
 		<id>total_pgs_uc</id>
@@ -57555,7 +57555,7 @@ poll payment statuses)</c>
 	<string>
 		<id>unknown_error_occured_while_getting_data_from_webhost_node</id>
 		<c>BM | webhost</c>
-		<val>从plesk节点获取数据时出现未知错误</val>
+		<val>从智能云主机管理节点获取数据时出现未知错误</val>
 	</string>
 	<string>
 		<id>unknown_hostname</id>
@@ -59817,7 +59817,7 @@ poll payment statuses)</c>
 	<string>
 		<id>virt_lic_has_been_installed</id>
 		<c>Office|Event Manager|Events</c>
-		<val>已安装Parallels VPS Containers许可证</val>
+		<val>已安装英华VPS虚拟化平台许可证</val>
 	</string>
 	<string>
 		<id>virtual</id>
@@ -59997,7 +59997,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vps_with_webhost_cant_be_destroyed</id>
 		<c>OD|Infrastructure Manager|Error message</c>
-		<val>删除容器“%hostname%”和相应的Plesk硬件节点发生错误：%error%。</val>
+		<val>删除容器“%hostname%”和相应的智能云主机管理硬件节点发生错误：%error%。</val>
 	</string>
 	<string>
 		<id>vpss_uc</id>
@@ -60017,7 +60017,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vz_app_uc</id>
 		<c>BD | Product Manager | Default Prices</c>
-		<val>Parallels VPS Containers应用程序</val>
+		<val>英华VPS虚拟化平台应用程序</val>
 	</string>
 	<string>
 		<id>vz_hw_registered</id>
@@ -60032,7 +60032,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vz_licenses_uc</id>
 		<c>used by License Manager</c>
-		<val>Parallels VPS Containers 许可证</val>
+		<val>英华VPS虚拟化平台 许可证</val>
 	</string>
 	<string>
 		<id>vz_mgr_uc</id>
@@ -60047,7 +60047,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vz_res_uc</id>
 		<c>BD | Product Manager | Default Prices</c>
-		<val>Parallels VPS Containers资源</val>
+		<val>英华VPS虚拟化平台资源</val>
 	</string>
 	<string>
 		<id>vz_version_uc</id>
@@ -60062,7 +60062,7 @@ poll payment statuses)</c>
 	<string>
 		<id>vz_vps_ps_uc</id>
 		<c>HP type title</c>
-		<val>Plesk虚拟节点</val>
+		<val>智能云主机管理虚拟节点</val>
 	</string>
 	<string>
 		<id>vz_vps_uc</id>
@@ -60122,7 +60122,7 @@ poll payment statuses)</c>
 	<string>
 		<id>wacp_psa_conflict_msg</id>
 		<c>HP | Applications | Error message</c>
-		<val>工作组管理员控制面板与Parallels Plesk Control Panel产生冲突。</val>
+		<val>工作组管理员控制面板与英华智能云主机管理控制面板产生冲突。</val>
 	</string>
 	<string>
 		<id>wacp_sacp</id>
@@ -60532,12 +60532,12 @@ poll payment statuses)</c>
 	<string>
 		<id>webhost_acc_help</id>
 		<c>Shop|Login step|Explaination string</c>
-		<val>请输入管理员的登录名和密码将用于登录到虚拟主机提供商的Parallels控制面板和执行其他管理任务。</val>
+		<val>请输入管理员的登录名和密码将用于登录到虚拟主机提供商的英华虚拟主机控制面板和执行其他管理任务。</val>
 	</string>
 	<string>
 		<id>webhost_acc_pwd_help</id>
 		<c>Shop|Login step|Explaination string</c>
-		<val>请输入密码将用于登录到虚拟主机提供商的Parallels控制面板和执行其他管理任务。</val>
+		<val>请输入密码将用于登录到虚拟主机提供商的英华虚拟主机控制面板和执行其他管理任务。</val>
 	</string>
 	<string>
 		<id>webhost_account_passwd</id>
@@ -60697,7 +60697,7 @@ poll payment statuses)</c>
 	<string>
 		<id>webhost_doc_explained</id>
 		<c>Documentation page</c>
-		<val>该网站托管原手册适用于谁购买的虚拟主机提供商托管的的Parallels业务自动化计划的客户 - 标准的网上商店。</val>
+		<val>该虚拟主机操作手册适用于在英华智能商业系统－标准版在线商城上购买了虚拟主机托管计划的客户。</val>
 	</string>
 	<string>
 		<id>webhost_doc_title</id>
@@ -62032,7 +62032,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_have_poa_templates_to_create_hp</id>
 		<c>BM|Hosting Plans|Mesage</c>
-		<val>您应该至少有一个安装了Plesk的专用硬件节点，才能创建您自己的主机方案。</val>
+		<val>您应该至少有一个安装了智能云主机管理的专用硬件节点，才能创建您自己的主机方案。</val>
 	</string>
 	<string>
 		<id>you_should_have_vz_nodes_to_create_hp</id>
@@ -62042,7 +62042,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_have_webhost_nodes_to_create_hp</id>
 		<c>BM|Hosting Plans|Mesage</c>
-		<val>您应该至少有一个安装了Parallels VPS Containers的专用硬件节点，才能创建您自己的主机方案。</val>
+		<val>您应该至少有一个安装了英华VPS虚拟化平台的专用硬件节点，才能创建您自己的主机方案。</val>
 	</string>
 	<string>
 		<id>you_should_sel_hp</id>
@@ -62106,7 +62106,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_specify_at_least_one_group_for_paid_ves</id>
 		<c>error message on setup page in Infrastructure Manager</c>
-		<val>您应为非试用 Plesk 域名指定至少一个节点组。</val>
+		<val>您应为非试用 智能云主机管理 域名指定至少一个节点组。</val>
 	</string>
 	<string>
 		<id>you_should_specify_at_least_one_group_for_paid_webhosts</id>
@@ -62116,7 +62116,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_specify_at_least_one_group_for_trial_ves</id>
 		<c>error message on setup page in Infrastructure Manager</c>
-		<val>您应为试用 Plesk 域名指定至少一个节点组。</val>
+		<val>您应为试用 智能云主机管理 域名指定至少一个节点组。</val>
 	</string>
 	<string>
 		<id>you_should_specify_at_least_one_group_for_trial_webhosts</id>
@@ -62131,7 +62131,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_specify_at_least_one_hw_node_for_paid_ves</id>
 		<c>error message on setup page in Infrastructure Manager</c>
-		<val>您应当至少指定一个硬件节点用于非试用的Plesk站点。</val>
+		<val>您应当至少指定一个硬件节点用于非试用的智能云主机管理站点。</val>
 	</string>
 	<string>
 		<id>you_should_specify_at_least_one_hw_node_for_paid_webhosts</id>
@@ -62141,7 +62141,7 @@ poll payment statuses)</c>
 	<string>
 		<id>you_should_specify_at_least_one_hw_node_for_trial_ves</id>
 		<c>error message on setup page in Infrastructure Manager</c>
-		<val>您应当至少指定一个硬件节点用于试用的Plesk站点。</val>
+		<val>您应当至少指定一个硬件节点用于试用的智能云主机管理站点。</val>
 	</string>
 	<string>
 		<id>you_should_specify_at_least_one_hw_node_for_trial_webhosts</id>
